@@ -2,8 +2,14 @@ The 365 Data Challenge Project
 Name: Le Luu
 
 Goal for this challenge: analyze an attraction of a database on student engagement and identify key areas of improvement.
-•	There are 39.19% of students purchased monthly subscriptions while most of the Annual subscription purchases. The quarterly purchase takes a small percentage. In terms of purchase type, U.S is the country that has over 300 purchases. It shows that the U.S is a good market for learning courses online. The other countries don’t have many purchases as in the U.S. I think we can consider developing the marketing, opening more courses with diverse languages in subtitles such as in India, Nigeria, and Singapore. Those are markets that have some purchases of 365 data science courses.
-•	From the beginning of the year 2022 until October 2022, most students registered for the Introduction to Data and Data Science course and some basic courses for the Data Science path. The number of students who enrolled for higher courses is not much. The basic courses usually take about 4 hours or less to watch the full course while the higher courses usually take about over 6 hours. It could affect the motivation of students while learning online. Depending on the background and the time of each student, the student will consider choosing the course to take. 
+•	There are 39.19% of students purchased monthly subscriptions while most of the Annual subscription purchases. The quarterly purchase takes a small percentage. In terms of purchase type, U.S is the country that has over 300 purchases. 
+It shows that the U.S is a good market for learning courses online. The other countries don’t have many purchases as in the U.S. 
+I think we can consider developing the marketing, opening more courses with diverse languages in subtitles such as in India, Nigeria, and Singapore. 
+Those are markets that have some purchases of 365 data science courses.
+•	From the beginning of the year 2022 until October 2022, most students registered for the Introduction to Data and Data Science course and some basic courses for the Data Science path. 
+The number of students who enrolled for higher courses is not much. The basic courses usually take about 4 hours or less to watch the full course while the higher courses usually take about over 6 hours. 
+It could affect the motivation of students while learning online. 
+Depending on the background and the time of each student, the student will consider choosing the course to take. 
 •	Overall, most courses have a high rating number (over 4.2/5). Data-Driven Business Growth has the lowest rating. 
 That course also has the smallest number of students registered. It should be an outlier because not many students rated for the course. 
 In terms of enrolling in the course, students could take some courses too high if they haven’t taken the requisite courses. 
