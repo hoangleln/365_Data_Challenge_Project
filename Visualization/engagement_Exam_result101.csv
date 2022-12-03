@@ -1,0 +1,1001 @@
+student_id,exam_result,course_id,course_title,engagement_quizzes,engagement_exams,engagement_lessons
+258803,83,19,"SQL + Tableau + Python",1,0,1
+258803,83,19,"SQL + Tableau + Python",1,0,1
+258803,83,19,"SQL + Tableau + Python",1,0,1
+258803,83,19,"SQL + Tableau + Python",1,0,1
+258803,83,19,"SQL + Tableau + Python",1,0,1
+258803,83,19,"SQL + Tableau + Python",1,0,1
+258803,83,19,"SQL + Tableau + Python",1,0,1
+258803,83,19,"SQL + Tableau + Python",1,0,1
+258803,83,19,"SQL + Tableau + Python",1,0,1
+258803,83,19,"SQL + Tableau + Python",1,0,1
+258803,83,19,"SQL + Tableau + Python",1,0,1
+258803,83,19,"SQL + Tableau + Python",1,0,1
+258803,83,19,"SQL + Tableau + Python",1,0,1
+258803,83,19,"SQL + Tableau + Python",1,0,1
+258803,83,19,"SQL + Tableau + Python",1,0,1
+258803,83,19,"SQL + Tableau + Python",1,0,1
+258803,83,19,"SQL + Tableau + Python",1,0,1
+258803,83,19,"SQL + Tableau + Python",1,0,1
+258803,83,19,"SQL + Tableau + Python",1,0,1
+258803,83,19,"SQL + Tableau + Python",1,0,1
+258803,83,16,"Python Programmer Bootcamp",1,0,1
+258803,83,16,"Python Programmer Bootcamp",1,0,1
+258803,83,16,"Python Programmer Bootcamp",1,0,1
+258803,83,16,"Python Programmer Bootcamp",1,0,1
+258803,83,14,SQL,1,0,1
+258803,83,14,SQL,1,0,1
+258803,83,14,SQL,1,0,1
+258803,83,14,SQL,1,0,1
+258803,83,14,SQL,1,0,1
+258803,83,14,SQL,1,0,1
+258803,83,14,SQL,1,0,1
+258803,83,14,SQL,1,0,1
+258803,83,14,SQL,1,0,1
+258803,83,14,SQL,1,0,1
+258803,83,14,SQL,1,0,1
+258803,83,14,SQL,1,0,1
+258803,83,14,SQL,1,0,1
+258803,83,14,SQL,1,0,1
+258803,83,14,SQL,1,0,1
+258803,83,14,SQL,1,0,1
+258803,83,14,SQL,1,0,1
+258803,83,14,SQL,1,0,1
+258803,83,14,SQL,1,0,1
+258803,83,14,SQL,1,0,1
+258803,83,14,SQL,1,0,1
+258803,83,14,SQL,1,0,1
+258803,83,14,SQL,1,0,1
+258803,83,14,SQL,1,0,1
+258803,83,14,SQL,1,0,1
+258803,83,14,SQL,1,0,1
+258803,83,14,SQL,1,0,1
+258803,83,14,SQL,1,0,1
+258803,83,14,SQL,1,0,1
+258803,83,14,SQL,1,0,1
+258803,83,14,SQL,1,0,1
+258803,83,14,SQL,1,0,1
+258803,83,14,SQL,1,0,1
+258803,83,14,SQL,1,0,1
+258803,83,14,SQL,1,0,1
+258803,83,14,SQL,1,0,1
+258803,83,14,SQL,1,0,1
+258803,83,14,SQL,1,0,1
+258803,83,14,SQL,1,0,1
+258803,83,14,SQL,1,0,1
+258803,83,14,SQL,1,0,1
+258803,83,14,SQL,1,0,1
+258803,83,14,SQL,1,0,1
+258803,83,14,SQL,1,0,1
+258803,83,14,SQL,1,0,1
+258803,83,14,SQL,1,0,1
+258803,83,14,SQL,1,0,1
+258803,83,14,SQL,1,0,1
+258803,83,14,SQL,1,0,1
+258803,83,14,SQL,1,0,1
+258803,83,14,SQL,1,0,1
+258803,83,14,SQL,1,0,1
+258822,0,7,"Introduction to Data and Data Science",1,0,1
+258822,0,7,"Introduction to Data and Data Science",1,0,1
+258822,0,7,"Introduction to Data and Data Science",1,0,1
+258822,0,21,Statistics,1,0,1
+258822,0,21,Statistics,1,0,1
+258822,0,21,Statistics,1,0,1
+258822,0,21,Statistics,1,0,1
+258822,0,21,Statistics,1,0,1
+258822,0,21,Statistics,1,0,1
+258822,0,21,Statistics,1,0,1
+258822,0,21,Statistics,1,0,1
+258822,0,21,Statistics,1,0,1
+258822,0,21,Statistics,1,0,1
+258822,0,21,Statistics,1,0,1
+258822,0,21,Statistics,1,0,1
+258822,0,21,Statistics,1,0,1
+258822,0,21,Statistics,1,0,1
+258822,0,21,Statistics,1,0,1
+258822,0,21,Statistics,1,0,1
+258822,0,21,Statistics,1,0,1
+258822,0,21,Statistics,1,0,1
+258822,0,21,Statistics,1,0,1
+258822,0,21,Statistics,1,0,1
+258822,0,21,Statistics,1,0,1
+258822,0,21,Statistics,1,0,1
+258822,0,21,Statistics,1,0,1
+258822,0,21,Statistics,1,0,1
+258822,0,21,Statistics,1,0,1
+258822,0,21,Statistics,1,0,1
+258822,0,21,Statistics,1,0,1
+258822,0,16,"Python Programmer Bootcamp",1,0,1
+258822,0,16,"Python Programmer Bootcamp",1,0,1
+258822,0,16,"Python Programmer Bootcamp",1,0,1
+258822,0,16,"Python Programmer Bootcamp",1,0,1
+258822,0,16,"Python Programmer Bootcamp",1,0,1
+258822,0,16,"Python Programmer Bootcamp",1,0,1
+258822,0,7,"Introduction to Data and Data Science",1,0,1
+258822,0,7,"Introduction to Data and Data Science",1,0,1
+258822,0,7,"Introduction to Data and Data Science",1,0,1
+258822,0,7,"Introduction to Data and Data Science",1,0,1
+258822,0,7,"Introduction to Data and Data Science",1,0,1
+258822,0,7,"Introduction to Data and Data Science",1,0,1
+258822,0,5,"Data Preprocessing with NumPy",1,0,1
+258822,0,5,"Data Preprocessing with NumPy",1,0,1
+258822,0,5,"Data Preprocessing with NumPy",1,0,1
+258862,50,24,Probability,1,0,1
+258862,50,24,Probability,1,0,1
+258862,50,24,Probability,1,0,1
+258862,50,24,Probability,1,0,1
+258862,50,24,Probability,1,0,1
+258862,50,24,Probability,1,0,1
+258862,50,24,Probability,1,0,1
+258862,50,24,Probability,1,0,1
+258862,50,24,Probability,1,0,1
+258862,50,24,Probability,1,0,1
+258862,50,24,Probability,1,0,1
+258862,50,24,Probability,1,0,1
+258862,50,24,Probability,1,0,1
+258862,50,24,Probability,1,0,1
+258862,50,24,Probability,1,0,1
+258862,50,24,Probability,1,0,1
+258862,50,24,Probability,1,0,1
+258862,50,24,Probability,1,0,1
+258862,50,24,Probability,1,0,1
+258862,50,24,Probability,1,0,1
+258862,50,24,Probability,1,0,1
+258862,50,24,Probability,1,0,1
+258862,50,24,Probability,1,0,1
+258862,50,24,Probability,1,0,1
+258862,50,24,Probability,1,0,1
+258862,50,24,Probability,1,0,1
+258862,50,24,Probability,1,0,1
+258862,50,24,Probability,1,0,1
+258862,50,24,Probability,1,0,1
+258862,50,24,Probability,1,0,1
+258862,50,24,Probability,1,0,1
+258862,50,24,Probability,1,0,1
+258862,50,24,Probability,1,0,1
+258862,50,24,Probability,1,0,1
+258862,50,24,Probability,1,0,1
+258862,50,21,Statistics,1,0,1
+258862,50,21,Statistics,1,0,1
+258862,50,21,Statistics,1,0,1
+258862,50,21,Statistics,1,0,1
+258862,50,21,Statistics,1,0,1
+258862,50,21,Statistics,1,0,1
+258862,50,21,Statistics,1,0,1
+258862,50,21,Statistics,1,0,1
+258862,50,21,Statistics,1,0,1
+258862,50,21,Statistics,1,0,1
+258862,50,21,Statistics,1,0,1
+258862,50,21,Statistics,1,0,1
+258862,50,21,Statistics,1,0,1
+258862,50,21,Statistics,1,0,1
+258862,50,21,Statistics,1,0,1
+258862,50,21,Statistics,1,0,1
+258862,50,21,Statistics,1,0,1
+258862,50,21,Statistics,1,0,1
+258862,50,21,Statistics,1,0,1
+258862,50,21,Statistics,1,0,1
+258862,50,21,Statistics,1,0,1
+258862,50,21,Statistics,1,0,1
+258862,50,21,Statistics,1,0,1
+258862,50,21,Statistics,1,0,1
+258862,50,21,Statistics,1,0,1
+258862,50,21,Statistics,1,0,1
+258862,50,21,Statistics,1,0,1
+258862,50,21,Statistics,1,0,1
+258862,50,21,Statistics,1,0,1
+258862,50,21,Statistics,1,0,1
+258862,50,21,Statistics,1,0,1
+258862,50,21,Statistics,1,0,1
+258862,50,21,Statistics,1,0,1
+258862,50,21,Statistics,1,0,1
+258862,50,21,Statistics,1,0,1
+258862,50,21,Statistics,1,0,1
+258862,50,21,Statistics,1,0,1
+258862,50,21,Statistics,1,0,1
+258862,50,21,Statistics,1,0,1
+258862,50,21,Statistics,1,0,1
+258862,50,21,Statistics,1,0,1
+258862,50,21,Statistics,1,0,1
+258862,50,21,Statistics,1,0,1
+258862,50,21,Statistics,1,0,1
+258862,50,21,Statistics,1,0,1
+258862,50,21,Statistics,1,0,1
+258862,50,21,Statistics,1,0,1
+258862,50,21,Statistics,1,0,1
+258862,50,21,Statistics,1,0,1
+258862,50,21,Statistics,1,0,1
+258862,50,21,Statistics,1,0,1
+258862,50,21,Statistics,1,0,1
+258862,50,21,Statistics,1,0,1
+258862,50,21,Statistics,1,0,1
+258862,50,21,Statistics,1,0,1
+258862,50,21,Statistics,1,0,1
+258862,50,21,Statistics,1,0,1
+258862,50,21,Statistics,1,0,1
+258862,50,21,Statistics,1,0,1
+258862,50,21,Statistics,1,0,1
+258862,50,7,"Introduction to Data and Data Science",1,0,1
+258862,50,7,"Introduction to Data and Data Science",1,0,1
+258862,50,7,"Introduction to Data and Data Science",1,0,1
+258862,50,7,"Introduction to Data and Data Science",1,0,1
+258862,50,7,"Introduction to Data and Data Science",1,0,1
+258862,50,7,"Introduction to Data and Data Science",1,0,1
+258862,50,7,"Introduction to Data and Data Science",1,0,1
+258862,50,7,"Introduction to Data and Data Science",1,0,1
+258862,50,7,"Introduction to Data and Data Science",1,0,1
+258862,50,7,"Introduction to Data and Data Science",1,0,1
+258862,50,24,Probability,1,0,1
+258862,50,24,Probability,1,0,1
+258862,50,24,Probability,1,0,1
+258862,50,24,Probability,1,0,1
+258862,50,24,Probability,1,0,1
+258862,50,24,Probability,1,0,1
+258862,50,24,Probability,1,0,1
+258862,50,24,Probability,1,0,1
+258862,50,24,Probability,1,0,1
+258862,50,24,Probability,1,0,1
+258862,50,24,Probability,1,0,1
+258862,50,24,Probability,1,0,1
+258862,50,24,Probability,1,0,1
+258862,50,24,Probability,1,0,1
+258862,50,24,Probability,1,0,1
+258862,50,24,Probability,1,0,1
+258862,50,24,Probability,1,0,1
+258862,50,24,Probability,1,0,1
+258862,50,24,Probability,1,0,1
+258862,50,24,Probability,1,0,1
+258862,50,24,Probability,1,0,1
+258862,50,24,Probability,1,0,1
+258862,50,24,Probability,1,0,1
+258862,50,24,Probability,1,0,1
+258862,50,24,Probability,1,0,1
+258862,50,24,Probability,1,0,1
+258862,50,24,Probability,1,0,1
+258862,50,24,Probability,1,0,1
+258862,50,24,Probability,1,0,1
+258862,50,24,Probability,1,0,1
+258862,50,24,Probability,1,0,1
+258862,50,24,Probability,1,0,1
+258862,50,24,Probability,1,0,1
+258862,50,24,Probability,1,0,1
+258862,50,24,Probability,1,0,1
+258862,50,21,Statistics,1,0,1
+258862,50,21,Statistics,1,0,1
+258862,50,21,Statistics,1,0,1
+258862,50,21,Statistics,1,0,1
+258862,50,21,Statistics,1,0,1
+258862,50,21,Statistics,1,0,1
+258862,50,21,Statistics,1,0,1
+258862,50,21,Statistics,1,0,1
+258862,50,21,Statistics,1,0,1
+258862,50,21,Statistics,1,0,1
+258862,50,21,Statistics,1,0,1
+258862,50,21,Statistics,1,0,1
+258862,50,21,Statistics,1,0,1
+258862,50,21,Statistics,1,0,1
+258862,50,21,Statistics,1,0,1
+258862,50,21,Statistics,1,0,1
+258862,50,21,Statistics,1,0,1
+258862,50,21,Statistics,1,0,1
+258862,50,21,Statistics,1,0,1
+258862,50,21,Statistics,1,0,1
+258862,50,21,Statistics,1,0,1
+258862,50,21,Statistics,1,0,1
+258862,50,21,Statistics,1,0,1
+258862,50,21,Statistics,1,0,1
+258862,50,21,Statistics,1,0,1
+258862,50,21,Statistics,1,0,1
+258862,50,21,Statistics,1,0,1
+258862,50,21,Statistics,1,0,1
+258862,50,21,Statistics,1,0,1
+258862,50,21,Statistics,1,0,1
+258862,50,21,Statistics,1,0,1
+258862,50,21,Statistics,1,0,1
+258862,50,21,Statistics,1,0,1
+258862,50,21,Statistics,1,0,1
+258862,50,21,Statistics,1,0,1
+258862,50,21,Statistics,1,0,1
+258862,50,21,Statistics,1,0,1
+258862,50,21,Statistics,1,0,1
+258862,50,21,Statistics,1,0,1
+258862,50,21,Statistics,1,0,1
+258862,50,21,Statistics,1,0,1
+258862,50,21,Statistics,1,0,1
+258862,50,21,Statistics,1,0,1
+258862,50,21,Statistics,1,0,1
+258862,50,21,Statistics,1,0,1
+258862,50,21,Statistics,1,0,1
+258862,50,21,Statistics,1,0,1
+258862,50,21,Statistics,1,0,1
+258862,50,21,Statistics,1,0,1
+258862,50,21,Statistics,1,0,1
+258862,50,21,Statistics,1,0,1
+258862,50,21,Statistics,1,0,1
+258862,50,21,Statistics,1,0,1
+258862,50,21,Statistics,1,0,1
+258862,50,21,Statistics,1,0,1
+258862,50,21,Statistics,1,0,1
+258862,50,21,Statistics,1,0,1
+258862,50,21,Statistics,1,0,1
+258862,50,21,Statistics,1,0,1
+258862,50,21,Statistics,1,0,1
+258862,50,7,"Introduction to Data and Data Science",1,0,1
+258862,50,7,"Introduction to Data and Data Science",1,0,1
+258862,50,7,"Introduction to Data and Data Science",1,0,1
+258862,50,7,"Introduction to Data and Data Science",1,0,1
+258862,50,7,"Introduction to Data and Data Science",1,0,1
+258862,50,7,"Introduction to Data and Data Science",1,0,1
+258862,50,7,"Introduction to Data and Data Science",1,0,1
+258862,50,7,"Introduction to Data and Data Science",1,0,1
+258862,50,7,"Introduction to Data and Data Science",1,0,1
+258862,50,7,"Introduction to Data and Data Science",1,0,1
+258862,50,24,Probability,1,0,1
+258862,50,24,Probability,1,0,1
+258862,50,24,Probability,1,0,1
+258862,50,24,Probability,1,0,1
+258862,50,24,Probability,1,0,1
+258862,50,24,Probability,1,0,1
+258862,50,24,Probability,1,0,1
+258862,50,24,Probability,1,0,1
+258862,50,24,Probability,1,0,1
+258862,50,24,Probability,1,0,1
+258862,50,24,Probability,1,0,1
+258862,50,24,Probability,1,0,1
+258862,50,24,Probability,1,0,1
+258862,50,24,Probability,1,0,1
+258862,50,24,Probability,1,0,1
+258862,50,24,Probability,1,0,1
+258862,50,24,Probability,1,0,1
+258862,50,24,Probability,1,0,1
+258862,50,24,Probability,1,0,1
+258862,50,24,Probability,1,0,1
+258862,50,24,Probability,1,0,1
+258862,50,24,Probability,1,0,1
+258862,50,24,Probability,1,0,1
+258862,50,24,Probability,1,0,1
+258862,50,24,Probability,1,0,1
+258862,50,24,Probability,1,0,1
+258862,50,24,Probability,1,0,1
+258862,50,24,Probability,1,0,1
+258862,50,24,Probability,1,0,1
+258862,50,24,Probability,1,0,1
+258862,50,24,Probability,1,0,1
+258862,50,24,Probability,1,0,1
+258862,50,24,Probability,1,0,1
+258862,50,24,Probability,1,0,1
+258862,50,24,Probability,1,0,1
+258862,50,21,Statistics,1,0,1
+258862,50,21,Statistics,1,0,1
+258862,50,21,Statistics,1,0,1
+258862,50,21,Statistics,1,0,1
+258862,50,21,Statistics,1,0,1
+258862,50,21,Statistics,1,0,1
+258862,50,21,Statistics,1,0,1
+258862,50,21,Statistics,1,0,1
+258862,50,21,Statistics,1,0,1
+258862,50,21,Statistics,1,0,1
+258862,50,21,Statistics,1,0,1
+258862,50,21,Statistics,1,0,1
+258862,50,21,Statistics,1,0,1
+258862,50,21,Statistics,1,0,1
+258862,50,21,Statistics,1,0,1
+258862,50,21,Statistics,1,0,1
+258862,50,21,Statistics,1,0,1
+258862,50,21,Statistics,1,0,1
+258862,50,21,Statistics,1,0,1
+258862,50,21,Statistics,1,0,1
+258862,50,21,Statistics,1,0,1
+258862,50,21,Statistics,1,0,1
+258862,50,21,Statistics,1,0,1
+258862,50,21,Statistics,1,0,1
+258862,50,21,Statistics,1,0,1
+258862,50,21,Statistics,1,0,1
+258862,50,21,Statistics,1,0,1
+258862,50,21,Statistics,1,0,1
+258862,50,21,Statistics,1,0,1
+258862,50,21,Statistics,1,0,1
+258862,50,21,Statistics,1,0,1
+258862,50,21,Statistics,1,0,1
+258862,50,21,Statistics,1,0,1
+258862,50,21,Statistics,1,0,1
+258862,50,21,Statistics,1,0,1
+258862,50,21,Statistics,1,0,1
+258862,50,21,Statistics,1,0,1
+258862,50,21,Statistics,1,0,1
+258862,50,21,Statistics,1,0,1
+258862,50,21,Statistics,1,0,1
+258862,50,21,Statistics,1,0,1
+258862,50,21,Statistics,1,0,1
+258862,50,21,Statistics,1,0,1
+258862,50,21,Statistics,1,0,1
+258862,50,21,Statistics,1,0,1
+258862,50,21,Statistics,1,0,1
+258862,50,21,Statistics,1,0,1
+258862,50,21,Statistics,1,0,1
+258862,50,21,Statistics,1,0,1
+258862,50,21,Statistics,1,0,1
+258862,50,21,Statistics,1,0,1
+258862,50,21,Statistics,1,0,1
+258862,50,21,Statistics,1,0,1
+258862,50,21,Statistics,1,0,1
+258862,50,21,Statistics,1,0,1
+258862,50,21,Statistics,1,0,1
+258862,50,21,Statistics,1,0,1
+258862,50,21,Statistics,1,0,1
+258862,50,21,Statistics,1,0,1
+258862,50,21,Statistics,1,0,1
+258862,50,7,"Introduction to Data and Data Science",1,0,1
+258862,50,7,"Introduction to Data and Data Science",1,0,1
+258862,50,7,"Introduction to Data and Data Science",1,0,1
+258862,50,7,"Introduction to Data and Data Science",1,0,1
+258862,50,7,"Introduction to Data and Data Science",1,0,1
+258862,50,7,"Introduction to Data and Data Science",1,0,1
+258862,50,7,"Introduction to Data and Data Science",1,0,1
+258862,50,7,"Introduction to Data and Data Science",1,0,1
+258862,50,7,"Introduction to Data and Data Science",1,0,1
+258862,50,7,"Introduction to Data and Data Science",1,0,1
+258862,100,24,Probability,1,0,1
+258862,100,24,Probability,1,0,1
+258862,100,24,Probability,1,0,1
+258862,100,24,Probability,1,0,1
+258862,100,24,Probability,1,0,1
+258862,100,24,Probability,1,0,1
+258862,100,24,Probability,1,0,1
+258862,100,24,Probability,1,0,1
+258862,100,24,Probability,1,0,1
+258862,100,24,Probability,1,0,1
+258862,100,24,Probability,1,0,1
+258862,100,24,Probability,1,0,1
+258862,100,24,Probability,1,0,1
+258862,100,24,Probability,1,0,1
+258862,100,24,Probability,1,0,1
+258862,100,24,Probability,1,0,1
+258862,100,24,Probability,1,0,1
+258862,100,24,Probability,1,0,1
+258862,100,24,Probability,1,0,1
+258862,100,24,Probability,1,0,1
+258862,100,24,Probability,1,0,1
+258862,100,24,Probability,1,0,1
+258862,100,24,Probability,1,0,1
+258862,100,24,Probability,1,0,1
+258862,100,24,Probability,1,0,1
+258862,100,24,Probability,1,0,1
+258862,100,24,Probability,1,0,1
+258862,100,24,Probability,1,0,1
+258862,100,24,Probability,1,0,1
+258862,100,24,Probability,1,0,1
+258862,100,24,Probability,1,0,1
+258862,100,24,Probability,1,0,1
+258862,100,24,Probability,1,0,1
+258862,100,24,Probability,1,0,1
+258862,100,24,Probability,1,0,1
+258862,100,21,Statistics,1,0,1
+258862,100,21,Statistics,1,0,1
+258862,100,21,Statistics,1,0,1
+258862,100,21,Statistics,1,0,1
+258862,100,21,Statistics,1,0,1
+258862,100,21,Statistics,1,0,1
+258862,100,21,Statistics,1,0,1
+258862,100,21,Statistics,1,0,1
+258862,100,21,Statistics,1,0,1
+258862,100,21,Statistics,1,0,1
+258862,100,21,Statistics,1,0,1
+258862,100,21,Statistics,1,0,1
+258862,100,21,Statistics,1,0,1
+258862,100,21,Statistics,1,0,1
+258862,100,21,Statistics,1,0,1
+258862,100,21,Statistics,1,0,1
+258862,100,21,Statistics,1,0,1
+258862,100,21,Statistics,1,0,1
+258862,100,21,Statistics,1,0,1
+258862,100,21,Statistics,1,0,1
+258862,100,21,Statistics,1,0,1
+258862,100,21,Statistics,1,0,1
+258862,100,21,Statistics,1,0,1
+258862,100,21,Statistics,1,0,1
+258862,100,21,Statistics,1,0,1
+258862,100,21,Statistics,1,0,1
+258862,100,21,Statistics,1,0,1
+258862,100,21,Statistics,1,0,1
+258862,100,21,Statistics,1,0,1
+258862,100,21,Statistics,1,0,1
+258862,100,21,Statistics,1,0,1
+258862,100,21,Statistics,1,0,1
+258862,100,21,Statistics,1,0,1
+258862,100,21,Statistics,1,0,1
+258862,100,21,Statistics,1,0,1
+258862,100,21,Statistics,1,0,1
+258862,100,21,Statistics,1,0,1
+258862,100,21,Statistics,1,0,1
+258862,100,21,Statistics,1,0,1
+258862,100,21,Statistics,1,0,1
+258862,100,21,Statistics,1,0,1
+258862,100,21,Statistics,1,0,1
+258862,100,21,Statistics,1,0,1
+258862,100,21,Statistics,1,0,1
+258862,100,21,Statistics,1,0,1
+258862,100,21,Statistics,1,0,1
+258862,100,21,Statistics,1,0,1
+258862,100,21,Statistics,1,0,1
+258862,100,21,Statistics,1,0,1
+258862,100,21,Statistics,1,0,1
+258862,100,21,Statistics,1,0,1
+258862,100,21,Statistics,1,0,1
+258862,100,21,Statistics,1,0,1
+258862,100,21,Statistics,1,0,1
+258862,100,21,Statistics,1,0,1
+258862,100,21,Statistics,1,0,1
+258862,100,21,Statistics,1,0,1
+258862,100,21,Statistics,1,0,1
+258862,100,21,Statistics,1,0,1
+258862,100,21,Statistics,1,0,1
+258862,100,7,"Introduction to Data and Data Science",1,0,1
+258862,100,7,"Introduction to Data and Data Science",1,0,1
+258862,100,7,"Introduction to Data and Data Science",1,0,1
+258862,100,7,"Introduction to Data and Data Science",1,0,1
+258862,100,7,"Introduction to Data and Data Science",1,0,1
+258862,100,7,"Introduction to Data and Data Science",1,0,1
+258862,100,7,"Introduction to Data and Data Science",1,0,1
+258862,100,7,"Introduction to Data and Data Science",1,0,1
+258862,100,7,"Introduction to Data and Data Science",1,0,1
+258862,100,7,"Introduction to Data and Data Science",1,0,1
+258803,100,19,"SQL + Tableau + Python",1,0,1
+258803,100,19,"SQL + Tableau + Python",1,0,1
+258803,100,19,"SQL + Tableau + Python",1,0,1
+258803,100,19,"SQL + Tableau + Python",1,0,1
+258803,100,19,"SQL + Tableau + Python",1,0,1
+258803,100,19,"SQL + Tableau + Python",1,0,1
+258803,100,19,"SQL + Tableau + Python",1,0,1
+258803,100,19,"SQL + Tableau + Python",1,0,1
+258803,100,19,"SQL + Tableau + Python",1,0,1
+258803,100,19,"SQL + Tableau + Python",1,0,1
+258803,100,19,"SQL + Tableau + Python",1,0,1
+258803,100,19,"SQL + Tableau + Python",1,0,1
+258803,100,19,"SQL + Tableau + Python",1,0,1
+258803,100,19,"SQL + Tableau + Python",1,0,1
+258803,100,19,"SQL + Tableau + Python",1,0,1
+258803,100,19,"SQL + Tableau + Python",1,0,1
+258803,100,19,"SQL + Tableau + Python",1,0,1
+258803,100,19,"SQL + Tableau + Python",1,0,1
+258803,100,19,"SQL + Tableau + Python",1,0,1
+258803,100,19,"SQL + Tableau + Python",1,0,1
+258803,100,16,"Python Programmer Bootcamp",1,0,1
+258803,100,16,"Python Programmer Bootcamp",1,0,1
+258803,100,16,"Python Programmer Bootcamp",1,0,1
+258803,100,16,"Python Programmer Bootcamp",1,0,1
+258803,100,14,SQL,1,0,1
+258803,100,14,SQL,1,0,1
+258803,100,14,SQL,1,0,1
+258803,100,14,SQL,1,0,1
+258803,100,14,SQL,1,0,1
+258803,100,14,SQL,1,0,1
+258803,100,14,SQL,1,0,1
+258803,100,14,SQL,1,0,1
+258803,100,14,SQL,1,0,1
+258803,100,14,SQL,1,0,1
+258803,100,14,SQL,1,0,1
+258803,100,14,SQL,1,0,1
+258803,100,14,SQL,1,0,1
+258803,100,14,SQL,1,0,1
+258803,100,14,SQL,1,0,1
+258803,100,14,SQL,1,0,1
+258803,100,14,SQL,1,0,1
+258803,100,14,SQL,1,0,1
+258803,100,14,SQL,1,0,1
+258803,100,14,SQL,1,0,1
+258803,100,14,SQL,1,0,1
+258803,100,14,SQL,1,0,1
+258803,100,14,SQL,1,0,1
+258803,100,14,SQL,1,0,1
+258803,100,14,SQL,1,0,1
+258803,100,14,SQL,1,0,1
+258803,100,14,SQL,1,0,1
+258803,100,14,SQL,1,0,1
+258803,100,14,SQL,1,0,1
+258803,100,14,SQL,1,0,1
+258803,100,14,SQL,1,0,1
+258803,100,14,SQL,1,0,1
+258803,100,14,SQL,1,0,1
+258803,100,14,SQL,1,0,1
+258803,100,14,SQL,1,0,1
+258803,100,14,SQL,1,0,1
+258803,100,14,SQL,1,0,1
+258803,100,14,SQL,1,0,1
+258803,100,14,SQL,1,0,1
+258803,100,14,SQL,1,0,1
+258803,100,14,SQL,1,0,1
+258803,100,14,SQL,1,0,1
+258803,100,14,SQL,1,0,1
+258803,100,14,SQL,1,0,1
+258803,100,14,SQL,1,0,1
+258803,100,14,SQL,1,0,1
+258803,100,14,SQL,1,0,1
+258803,100,14,SQL,1,0,1
+258803,100,14,SQL,1,0,1
+258803,100,14,SQL,1,0,1
+258803,100,14,SQL,1,0,1
+258803,100,14,SQL,1,0,1
+258878,67,21,Statistics,1,0,1
+258878,67,7,"Introduction to Data and Data Science",1,0,1
+258862,83,24,Probability,1,0,1
+258862,83,24,Probability,1,0,1
+258862,83,24,Probability,1,0,1
+258862,83,24,Probability,1,0,1
+258862,83,24,Probability,1,0,1
+258862,83,24,Probability,1,0,1
+258862,83,24,Probability,1,0,1
+258862,83,24,Probability,1,0,1
+258862,83,24,Probability,1,0,1
+258862,83,24,Probability,1,0,1
+258862,83,24,Probability,1,0,1
+258862,83,24,Probability,1,0,1
+258862,83,24,Probability,1,0,1
+258862,83,24,Probability,1,0,1
+258862,83,24,Probability,1,0,1
+258862,83,24,Probability,1,0,1
+258862,83,24,Probability,1,0,1
+258862,83,24,Probability,1,0,1
+258862,83,24,Probability,1,0,1
+258862,83,24,Probability,1,0,1
+258862,83,24,Probability,1,0,1
+258862,83,24,Probability,1,0,1
+258862,83,24,Probability,1,0,1
+258862,83,24,Probability,1,0,1
+258862,83,24,Probability,1,0,1
+258862,83,24,Probability,1,0,1
+258862,83,24,Probability,1,0,1
+258862,83,24,Probability,1,0,1
+258862,83,24,Probability,1,0,1
+258862,83,24,Probability,1,0,1
+258862,83,24,Probability,1,0,1
+258862,83,24,Probability,1,0,1
+258862,83,24,Probability,1,0,1
+258862,83,24,Probability,1,0,1
+258862,83,24,Probability,1,0,1
+258862,83,21,Statistics,1,0,1
+258862,83,21,Statistics,1,0,1
+258862,83,21,Statistics,1,0,1
+258862,83,21,Statistics,1,0,1
+258862,83,21,Statistics,1,0,1
+258862,83,21,Statistics,1,0,1
+258862,83,21,Statistics,1,0,1
+258862,83,21,Statistics,1,0,1
+258862,83,21,Statistics,1,0,1
+258862,83,21,Statistics,1,0,1
+258862,83,21,Statistics,1,0,1
+258862,83,21,Statistics,1,0,1
+258862,83,21,Statistics,1,0,1
+258862,83,21,Statistics,1,0,1
+258862,83,21,Statistics,1,0,1
+258862,83,21,Statistics,1,0,1
+258862,83,21,Statistics,1,0,1
+258862,83,21,Statistics,1,0,1
+258862,83,21,Statistics,1,0,1
+258862,83,21,Statistics,1,0,1
+258862,83,21,Statistics,1,0,1
+258862,83,21,Statistics,1,0,1
+258862,83,21,Statistics,1,0,1
+258862,83,21,Statistics,1,0,1
+258862,83,21,Statistics,1,0,1
+258862,83,21,Statistics,1,0,1
+258862,83,21,Statistics,1,0,1
+258862,83,21,Statistics,1,0,1
+258862,83,21,Statistics,1,0,1
+258862,83,21,Statistics,1,0,1
+258862,83,21,Statistics,1,0,1
+258862,83,21,Statistics,1,0,1
+258862,83,21,Statistics,1,0,1
+258862,83,21,Statistics,1,0,1
+258862,83,21,Statistics,1,0,1
+258862,83,21,Statistics,1,0,1
+258862,83,21,Statistics,1,0,1
+258862,83,21,Statistics,1,0,1
+258862,83,21,Statistics,1,0,1
+258862,83,21,Statistics,1,0,1
+258862,83,21,Statistics,1,0,1
+258862,83,21,Statistics,1,0,1
+258862,83,21,Statistics,1,0,1
+258862,83,21,Statistics,1,0,1
+258862,83,21,Statistics,1,0,1
+258862,83,21,Statistics,1,0,1
+258862,83,21,Statistics,1,0,1
+258862,83,21,Statistics,1,0,1
+258862,83,21,Statistics,1,0,1
+258862,83,21,Statistics,1,0,1
+258862,83,21,Statistics,1,0,1
+258862,83,21,Statistics,1,0,1
+258862,83,21,Statistics,1,0,1
+258862,83,21,Statistics,1,0,1
+258862,83,21,Statistics,1,0,1
+258862,83,21,Statistics,1,0,1
+258862,83,21,Statistics,1,0,1
+258862,83,21,Statistics,1,0,1
+258862,83,21,Statistics,1,0,1
+258862,83,21,Statistics,1,0,1
+258862,83,7,"Introduction to Data and Data Science",1,0,1
+258862,83,7,"Introduction to Data and Data Science",1,0,1
+258862,83,7,"Introduction to Data and Data Science",1,0,1
+258862,83,7,"Introduction to Data and Data Science",1,0,1
+258862,83,7,"Introduction to Data and Data Science",1,0,1
+258862,83,7,"Introduction to Data and Data Science",1,0,1
+258862,83,7,"Introduction to Data and Data Science",1,0,1
+258862,83,7,"Introduction to Data and Data Science",1,0,1
+258862,83,7,"Introduction to Data and Data Science",1,0,1
+258862,83,7,"Introduction to Data and Data Science",1,0,1
+258862,67,24,Probability,1,0,1
+258862,67,24,Probability,1,0,1
+258862,67,24,Probability,1,0,1
+258862,67,24,Probability,1,0,1
+258862,67,24,Probability,1,0,1
+258862,67,24,Probability,1,0,1
+258862,67,24,Probability,1,0,1
+258862,67,24,Probability,1,0,1
+258862,67,24,Probability,1,0,1
+258862,67,24,Probability,1,0,1
+258862,67,24,Probability,1,0,1
+258862,67,24,Probability,1,0,1
+258862,67,24,Probability,1,0,1
+258862,67,24,Probability,1,0,1
+258862,67,24,Probability,1,0,1
+258862,67,24,Probability,1,0,1
+258862,67,24,Probability,1,0,1
+258862,67,24,Probability,1,0,1
+258862,67,24,Probability,1,0,1
+258862,67,24,Probability,1,0,1
+258862,67,24,Probability,1,0,1
+258862,67,24,Probability,1,0,1
+258862,67,24,Probability,1,0,1
+258862,67,24,Probability,1,0,1
+258862,67,24,Probability,1,0,1
+258862,67,24,Probability,1,0,1
+258862,67,24,Probability,1,0,1
+258862,67,24,Probability,1,0,1
+258862,67,24,Probability,1,0,1
+258862,67,24,Probability,1,0,1
+258862,67,24,Probability,1,0,1
+258862,67,24,Probability,1,0,1
+258862,67,24,Probability,1,0,1
+258862,67,24,Probability,1,0,1
+258862,67,24,Probability,1,0,1
+258862,67,21,Statistics,1,0,1
+258862,67,21,Statistics,1,0,1
+258862,67,21,Statistics,1,0,1
+258862,67,21,Statistics,1,0,1
+258862,67,21,Statistics,1,0,1
+258862,67,21,Statistics,1,0,1
+258862,67,21,Statistics,1,0,1
+258862,67,21,Statistics,1,0,1
+258862,67,21,Statistics,1,0,1
+258862,67,21,Statistics,1,0,1
+258862,67,21,Statistics,1,0,1
+258862,67,21,Statistics,1,0,1
+258862,67,21,Statistics,1,0,1
+258862,67,21,Statistics,1,0,1
+258862,67,21,Statistics,1,0,1
+258862,67,21,Statistics,1,0,1
+258862,67,21,Statistics,1,0,1
+258862,67,21,Statistics,1,0,1
+258862,67,21,Statistics,1,0,1
+258862,67,21,Statistics,1,0,1
+258862,67,21,Statistics,1,0,1
+258862,67,21,Statistics,1,0,1
+258862,67,21,Statistics,1,0,1
+258862,67,21,Statistics,1,0,1
+258862,67,21,Statistics,1,0,1
+258862,67,21,Statistics,1,0,1
+258862,67,21,Statistics,1,0,1
+258862,67,21,Statistics,1,0,1
+258862,67,21,Statistics,1,0,1
+258862,67,21,Statistics,1,0,1
+258862,67,21,Statistics,1,0,1
+258862,67,21,Statistics,1,0,1
+258862,67,21,Statistics,1,0,1
+258862,67,21,Statistics,1,0,1
+258862,67,21,Statistics,1,0,1
+258862,67,21,Statistics,1,0,1
+258862,67,21,Statistics,1,0,1
+258862,67,21,Statistics,1,0,1
+258862,67,21,Statistics,1,0,1
+258862,67,21,Statistics,1,0,1
+258862,67,21,Statistics,1,0,1
+258862,67,21,Statistics,1,0,1
+258862,67,21,Statistics,1,0,1
+258862,67,21,Statistics,1,0,1
+258862,67,21,Statistics,1,0,1
+258862,67,21,Statistics,1,0,1
+258862,67,21,Statistics,1,0,1
+258862,67,21,Statistics,1,0,1
+258862,67,21,Statistics,1,0,1
+258862,67,21,Statistics,1,0,1
+258862,67,21,Statistics,1,0,1
+258862,67,21,Statistics,1,0,1
+258862,67,21,Statistics,1,0,1
+258862,67,21,Statistics,1,0,1
+258862,67,21,Statistics,1,0,1
+258862,67,21,Statistics,1,0,1
+258862,67,21,Statistics,1,0,1
+258862,67,21,Statistics,1,0,1
+258862,67,21,Statistics,1,0,1
+258862,67,21,Statistics,1,0,1
+258862,67,7,"Introduction to Data and Data Science",1,0,1
+258862,67,7,"Introduction to Data and Data Science",1,0,1
+258862,67,7,"Introduction to Data and Data Science",1,0,1
+258862,67,7,"Introduction to Data and Data Science",1,0,1
+258862,67,7,"Introduction to Data and Data Science",1,0,1
+258862,67,7,"Introduction to Data and Data Science",1,0,1
+258862,67,7,"Introduction to Data and Data Science",1,0,1
+258862,67,7,"Introduction to Data and Data Science",1,0,1
+258862,67,7,"Introduction to Data and Data Science",1,0,1
+258862,67,7,"Introduction to Data and Data Science",1,0,1
+258878,67,21,Statistics,1,0,1
+258878,67,7,"Introduction to Data and Data Science",1,0,1
+258878,58,21,Statistics,1,0,1
+258878,58,7,"Introduction to Data and Data Science",1,0,1
+258971,50,7,"Introduction to Data and Data Science",1,0,1
+258971,50,7,"Introduction to Data and Data Science",1,0,1
+258971,50,7,"Introduction to Data and Data Science",1,0,1
+258971,50,7,"Introduction to Data and Data Science",1,0,1
+258971,50,7,"Introduction to Data and Data Science",1,0,1
+258971,50,7,"Introduction to Data and Data Science",1,0,1
+258971,50,7,"Introduction to Data and Data Science",1,0,1
+258971,50,7,"Introduction to Data and Data Science",1,0,1
+258971,50,7,"Introduction to Data and Data Science",1,0,1
+258971,50,22,Mathematics,1,0,1
+258971,50,22,Mathematics,1,0,1
+258971,50,22,Mathematics,1,0,1
+258971,50,22,Mathematics,1,0,1
+258971,50,22,Mathematics,1,0,1
+258971,50,22,Mathematics,1,0,1
+258971,50,22,Mathematics,1,0,1
+258971,50,22,Mathematics,1,0,1
+258971,50,22,Mathematics,1,0,1
+258971,50,21,Statistics,1,0,1
+258971,50,21,Statistics,1,0,1
+258971,50,21,Statistics,1,0,1
+258971,50,21,Statistics,1,0,1
+258971,50,21,Statistics,1,0,1
+258971,50,21,Statistics,1,0,1
+258971,50,21,Statistics,1,0,1
+258971,50,21,Statistics,1,0,1
+258971,50,21,Statistics,1,0,1
+258971,50,21,Statistics,1,0,1
+258971,50,21,Statistics,1,0,1
+258971,50,21,Statistics,1,0,1
+258971,50,21,Statistics,1,0,1
+258971,50,21,Statistics,1,0,1
+258971,50,21,Statistics,1,0,1
+258971,50,21,Statistics,1,0,1
+258971,50,21,Statistics,1,0,1
+258971,50,21,Statistics,1,0,1
+258971,50,21,Statistics,1,0,1
+258971,50,21,Statistics,1,0,1
+258971,50,21,Statistics,1,0,1
+258971,50,21,Statistics,1,0,1
+258971,50,21,Statistics,1,0,1
+258971,50,21,Statistics,1,0,1
+258971,50,21,Statistics,1,0,1
+258971,50,21,Statistics,1,0,1
+258971,50,21,Statistics,1,0,1
+258971,50,21,Statistics,1,0,1
+258971,50,21,Statistics,1,0,1
+258971,50,21,Statistics,1,0,1
+258971,50,21,Statistics,1,0,1
+258971,50,21,Statistics,1,0,1
+258971,50,21,Statistics,1,0,1
+258971,50,21,Statistics,1,0,1
+258971,50,21,Statistics,1,0,1
+258971,50,21,Statistics,1,0,1
+258971,50,21,Statistics,1,0,1
+258971,50,21,Statistics,1,0,1
+258971,50,21,Statistics,1,0,1
+258971,50,21,Statistics,1,0,1
+258971,50,21,Statistics,1,0,1
+258971,50,21,Statistics,1,0,1
+258971,50,21,Statistics,1,0,1
+258971,50,21,Statistics,1,0,1
+258971,50,21,Statistics,1,0,1
+258971,50,20,"Introduction to Jupyter",1,0,1
+258971,50,20,"Introduction to Jupyter",1,0,1
+258971,50,20,"Introduction to Jupyter",1,0,1
+258971,50,20,"Introduction to Jupyter",1,0,1
+258971,50,20,"Introduction to Jupyter",1,0,1
+258971,50,20,"Introduction to Jupyter",1,0,1
+258971,50,20,"Introduction to Jupyter",1,0,1
+258971,50,20,"Introduction to Jupyter",1,0,1
+258971,50,20,"Introduction to Jupyter",1,0,1
+258971,50,20,"Introduction to Jupyter",1,0,1
+258971,50,20,"Introduction to Jupyter",1,0,1
+258971,50,20,"Introduction to Jupyter",1,0,1
+258971,50,20,"Introduction to Jupyter",1,0,1
+258971,50,20,"Introduction to Jupyter",1,0,1
+258971,50,20,"Introduction to Jupyter",1,0,1
+258971,50,20,"Introduction to Jupyter",1,0,1
+258971,50,20,"Introduction to Jupyter",1,0,1
+258971,50,20,"Introduction to Jupyter",1,0,1
+258971,50,14,SQL,1,0,1
+258971,50,14,SQL,1,0,1
+258971,50,14,SQL,1,0,1
+258971,50,14,SQL,1,0,1
+258971,50,14,SQL,1,0,1
+258971,50,14,SQL,1,0,1
+258971,50,14,SQL,1,0,1
+258971,50,14,SQL,1,0,1
+258971,50,14,SQL,1,0,1
+258971,50,14,SQL,1,0,1
+258971,50,14,SQL,1,0,1
+258971,50,14,SQL,1,0,1
+258971,50,14,SQL,1,0,1
+258971,50,14,SQL,1,0,1
+258971,50,14,SQL,1,0,1
+258971,50,14,SQL,1,0,1
+258971,50,14,SQL,1,0,1
+258971,50,14,SQL,1,0,1
+258971,50,14,SQL,1,0,1
+258971,50,14,SQL,1,0,1
+258971,50,14,SQL,1,0,1
+258971,50,14,SQL,1,0,1
+258971,50,14,SQL,1,0,1
+258971,50,14,SQL,1,0,1
+258971,50,14,SQL,1,0,1
+258971,50,14,SQL,1,0,1
+258971,50,14,SQL,1,0,1
+258971,50,14,SQL,1,0,1
+258971,50,14,SQL,1,0,1
+258971,50,14,SQL,1,0,1
+258971,50,14,SQL,1,0,1
+258971,50,14,SQL,1,0,1
+258971,50,14,SQL,1,0,1
+258971,50,14,SQL,1,0,1
+258971,50,14,SQL,1,0,1
+258971,50,14,SQL,1,0,1
+258971,50,14,SQL,1,0,1
+258971,50,14,SQL,1,0,1
+258971,50,14,SQL,1,0,1
+258971,50,14,SQL,1,0,1
+258971,50,14,SQL,1,0,1
+258971,50,14,SQL,1,0,1
+258971,50,14,SQL,1,0,1
+258971,50,14,SQL,1,0,1
+258971,50,14,SQL,1,0,1
+258971,50,7,"Introduction to Data and Data Science",1,0,1
+258971,50,7,"Introduction to Data and Data Science",1,0,1
+258971,50,7,"Introduction to Data and Data Science",1,0,1
+258971,50,7,"Introduction to Data and Data Science",1,0,1
+258971,50,7,"Introduction to Data and Data Science",1,0,1
+258971,50,7,"Introduction to Data and Data Science",1,0,1
+258971,50,7,"Introduction to Data and Data Science",1,0,1
+258971,50,7,"Introduction to Data and Data Science",1,0,1
+258971,50,7,"Introduction to Data and Data Science",1,0,1
+258971,50,7,"Introduction to Data and Data Science",1,0,1
+258971,50,7,"Introduction to Data and Data Science",1,0,1
+258971,50,7,"Introduction to Data and Data Science",1,0,1
+258971,50,7,"Introduction to Data and Data Science",1,0,1
+258971,50,7,"Introduction to Data and Data Science",1,0,1
+258971,50,7,"Introduction to Data and Data Science",1,0,1
+258971,50,7,"Introduction to Data and Data Science",1,0,1
+258971,50,7,"Introduction to Data and Data Science",1,0,1
+258971,50,7,"Introduction to Data and Data Science",1,0,1
+258971,50,7,"Introduction to Data and Data Science",1,0,1
+258971,50,7,"Introduction to Data and Data Science",1,0,1
+258971,50,7,"Introduction to Data and Data Science",1,0,1
+258971,50,7,"Introduction to Data and Data Science",1,0,1
+258971,50,7,"Introduction to Data and Data Science",1,0,1
+258971,50,7,"Introduction to Data and Data Science",1,0,1
+258971,50,7,"Introduction to Data and Data Science",1,0,1
+258971,50,7,"Introduction to Data and Data Science",1,0,1
+258971,50,7,"Introduction to Data and Data Science",1,0,1
+258971,50,7,"Introduction to Data and Data Science",1,0,1
+258971,50,7,"Introduction to Data and Data Science",1,0,1
+258971,50,7,"Introduction to Data and Data Science",1,0,1
+258971,50,7,"Introduction to Data and Data Science",1,0,1
+258971,50,7,"Introduction to Data and Data Science",1,0,1
+258971,50,7,"Introduction to Data and Data Science",1,0,1
+258971,50,7,"Introduction to Data and Data Science",1,0,1
+258971,50,7,"Introduction to Data and Data Science",1,0,1
+258971,50,7,"Introduction to Data and Data Science",1,0,1
+258971,50,7,"Introduction to Data and Data Science",1,0,1
+258971,50,7,"Introduction to Data and Data Science",1,0,1
+258971,50,7,"Introduction to Data and Data Science",1,0,1
+258971,50,7,"Introduction to Data and Data Science",1,0,1
+258971,50,7,"Introduction to Data and Data Science",1,0,1

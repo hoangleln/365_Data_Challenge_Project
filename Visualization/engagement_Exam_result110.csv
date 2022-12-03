@@ -1,0 +1,1001 @@
+student_id,exam_result,course_id,course_title,engagement_quizzes,engagement_exams,engagement_lessons
+260572,67,7,"Introduction to Data and Data Science",1,1,0
+260572,67,7,"Introduction to Data and Data Science",1,1,0
+260572,67,7,"Introduction to Data and Data Science",1,1,0
+260572,67,7,"Introduction to Data and Data Science",1,1,0
+260572,67,37,"Machine Learning in Python",1,1,0
+260572,67,37,"Machine Learning in Python",1,1,0
+260572,67,37,"Machine Learning in Python",1,1,0
+260572,67,37,"Machine Learning in Python",1,1,0
+260572,67,37,"Machine Learning in Python",1,1,0
+260572,67,37,"Machine Learning in Python",1,1,0
+260572,67,37,"Machine Learning in Python",1,1,0
+260572,67,37,"Machine Learning in Python",1,1,0
+260572,67,32,"Deep Learning with TensorFlow 2",1,1,0
+260572,67,32,"Deep Learning with TensorFlow 2",1,1,0
+260572,67,32,"Deep Learning with TensorFlow 2",1,1,0
+260572,67,32,"Deep Learning with TensorFlow 2",1,1,0
+260572,67,32,"Deep Learning with TensorFlow 2",1,1,0
+260572,67,32,"Deep Learning with TensorFlow 2",1,1,0
+260572,67,32,"Deep Learning with TensorFlow 2",1,1,0
+260572,67,32,"Deep Learning with TensorFlow 2",1,1,0
+260572,67,32,"Deep Learning with TensorFlow 2",1,1,0
+260572,67,32,"Deep Learning with TensorFlow 2",1,1,0
+260572,67,30,"Git and GitHub",1,1,0
+260572,67,30,"Git and GitHub",1,1,0
+260572,67,22,Mathematics,1,1,0
+260572,67,22,Mathematics,1,1,0
+260572,67,22,Mathematics,1,1,0
+260572,67,22,Mathematics,1,1,0
+260572,67,21,Statistics,1,1,0
+260572,67,21,Statistics,1,1,0
+260572,67,21,Statistics,1,1,0
+260572,67,21,Statistics,1,1,0
+260572,67,21,Statistics,1,1,0
+260572,67,21,Statistics,1,1,0
+260572,67,21,Statistics,1,1,0
+260572,67,21,Statistics,1,1,0
+260572,67,21,Statistics,1,1,0
+260572,67,21,Statistics,1,1,0
+260572,67,21,Statistics,1,1,0
+260572,67,21,Statistics,1,1,0
+260572,67,21,Statistics,1,1,0
+260572,67,21,Statistics,1,1,0
+260572,67,21,Statistics,1,1,0
+260572,67,21,Statistics,1,1,0
+260572,67,21,Statistics,1,1,0
+260572,67,21,Statistics,1,1,0
+260572,67,21,Statistics,1,1,0
+260572,67,21,Statistics,1,1,0
+260572,67,21,Statistics,1,1,0
+260572,67,21,Statistics,1,1,0
+260572,67,16,"Python Programmer Bootcamp",1,1,0
+260572,67,16,"Python Programmer Bootcamp",1,1,0
+260572,67,16,"Python Programmer Bootcamp",1,1,0
+260572,67,16,"Python Programmer Bootcamp",1,1,0
+260572,67,16,"Python Programmer Bootcamp",1,1,0
+260572,67,16,"Python Programmer Bootcamp",1,1,0
+260572,67,16,"Python Programmer Bootcamp",1,1,0
+260572,67,16,"Python Programmer Bootcamp",1,1,0
+260572,67,16,"Python Programmer Bootcamp",1,1,0
+260572,67,16,"Python Programmer Bootcamp",1,1,0
+260572,67,16,"Python Programmer Bootcamp",1,1,0
+260572,67,16,"Python Programmer Bootcamp",1,1,0
+260572,67,16,"Python Programmer Bootcamp",1,1,0
+260572,67,16,"Python Programmer Bootcamp",1,1,0
+260572,67,16,"Python Programmer Bootcamp",1,1,0
+260572,67,16,"Python Programmer Bootcamp",1,1,0
+260572,67,16,"Python Programmer Bootcamp",1,1,0
+260572,67,16,"Python Programmer Bootcamp",1,1,0
+260572,67,14,SQL,1,1,0
+260572,67,14,SQL,1,1,0
+260572,67,14,SQL,1,1,0
+260572,67,14,SQL,1,1,0
+260572,67,7,"Introduction to Data and Data Science",1,1,0
+260572,67,7,"Introduction to Data and Data Science",1,1,0
+260572,67,7,"Introduction to Data and Data Science",1,1,0
+260572,67,7,"Introduction to Data and Data Science",1,1,0
+260572,67,7,"Introduction to Data and Data Science",1,1,0
+260572,67,7,"Introduction to Data and Data Science",1,1,0
+260572,100,7,"Introduction to Data and Data Science",1,1,0
+260572,100,7,"Introduction to Data and Data Science",1,1,0
+260572,100,7,"Introduction to Data and Data Science",1,1,0
+260572,100,7,"Introduction to Data and Data Science",1,1,0
+260572,100,37,"Machine Learning in Python",1,1,0
+260572,100,37,"Machine Learning in Python",1,1,0
+260572,100,37,"Machine Learning in Python",1,1,0
+260572,100,37,"Machine Learning in Python",1,1,0
+260572,100,37,"Machine Learning in Python",1,1,0
+260572,100,37,"Machine Learning in Python",1,1,0
+260572,100,37,"Machine Learning in Python",1,1,0
+260572,100,37,"Machine Learning in Python",1,1,0
+260572,100,32,"Deep Learning with TensorFlow 2",1,1,0
+260572,100,32,"Deep Learning with TensorFlow 2",1,1,0
+260572,100,32,"Deep Learning with TensorFlow 2",1,1,0
+260572,100,32,"Deep Learning with TensorFlow 2",1,1,0
+260572,100,32,"Deep Learning with TensorFlow 2",1,1,0
+260572,100,32,"Deep Learning with TensorFlow 2",1,1,0
+260572,100,32,"Deep Learning with TensorFlow 2",1,1,0
+260572,100,32,"Deep Learning with TensorFlow 2",1,1,0
+260572,100,32,"Deep Learning with TensorFlow 2",1,1,0
+260572,100,32,"Deep Learning with TensorFlow 2",1,1,0
+260572,100,30,"Git and GitHub",1,1,0
+260572,100,30,"Git and GitHub",1,1,0
+260572,100,22,Mathematics,1,1,0
+260572,100,22,Mathematics,1,1,0
+260572,100,22,Mathematics,1,1,0
+260572,100,22,Mathematics,1,1,0
+260572,100,21,Statistics,1,1,0
+260572,100,21,Statistics,1,1,0
+260572,100,21,Statistics,1,1,0
+260572,100,21,Statistics,1,1,0
+260572,100,21,Statistics,1,1,0
+260572,100,21,Statistics,1,1,0
+260572,100,21,Statistics,1,1,0
+260572,100,21,Statistics,1,1,0
+260572,100,21,Statistics,1,1,0
+260572,100,21,Statistics,1,1,0
+260572,100,21,Statistics,1,1,0
+260572,100,21,Statistics,1,1,0
+260572,100,21,Statistics,1,1,0
+260572,100,21,Statistics,1,1,0
+260572,100,21,Statistics,1,1,0
+260572,100,21,Statistics,1,1,0
+260572,100,21,Statistics,1,1,0
+260572,100,21,Statistics,1,1,0
+260572,100,21,Statistics,1,1,0
+260572,100,21,Statistics,1,1,0
+260572,100,21,Statistics,1,1,0
+260572,100,21,Statistics,1,1,0
+260572,100,16,"Python Programmer Bootcamp",1,1,0
+260572,100,16,"Python Programmer Bootcamp",1,1,0
+260572,100,16,"Python Programmer Bootcamp",1,1,0
+260572,100,16,"Python Programmer Bootcamp",1,1,0
+260572,100,16,"Python Programmer Bootcamp",1,1,0
+260572,100,16,"Python Programmer Bootcamp",1,1,0
+260572,100,16,"Python Programmer Bootcamp",1,1,0
+260572,100,16,"Python Programmer Bootcamp",1,1,0
+260572,100,16,"Python Programmer Bootcamp",1,1,0
+260572,100,16,"Python Programmer Bootcamp",1,1,0
+260572,100,16,"Python Programmer Bootcamp",1,1,0
+260572,100,16,"Python Programmer Bootcamp",1,1,0
+260572,100,16,"Python Programmer Bootcamp",1,1,0
+260572,100,16,"Python Programmer Bootcamp",1,1,0
+260572,100,16,"Python Programmer Bootcamp",1,1,0
+260572,100,16,"Python Programmer Bootcamp",1,1,0
+260572,100,16,"Python Programmer Bootcamp",1,1,0
+260572,100,16,"Python Programmer Bootcamp",1,1,0
+260572,100,14,SQL,1,1,0
+260572,100,14,SQL,1,1,0
+260572,100,14,SQL,1,1,0
+260572,100,14,SQL,1,1,0
+260572,100,7,"Introduction to Data and Data Science",1,1,0
+260572,100,7,"Introduction to Data and Data Science",1,1,0
+260572,100,7,"Introduction to Data and Data Science",1,1,0
+260572,100,7,"Introduction to Data and Data Science",1,1,0
+260572,100,7,"Introduction to Data and Data Science",1,1,0
+260572,100,7,"Introduction to Data and Data Science",1,1,0
+261170,50,23,"Introduction to Excel",1,1,0
+261170,50,7,"Introduction to Data and Data Science",1,1,0
+261170,100,23,"Introduction to Excel",1,1,0
+261170,100,7,"Introduction to Data and Data Science",1,1,0
+261170,50,23,"Introduction to Excel",1,1,0
+261170,50,7,"Introduction to Data and Data Science",1,1,0
+261170,100,23,"Introduction to Excel",1,1,0
+261170,100,7,"Introduction to Data and Data Science",1,1,0
+261785,50,46,"Data Literacy",1,1,0
+261785,50,46,"Data Literacy",1,1,0
+261785,50,46,"Data Literacy",1,1,0
+261785,50,45,"SQL for Data Science Interviews",1,1,0
+261785,50,45,"SQL for Data Science Interviews",1,1,0
+261785,50,45,"SQL for Data Science Interviews",1,1,0
+261785,50,45,"SQL for Data Science Interviews",1,1,0
+261785,50,42,"Data Strategy",1,1,0
+261785,50,42,"Data Strategy",1,1,0
+261785,50,42,"Data Strategy",1,1,0
+261785,50,42,"Data Strategy",1,1,0
+261785,50,7,"Introduction to Data and Data Science",1,1,0
+261785,50,39,"Advanced Microsoft Excel",1,1,0
+261785,50,39,"Advanced Microsoft Excel",1,1,0
+261785,50,28,"Power BI",1,1,0
+261785,50,28,"Power BI",1,1,0
+261785,50,28,"Power BI",1,1,0
+261785,50,28,"Power BI",1,1,0
+261785,50,28,"Power BI",1,1,0
+261785,50,28,"Power BI",1,1,0
+261785,50,28,"Power BI",1,1,0
+261785,50,28,"Power BI",1,1,0
+261785,50,28,"Power BI",1,1,0
+261785,50,28,"Power BI",1,1,0
+261785,50,28,"Power BI",1,1,0
+261785,50,25,"Starting a Career in Data Science: Project Portfolio, Resume, and Interview Process",1,1,0
+261785,50,25,"Starting a Career in Data Science: Project Portfolio, Resume, and Interview Process",1,1,0
+261785,50,24,Probability,1,1,0
+261785,50,24,Probability,1,1,0
+261785,50,24,Probability,1,1,0
+261785,50,24,Probability,1,1,0
+261785,50,23,"Introduction to Excel",1,1,0
+261785,50,23,"Introduction to Excel",1,1,0
+261785,50,23,"Introduction to Excel",1,1,0
+261785,50,23,"Introduction to Excel",1,1,0
+261785,50,23,"Introduction to Excel",1,1,0
+261785,50,23,"Introduction to Excel",1,1,0
+261785,50,23,"Introduction to Excel",1,1,0
+261785,50,23,"Introduction to Excel",1,1,0
+261785,50,23,"Introduction to Excel",1,1,0
+261785,50,23,"Introduction to Excel",1,1,0
+261785,50,23,"Introduction to Excel",1,1,0
+261785,50,23,"Introduction to Excel",1,1,0
+261785,50,23,"Introduction to Excel",1,1,0
+261785,50,23,"Introduction to Excel",1,1,0
+261785,50,23,"Introduction to Excel",1,1,0
+261785,50,23,"Introduction to Excel",1,1,0
+261785,50,23,"Introduction to Excel",1,1,0
+261785,50,23,"Introduction to Excel",1,1,0
+261785,50,23,"Introduction to Excel",1,1,0
+261785,50,22,Mathematics,1,1,0
+261785,50,21,Statistics,1,1,0
+261785,50,21,Statistics,1,1,0
+261785,50,21,Statistics,1,1,0
+261785,50,21,Statistics,1,1,0
+261785,50,21,Statistics,1,1,0
+261785,50,21,Statistics,1,1,0
+261785,50,21,Statistics,1,1,0
+261785,50,21,Statistics,1,1,0
+261785,50,14,SQL,1,1,0
+261785,50,14,SQL,1,1,0
+261785,50,14,SQL,1,1,0
+261785,50,14,SQL,1,1,0
+261785,50,14,SQL,1,1,0
+261785,50,14,SQL,1,1,0
+261785,50,14,SQL,1,1,0
+261785,50,14,SQL,1,1,0
+261785,50,14,SQL,1,1,0
+261785,50,14,SQL,1,1,0
+261785,50,14,SQL,1,1,0
+261785,50,14,SQL,1,1,0
+261785,50,14,SQL,1,1,0
+261785,50,14,SQL,1,1,0
+261785,50,14,SQL,1,1,0
+261785,50,14,SQL,1,1,0
+261785,50,14,SQL,1,1,0
+261785,50,14,SQL,1,1,0
+261785,50,14,SQL,1,1,0
+261785,50,14,SQL,1,1,0
+261785,50,14,SQL,1,1,0
+261785,50,14,SQL,1,1,0
+261785,50,14,SQL,1,1,0
+261785,50,14,SQL,1,1,0
+261785,50,14,SQL,1,1,0
+261785,50,14,SQL,1,1,0
+261785,50,14,SQL,1,1,0
+261785,50,14,SQL,1,1,0
+261785,50,14,SQL,1,1,0
+261785,50,14,SQL,1,1,0
+261785,50,14,SQL,1,1,0
+261785,50,14,SQL,1,1,0
+261785,50,14,SQL,1,1,0
+261785,50,14,SQL,1,1,0
+261785,50,13,"Data Analysis with Excel Pivot Tables",1,1,0
+261785,50,13,"Data Analysis with Excel Pivot Tables",1,1,0
+261785,50,13,"Data Analysis with Excel Pivot Tables",1,1,0
+261785,50,13,"Data Analysis with Excel Pivot Tables",1,1,0
+261785,50,12,"Introduction to Business Analytics",1,1,0
+261785,50,12,"Introduction to Business Analytics",1,1,0
+261785,50,12,"Introduction to Business Analytics",1,1,0
+261785,50,7,"Introduction to Data and Data Science",1,1,0
+261785,50,7,"Introduction to Data and Data Science",1,1,0
+261785,50,2,"Introduction to Tableau",1,1,0
+261785,50,2,"Introduction to Tableau",1,1,0
+261785,50,2,"Introduction to Tableau",1,1,0
+261785,50,2,"Introduction to Tableau",1,1,0
+261785,50,2,"Introduction to Tableau",1,1,0
+261785,50,2,"Introduction to Tableau",1,1,0
+261785,50,2,"Introduction to Tableau",1,1,0
+261785,50,2,"Introduction to Tableau",1,1,0
+261785,100,46,"Data Literacy",1,1,0
+261785,100,46,"Data Literacy",1,1,0
+261785,100,46,"Data Literacy",1,1,0
+261785,100,45,"SQL for Data Science Interviews",1,1,0
+261785,100,45,"SQL for Data Science Interviews",1,1,0
+261785,100,45,"SQL for Data Science Interviews",1,1,0
+261785,100,45,"SQL for Data Science Interviews",1,1,0
+261785,100,42,"Data Strategy",1,1,0
+261785,100,42,"Data Strategy",1,1,0
+261785,100,42,"Data Strategy",1,1,0
+261785,100,42,"Data Strategy",1,1,0
+261785,100,7,"Introduction to Data and Data Science",1,1,0
+261785,100,39,"Advanced Microsoft Excel",1,1,0
+261785,100,39,"Advanced Microsoft Excel",1,1,0
+261785,100,28,"Power BI",1,1,0
+261785,100,28,"Power BI",1,1,0
+261785,100,28,"Power BI",1,1,0
+261785,100,28,"Power BI",1,1,0
+261785,100,28,"Power BI",1,1,0
+261785,100,28,"Power BI",1,1,0
+261785,100,28,"Power BI",1,1,0
+261785,100,28,"Power BI",1,1,0
+261785,100,28,"Power BI",1,1,0
+261785,100,28,"Power BI",1,1,0
+261785,100,28,"Power BI",1,1,0
+261785,100,25,"Starting a Career in Data Science: Project Portfolio, Resume, and Interview Process",1,1,0
+261785,100,25,"Starting a Career in Data Science: Project Portfolio, Resume, and Interview Process",1,1,0
+261785,100,24,Probability,1,1,0
+261785,100,24,Probability,1,1,0
+261785,100,24,Probability,1,1,0
+261785,100,24,Probability,1,1,0
+261785,100,23,"Introduction to Excel",1,1,0
+261785,100,23,"Introduction to Excel",1,1,0
+261785,100,23,"Introduction to Excel",1,1,0
+261785,100,23,"Introduction to Excel",1,1,0
+261785,100,23,"Introduction to Excel",1,1,0
+261785,100,23,"Introduction to Excel",1,1,0
+261785,100,23,"Introduction to Excel",1,1,0
+261785,100,23,"Introduction to Excel",1,1,0
+261785,100,23,"Introduction to Excel",1,1,0
+261785,100,23,"Introduction to Excel",1,1,0
+261785,100,23,"Introduction to Excel",1,1,0
+261785,100,23,"Introduction to Excel",1,1,0
+261785,100,23,"Introduction to Excel",1,1,0
+261785,100,23,"Introduction to Excel",1,1,0
+261785,100,23,"Introduction to Excel",1,1,0
+261785,100,23,"Introduction to Excel",1,1,0
+261785,100,23,"Introduction to Excel",1,1,0
+261785,100,23,"Introduction to Excel",1,1,0
+261785,100,23,"Introduction to Excel",1,1,0
+261785,100,22,Mathematics,1,1,0
+261785,100,21,Statistics,1,1,0
+261785,100,21,Statistics,1,1,0
+261785,100,21,Statistics,1,1,0
+261785,100,21,Statistics,1,1,0
+261785,100,21,Statistics,1,1,0
+261785,100,21,Statistics,1,1,0
+261785,100,21,Statistics,1,1,0
+261785,100,21,Statistics,1,1,0
+261785,100,14,SQL,1,1,0
+261785,100,14,SQL,1,1,0
+261785,100,14,SQL,1,1,0
+261785,100,14,SQL,1,1,0
+261785,100,14,SQL,1,1,0
+261785,100,14,SQL,1,1,0
+261785,100,14,SQL,1,1,0
+261785,100,14,SQL,1,1,0
+261785,100,14,SQL,1,1,0
+261785,100,14,SQL,1,1,0
+261785,100,14,SQL,1,1,0
+261785,100,14,SQL,1,1,0
+261785,100,14,SQL,1,1,0
+261785,100,14,SQL,1,1,0
+261785,100,14,SQL,1,1,0
+261785,100,14,SQL,1,1,0
+261785,100,14,SQL,1,1,0
+261785,100,14,SQL,1,1,0
+261785,100,14,SQL,1,1,0
+261785,100,14,SQL,1,1,0
+261785,100,14,SQL,1,1,0
+261785,100,14,SQL,1,1,0
+261785,100,14,SQL,1,1,0
+261785,100,14,SQL,1,1,0
+261785,100,14,SQL,1,1,0
+261785,100,14,SQL,1,1,0
+261785,100,14,SQL,1,1,0
+261785,100,14,SQL,1,1,0
+261785,100,14,SQL,1,1,0
+261785,100,14,SQL,1,1,0
+261785,100,14,SQL,1,1,0
+261785,100,14,SQL,1,1,0
+261785,100,14,SQL,1,1,0
+261785,100,14,SQL,1,1,0
+261785,100,13,"Data Analysis with Excel Pivot Tables",1,1,0
+261785,100,13,"Data Analysis with Excel Pivot Tables",1,1,0
+261785,100,13,"Data Analysis with Excel Pivot Tables",1,1,0
+261785,100,13,"Data Analysis with Excel Pivot Tables",1,1,0
+261785,100,12,"Introduction to Business Analytics",1,1,0
+261785,100,12,"Introduction to Business Analytics",1,1,0
+261785,100,12,"Introduction to Business Analytics",1,1,0
+261785,100,7,"Introduction to Data and Data Science",1,1,0
+261785,100,7,"Introduction to Data and Data Science",1,1,0
+261785,100,2,"Introduction to Tableau",1,1,0
+261785,100,2,"Introduction to Tableau",1,1,0
+261785,100,2,"Introduction to Tableau",1,1,0
+261785,100,2,"Introduction to Tableau",1,1,0
+261785,100,2,"Introduction to Tableau",1,1,0
+261785,100,2,"Introduction to Tableau",1,1,0
+261785,100,2,"Introduction to Tableau",1,1,0
+261785,100,2,"Introduction to Tableau",1,1,0
+261785,67,46,"Data Literacy",1,1,0
+261785,67,46,"Data Literacy",1,1,0
+261785,67,46,"Data Literacy",1,1,0
+261785,67,45,"SQL for Data Science Interviews",1,1,0
+261785,67,45,"SQL for Data Science Interviews",1,1,0
+261785,67,45,"SQL for Data Science Interviews",1,1,0
+261785,67,45,"SQL for Data Science Interviews",1,1,0
+261785,67,42,"Data Strategy",1,1,0
+261785,67,42,"Data Strategy",1,1,0
+261785,67,42,"Data Strategy",1,1,0
+261785,67,42,"Data Strategy",1,1,0
+261785,67,7,"Introduction to Data and Data Science",1,1,0
+261785,67,39,"Advanced Microsoft Excel",1,1,0
+261785,67,39,"Advanced Microsoft Excel",1,1,0
+261785,67,28,"Power BI",1,1,0
+261785,67,28,"Power BI",1,1,0
+261785,67,28,"Power BI",1,1,0
+261785,67,28,"Power BI",1,1,0
+261785,67,28,"Power BI",1,1,0
+261785,67,28,"Power BI",1,1,0
+261785,67,28,"Power BI",1,1,0
+261785,67,28,"Power BI",1,1,0
+261785,67,28,"Power BI",1,1,0
+261785,67,28,"Power BI",1,1,0
+261785,67,28,"Power BI",1,1,0
+261785,67,25,"Starting a Career in Data Science: Project Portfolio, Resume, and Interview Process",1,1,0
+261785,67,25,"Starting a Career in Data Science: Project Portfolio, Resume, and Interview Process",1,1,0
+261785,67,24,Probability,1,1,0
+261785,67,24,Probability,1,1,0
+261785,67,24,Probability,1,1,0
+261785,67,24,Probability,1,1,0
+261785,67,23,"Introduction to Excel",1,1,0
+261785,67,23,"Introduction to Excel",1,1,0
+261785,67,23,"Introduction to Excel",1,1,0
+261785,67,23,"Introduction to Excel",1,1,0
+261785,67,23,"Introduction to Excel",1,1,0
+261785,67,23,"Introduction to Excel",1,1,0
+261785,67,23,"Introduction to Excel",1,1,0
+261785,67,23,"Introduction to Excel",1,1,0
+261785,67,23,"Introduction to Excel",1,1,0
+261785,67,23,"Introduction to Excel",1,1,0
+261785,67,23,"Introduction to Excel",1,1,0
+261785,67,23,"Introduction to Excel",1,1,0
+261785,67,23,"Introduction to Excel",1,1,0
+261785,67,23,"Introduction to Excel",1,1,0
+261785,67,23,"Introduction to Excel",1,1,0
+261785,67,23,"Introduction to Excel",1,1,0
+261785,67,23,"Introduction to Excel",1,1,0
+261785,67,23,"Introduction to Excel",1,1,0
+261785,67,23,"Introduction to Excel",1,1,0
+261785,67,22,Mathematics,1,1,0
+261785,67,21,Statistics,1,1,0
+261785,67,21,Statistics,1,1,0
+261785,67,21,Statistics,1,1,0
+261785,67,21,Statistics,1,1,0
+261785,67,21,Statistics,1,1,0
+261785,67,21,Statistics,1,1,0
+261785,67,21,Statistics,1,1,0
+261785,67,21,Statistics,1,1,0
+261785,67,14,SQL,1,1,0
+261785,67,14,SQL,1,1,0
+261785,67,14,SQL,1,1,0
+261785,67,14,SQL,1,1,0
+261785,67,14,SQL,1,1,0
+261785,67,14,SQL,1,1,0
+261785,67,14,SQL,1,1,0
+261785,67,14,SQL,1,1,0
+261785,67,14,SQL,1,1,0
+261785,67,14,SQL,1,1,0
+261785,67,14,SQL,1,1,0
+261785,67,14,SQL,1,1,0
+261785,67,14,SQL,1,1,0
+261785,67,14,SQL,1,1,0
+261785,67,14,SQL,1,1,0
+261785,67,14,SQL,1,1,0
+261785,67,14,SQL,1,1,0
+261785,67,14,SQL,1,1,0
+261785,67,14,SQL,1,1,0
+261785,67,14,SQL,1,1,0
+261785,67,14,SQL,1,1,0
+261785,67,14,SQL,1,1,0
+261785,67,14,SQL,1,1,0
+261785,67,14,SQL,1,1,0
+261785,67,14,SQL,1,1,0
+261785,67,14,SQL,1,1,0
+261785,67,14,SQL,1,1,0
+261785,67,14,SQL,1,1,0
+261785,67,14,SQL,1,1,0
+261785,67,14,SQL,1,1,0
+261785,67,14,SQL,1,1,0
+261785,67,14,SQL,1,1,0
+261785,67,14,SQL,1,1,0
+261785,67,14,SQL,1,1,0
+261785,67,13,"Data Analysis with Excel Pivot Tables",1,1,0
+261785,67,13,"Data Analysis with Excel Pivot Tables",1,1,0
+261785,67,13,"Data Analysis with Excel Pivot Tables",1,1,0
+261785,67,13,"Data Analysis with Excel Pivot Tables",1,1,0
+261785,67,12,"Introduction to Business Analytics",1,1,0
+261785,67,12,"Introduction to Business Analytics",1,1,0
+261785,67,12,"Introduction to Business Analytics",1,1,0
+261785,67,7,"Introduction to Data and Data Science",1,1,0
+261785,67,7,"Introduction to Data and Data Science",1,1,0
+261785,67,2,"Introduction to Tableau",1,1,0
+261785,67,2,"Introduction to Tableau",1,1,0
+261785,67,2,"Introduction to Tableau",1,1,0
+261785,67,2,"Introduction to Tableau",1,1,0
+261785,67,2,"Introduction to Tableau",1,1,0
+261785,67,2,"Introduction to Tableau",1,1,0
+261785,67,2,"Introduction to Tableau",1,1,0
+261785,67,2,"Introduction to Tableau",1,1,0
+261785,67,46,"Data Literacy",1,1,0
+261785,67,46,"Data Literacy",1,1,0
+261785,67,46,"Data Literacy",1,1,0
+261785,67,45,"SQL for Data Science Interviews",1,1,0
+261785,67,45,"SQL for Data Science Interviews",1,1,0
+261785,67,45,"SQL for Data Science Interviews",1,1,0
+261785,67,45,"SQL for Data Science Interviews",1,1,0
+261785,67,42,"Data Strategy",1,1,0
+261785,67,42,"Data Strategy",1,1,0
+261785,67,42,"Data Strategy",1,1,0
+261785,67,42,"Data Strategy",1,1,0
+261785,67,7,"Introduction to Data and Data Science",1,1,0
+261785,67,39,"Advanced Microsoft Excel",1,1,0
+261785,67,39,"Advanced Microsoft Excel",1,1,0
+261785,67,28,"Power BI",1,1,0
+261785,67,28,"Power BI",1,1,0
+261785,67,28,"Power BI",1,1,0
+261785,67,28,"Power BI",1,1,0
+261785,67,28,"Power BI",1,1,0
+261785,67,28,"Power BI",1,1,0
+261785,67,28,"Power BI",1,1,0
+261785,67,28,"Power BI",1,1,0
+261785,67,28,"Power BI",1,1,0
+261785,67,28,"Power BI",1,1,0
+261785,67,28,"Power BI",1,1,0
+261785,67,25,"Starting a Career in Data Science: Project Portfolio, Resume, and Interview Process",1,1,0
+261785,67,25,"Starting a Career in Data Science: Project Portfolio, Resume, and Interview Process",1,1,0
+261785,67,24,Probability,1,1,0
+261785,67,24,Probability,1,1,0
+261785,67,24,Probability,1,1,0
+261785,67,24,Probability,1,1,0
+261785,67,23,"Introduction to Excel",1,1,0
+261785,67,23,"Introduction to Excel",1,1,0
+261785,67,23,"Introduction to Excel",1,1,0
+261785,67,23,"Introduction to Excel",1,1,0
+261785,67,23,"Introduction to Excel",1,1,0
+261785,67,23,"Introduction to Excel",1,1,0
+261785,67,23,"Introduction to Excel",1,1,0
+261785,67,23,"Introduction to Excel",1,1,0
+261785,67,23,"Introduction to Excel",1,1,0
+261785,67,23,"Introduction to Excel",1,1,0
+261785,67,23,"Introduction to Excel",1,1,0
+261785,67,23,"Introduction to Excel",1,1,0
+261785,67,23,"Introduction to Excel",1,1,0
+261785,67,23,"Introduction to Excel",1,1,0
+261785,67,23,"Introduction to Excel",1,1,0
+261785,67,23,"Introduction to Excel",1,1,0
+261785,67,23,"Introduction to Excel",1,1,0
+261785,67,23,"Introduction to Excel",1,1,0
+261785,67,23,"Introduction to Excel",1,1,0
+261785,67,22,Mathematics,1,1,0
+261785,67,21,Statistics,1,1,0
+261785,67,21,Statistics,1,1,0
+261785,67,21,Statistics,1,1,0
+261785,67,21,Statistics,1,1,0
+261785,67,21,Statistics,1,1,0
+261785,67,21,Statistics,1,1,0
+261785,67,21,Statistics,1,1,0
+261785,67,21,Statistics,1,1,0
+261785,67,14,SQL,1,1,0
+261785,67,14,SQL,1,1,0
+261785,67,14,SQL,1,1,0
+261785,67,14,SQL,1,1,0
+261785,67,14,SQL,1,1,0
+261785,67,14,SQL,1,1,0
+261785,67,14,SQL,1,1,0
+261785,67,14,SQL,1,1,0
+261785,67,14,SQL,1,1,0
+261785,67,14,SQL,1,1,0
+261785,67,14,SQL,1,1,0
+261785,67,14,SQL,1,1,0
+261785,67,14,SQL,1,1,0
+261785,67,14,SQL,1,1,0
+261785,67,14,SQL,1,1,0
+261785,67,14,SQL,1,1,0
+261785,67,14,SQL,1,1,0
+261785,67,14,SQL,1,1,0
+261785,67,14,SQL,1,1,0
+261785,67,14,SQL,1,1,0
+261785,67,14,SQL,1,1,0
+261785,67,14,SQL,1,1,0
+261785,67,14,SQL,1,1,0
+261785,67,14,SQL,1,1,0
+261785,67,14,SQL,1,1,0
+261785,67,14,SQL,1,1,0
+261785,67,14,SQL,1,1,0
+261785,67,14,SQL,1,1,0
+261785,67,14,SQL,1,1,0
+261785,67,14,SQL,1,1,0
+261785,67,14,SQL,1,1,0
+261785,67,14,SQL,1,1,0
+261785,67,14,SQL,1,1,0
+261785,67,14,SQL,1,1,0
+261785,67,13,"Data Analysis with Excel Pivot Tables",1,1,0
+261785,67,13,"Data Analysis with Excel Pivot Tables",1,1,0
+261785,67,13,"Data Analysis with Excel Pivot Tables",1,1,0
+261785,67,13,"Data Analysis with Excel Pivot Tables",1,1,0
+261785,67,12,"Introduction to Business Analytics",1,1,0
+261785,67,12,"Introduction to Business Analytics",1,1,0
+261785,67,12,"Introduction to Business Analytics",1,1,0
+261785,67,7,"Introduction to Data and Data Science",1,1,0
+261785,67,7,"Introduction to Data and Data Science",1,1,0
+261785,67,2,"Introduction to Tableau",1,1,0
+261785,67,2,"Introduction to Tableau",1,1,0
+261785,67,2,"Introduction to Tableau",1,1,0
+261785,67,2,"Introduction to Tableau",1,1,0
+261785,67,2,"Introduction to Tableau",1,1,0
+261785,67,2,"Introduction to Tableau",1,1,0
+261785,67,2,"Introduction to Tableau",1,1,0
+261785,67,2,"Introduction to Tableau",1,1,0
+261785,100,46,"Data Literacy",1,1,0
+261785,100,46,"Data Literacy",1,1,0
+261785,100,46,"Data Literacy",1,1,0
+261785,100,45,"SQL for Data Science Interviews",1,1,0
+261785,100,45,"SQL for Data Science Interviews",1,1,0
+261785,100,45,"SQL for Data Science Interviews",1,1,0
+261785,100,45,"SQL for Data Science Interviews",1,1,0
+261785,100,42,"Data Strategy",1,1,0
+261785,100,42,"Data Strategy",1,1,0
+261785,100,42,"Data Strategy",1,1,0
+261785,100,42,"Data Strategy",1,1,0
+261785,100,7,"Introduction to Data and Data Science",1,1,0
+261785,100,39,"Advanced Microsoft Excel",1,1,0
+261785,100,39,"Advanced Microsoft Excel",1,1,0
+261785,100,28,"Power BI",1,1,0
+261785,100,28,"Power BI",1,1,0
+261785,100,28,"Power BI",1,1,0
+261785,100,28,"Power BI",1,1,0
+261785,100,28,"Power BI",1,1,0
+261785,100,28,"Power BI",1,1,0
+261785,100,28,"Power BI",1,1,0
+261785,100,28,"Power BI",1,1,0
+261785,100,28,"Power BI",1,1,0
+261785,100,28,"Power BI",1,1,0
+261785,100,28,"Power BI",1,1,0
+261785,100,25,"Starting a Career in Data Science: Project Portfolio, Resume, and Interview Process",1,1,0
+261785,100,25,"Starting a Career in Data Science: Project Portfolio, Resume, and Interview Process",1,1,0
+261785,100,24,Probability,1,1,0
+261785,100,24,Probability,1,1,0
+261785,100,24,Probability,1,1,0
+261785,100,24,Probability,1,1,0
+261785,100,23,"Introduction to Excel",1,1,0
+261785,100,23,"Introduction to Excel",1,1,0
+261785,100,23,"Introduction to Excel",1,1,0
+261785,100,23,"Introduction to Excel",1,1,0
+261785,100,23,"Introduction to Excel",1,1,0
+261785,100,23,"Introduction to Excel",1,1,0
+261785,100,23,"Introduction to Excel",1,1,0
+261785,100,23,"Introduction to Excel",1,1,0
+261785,100,23,"Introduction to Excel",1,1,0
+261785,100,23,"Introduction to Excel",1,1,0
+261785,100,23,"Introduction to Excel",1,1,0
+261785,100,23,"Introduction to Excel",1,1,0
+261785,100,23,"Introduction to Excel",1,1,0
+261785,100,23,"Introduction to Excel",1,1,0
+261785,100,23,"Introduction to Excel",1,1,0
+261785,100,23,"Introduction to Excel",1,1,0
+261785,100,23,"Introduction to Excel",1,1,0
+261785,100,23,"Introduction to Excel",1,1,0
+261785,100,23,"Introduction to Excel",1,1,0
+261785,100,22,Mathematics,1,1,0
+261785,100,21,Statistics,1,1,0
+261785,100,21,Statistics,1,1,0
+261785,100,21,Statistics,1,1,0
+261785,100,21,Statistics,1,1,0
+261785,100,21,Statistics,1,1,0
+261785,100,21,Statistics,1,1,0
+261785,100,21,Statistics,1,1,0
+261785,100,21,Statistics,1,1,0
+261785,100,14,SQL,1,1,0
+261785,100,14,SQL,1,1,0
+261785,100,14,SQL,1,1,0
+261785,100,14,SQL,1,1,0
+261785,100,14,SQL,1,1,0
+261785,100,14,SQL,1,1,0
+261785,100,14,SQL,1,1,0
+261785,100,14,SQL,1,1,0
+261785,100,14,SQL,1,1,0
+261785,100,14,SQL,1,1,0
+261785,100,14,SQL,1,1,0
+261785,100,14,SQL,1,1,0
+261785,100,14,SQL,1,1,0
+261785,100,14,SQL,1,1,0
+261785,100,14,SQL,1,1,0
+261785,100,14,SQL,1,1,0
+261785,100,14,SQL,1,1,0
+261785,100,14,SQL,1,1,0
+261785,100,14,SQL,1,1,0
+261785,100,14,SQL,1,1,0
+261785,100,14,SQL,1,1,0
+261785,100,14,SQL,1,1,0
+261785,100,14,SQL,1,1,0
+261785,100,14,SQL,1,1,0
+261785,100,14,SQL,1,1,0
+261785,100,14,SQL,1,1,0
+261785,100,14,SQL,1,1,0
+261785,100,14,SQL,1,1,0
+261785,100,14,SQL,1,1,0
+261785,100,14,SQL,1,1,0
+261785,100,14,SQL,1,1,0
+261785,100,14,SQL,1,1,0
+261785,100,14,SQL,1,1,0
+261785,100,14,SQL,1,1,0
+261785,100,13,"Data Analysis with Excel Pivot Tables",1,1,0
+261785,100,13,"Data Analysis with Excel Pivot Tables",1,1,0
+261785,100,13,"Data Analysis with Excel Pivot Tables",1,1,0
+261785,100,13,"Data Analysis with Excel Pivot Tables",1,1,0
+261785,100,12,"Introduction to Business Analytics",1,1,0
+261785,100,12,"Introduction to Business Analytics",1,1,0
+261785,100,12,"Introduction to Business Analytics",1,1,0
+261785,100,7,"Introduction to Data and Data Science",1,1,0
+261785,100,7,"Introduction to Data and Data Science",1,1,0
+261785,100,2,"Introduction to Tableau",1,1,0
+261785,100,2,"Introduction to Tableau",1,1,0
+261785,100,2,"Introduction to Tableau",1,1,0
+261785,100,2,"Introduction to Tableau",1,1,0
+261785,100,2,"Introduction to Tableau",1,1,0
+261785,100,2,"Introduction to Tableau",1,1,0
+261785,100,2,"Introduction to Tableau",1,1,0
+261785,100,2,"Introduction to Tableau",1,1,0
+261785,67,46,"Data Literacy",1,1,0
+261785,67,46,"Data Literacy",1,1,0
+261785,67,46,"Data Literacy",1,1,0
+261785,67,45,"SQL for Data Science Interviews",1,1,0
+261785,67,45,"SQL for Data Science Interviews",1,1,0
+261785,67,45,"SQL for Data Science Interviews",1,1,0
+261785,67,45,"SQL for Data Science Interviews",1,1,0
+261785,67,42,"Data Strategy",1,1,0
+261785,67,42,"Data Strategy",1,1,0
+261785,67,42,"Data Strategy",1,1,0
+261785,67,42,"Data Strategy",1,1,0
+261785,67,7,"Introduction to Data and Data Science",1,1,0
+261785,67,39,"Advanced Microsoft Excel",1,1,0
+261785,67,39,"Advanced Microsoft Excel",1,1,0
+261785,67,28,"Power BI",1,1,0
+261785,67,28,"Power BI",1,1,0
+261785,67,28,"Power BI",1,1,0
+261785,67,28,"Power BI",1,1,0
+261785,67,28,"Power BI",1,1,0
+261785,67,28,"Power BI",1,1,0
+261785,67,28,"Power BI",1,1,0
+261785,67,28,"Power BI",1,1,0
+261785,67,28,"Power BI",1,1,0
+261785,67,28,"Power BI",1,1,0
+261785,67,28,"Power BI",1,1,0
+261785,67,25,"Starting a Career in Data Science: Project Portfolio, Resume, and Interview Process",1,1,0
+261785,67,25,"Starting a Career in Data Science: Project Portfolio, Resume, and Interview Process",1,1,0
+261785,67,24,Probability,1,1,0
+261785,67,24,Probability,1,1,0
+261785,67,24,Probability,1,1,0
+261785,67,24,Probability,1,1,0
+261785,67,23,"Introduction to Excel",1,1,0
+261785,67,23,"Introduction to Excel",1,1,0
+261785,67,23,"Introduction to Excel",1,1,0
+261785,67,23,"Introduction to Excel",1,1,0
+261785,67,23,"Introduction to Excel",1,1,0
+261785,67,23,"Introduction to Excel",1,1,0
+261785,67,23,"Introduction to Excel",1,1,0
+261785,67,23,"Introduction to Excel",1,1,0
+261785,67,23,"Introduction to Excel",1,1,0
+261785,67,23,"Introduction to Excel",1,1,0
+261785,67,23,"Introduction to Excel",1,1,0
+261785,67,23,"Introduction to Excel",1,1,0
+261785,67,23,"Introduction to Excel",1,1,0
+261785,67,23,"Introduction to Excel",1,1,0
+261785,67,23,"Introduction to Excel",1,1,0
+261785,67,23,"Introduction to Excel",1,1,0
+261785,67,23,"Introduction to Excel",1,1,0
+261785,67,23,"Introduction to Excel",1,1,0
+261785,67,23,"Introduction to Excel",1,1,0
+261785,67,22,Mathematics,1,1,0
+261785,67,21,Statistics,1,1,0
+261785,67,21,Statistics,1,1,0
+261785,67,21,Statistics,1,1,0
+261785,67,21,Statistics,1,1,0
+261785,67,21,Statistics,1,1,0
+261785,67,21,Statistics,1,1,0
+261785,67,21,Statistics,1,1,0
+261785,67,21,Statistics,1,1,0
+261785,67,14,SQL,1,1,0
+261785,67,14,SQL,1,1,0
+261785,67,14,SQL,1,1,0
+261785,67,14,SQL,1,1,0
+261785,67,14,SQL,1,1,0
+261785,67,14,SQL,1,1,0
+261785,67,14,SQL,1,1,0
+261785,67,14,SQL,1,1,0
+261785,67,14,SQL,1,1,0
+261785,67,14,SQL,1,1,0
+261785,67,14,SQL,1,1,0
+261785,67,14,SQL,1,1,0
+261785,67,14,SQL,1,1,0
+261785,67,14,SQL,1,1,0
+261785,67,14,SQL,1,1,0
+261785,67,14,SQL,1,1,0
+261785,67,14,SQL,1,1,0
+261785,67,14,SQL,1,1,0
+261785,67,14,SQL,1,1,0
+261785,67,14,SQL,1,1,0
+261785,67,14,SQL,1,1,0
+261785,67,14,SQL,1,1,0
+261785,67,14,SQL,1,1,0
+261785,67,14,SQL,1,1,0
+261785,67,14,SQL,1,1,0
+261785,67,14,SQL,1,1,0
+261785,67,14,SQL,1,1,0
+261785,67,14,SQL,1,1,0
+261785,67,14,SQL,1,1,0
+261785,67,14,SQL,1,1,0
+261785,67,14,SQL,1,1,0
+261785,67,14,SQL,1,1,0
+261785,67,14,SQL,1,1,0
+261785,67,14,SQL,1,1,0
+261785,67,13,"Data Analysis with Excel Pivot Tables",1,1,0
+261785,67,13,"Data Analysis with Excel Pivot Tables",1,1,0
+261785,67,13,"Data Analysis with Excel Pivot Tables",1,1,0
+261785,67,13,"Data Analysis with Excel Pivot Tables",1,1,0
+261785,67,12,"Introduction to Business Analytics",1,1,0
+261785,67,12,"Introduction to Business Analytics",1,1,0
+261785,67,12,"Introduction to Business Analytics",1,1,0
+261785,67,7,"Introduction to Data and Data Science",1,1,0
+261785,67,7,"Introduction to Data and Data Science",1,1,0
+261785,67,2,"Introduction to Tableau",1,1,0
+261785,67,2,"Introduction to Tableau",1,1,0
+261785,67,2,"Introduction to Tableau",1,1,0
+261785,67,2,"Introduction to Tableau",1,1,0
+261785,67,2,"Introduction to Tableau",1,1,0
+261785,67,2,"Introduction to Tableau",1,1,0
+261785,67,2,"Introduction to Tableau",1,1,0
+261785,67,2,"Introduction to Tableau",1,1,0
+261785,17,46,"Data Literacy",1,1,0
+261785,17,46,"Data Literacy",1,1,0
+261785,17,46,"Data Literacy",1,1,0
+261785,17,45,"SQL for Data Science Interviews",1,1,0
+261785,17,45,"SQL for Data Science Interviews",1,1,0
+261785,17,45,"SQL for Data Science Interviews",1,1,0
+261785,17,45,"SQL for Data Science Interviews",1,1,0
+261785,17,42,"Data Strategy",1,1,0
+261785,17,42,"Data Strategy",1,1,0
+261785,17,42,"Data Strategy",1,1,0
+261785,17,42,"Data Strategy",1,1,0
+261785,17,7,"Introduction to Data and Data Science",1,1,0
+261785,17,39,"Advanced Microsoft Excel",1,1,0
+261785,17,39,"Advanced Microsoft Excel",1,1,0
+261785,17,28,"Power BI",1,1,0
+261785,17,28,"Power BI",1,1,0
+261785,17,28,"Power BI",1,1,0
+261785,17,28,"Power BI",1,1,0
+261785,17,28,"Power BI",1,1,0
+261785,17,28,"Power BI",1,1,0
+261785,17,28,"Power BI",1,1,0
+261785,17,28,"Power BI",1,1,0
+261785,17,28,"Power BI",1,1,0
+261785,17,28,"Power BI",1,1,0
+261785,17,28,"Power BI",1,1,0
+261785,17,25,"Starting a Career in Data Science: Project Portfolio, Resume, and Interview Process",1,1,0
+261785,17,25,"Starting a Career in Data Science: Project Portfolio, Resume, and Interview Process",1,1,0
+261785,17,24,Probability,1,1,0
+261785,17,24,Probability,1,1,0
+261785,17,24,Probability,1,1,0
+261785,17,24,Probability,1,1,0
+261785,17,23,"Introduction to Excel",1,1,0
+261785,17,23,"Introduction to Excel",1,1,0
+261785,17,23,"Introduction to Excel",1,1,0
+261785,17,23,"Introduction to Excel",1,1,0
+261785,17,23,"Introduction to Excel",1,1,0
+261785,17,23,"Introduction to Excel",1,1,0
+261785,17,23,"Introduction to Excel",1,1,0
+261785,17,23,"Introduction to Excel",1,1,0
+261785,17,23,"Introduction to Excel",1,1,0
+261785,17,23,"Introduction to Excel",1,1,0
+261785,17,23,"Introduction to Excel",1,1,0
+261785,17,23,"Introduction to Excel",1,1,0
+261785,17,23,"Introduction to Excel",1,1,0
+261785,17,23,"Introduction to Excel",1,1,0
+261785,17,23,"Introduction to Excel",1,1,0
+261785,17,23,"Introduction to Excel",1,1,0
+261785,17,23,"Introduction to Excel",1,1,0
+261785,17,23,"Introduction to Excel",1,1,0
+261785,17,23,"Introduction to Excel",1,1,0
+261785,17,22,Mathematics,1,1,0
+261785,17,21,Statistics,1,1,0
+261785,17,21,Statistics,1,1,0
+261785,17,21,Statistics,1,1,0
+261785,17,21,Statistics,1,1,0
+261785,17,21,Statistics,1,1,0
+261785,17,21,Statistics,1,1,0
+261785,17,21,Statistics,1,1,0
+261785,17,21,Statistics,1,1,0
+261785,17,14,SQL,1,1,0
+261785,17,14,SQL,1,1,0
+261785,17,14,SQL,1,1,0
+261785,17,14,SQL,1,1,0
+261785,17,14,SQL,1,1,0
+261785,17,14,SQL,1,1,0
+261785,17,14,SQL,1,1,0
+261785,17,14,SQL,1,1,0
+261785,17,14,SQL,1,1,0
+261785,17,14,SQL,1,1,0
+261785,17,14,SQL,1,1,0
+261785,17,14,SQL,1,1,0
+261785,17,14,SQL,1,1,0
+261785,17,14,SQL,1,1,0
+261785,17,14,SQL,1,1,0
+261785,17,14,SQL,1,1,0
+261785,17,14,SQL,1,1,0
+261785,17,14,SQL,1,1,0
+261785,17,14,SQL,1,1,0
+261785,17,14,SQL,1,1,0
+261785,17,14,SQL,1,1,0
+261785,17,14,SQL,1,1,0
+261785,17,14,SQL,1,1,0
+261785,17,14,SQL,1,1,0
+261785,17,14,SQL,1,1,0
+261785,17,14,SQL,1,1,0
+261785,17,14,SQL,1,1,0
+261785,17,14,SQL,1,1,0
+261785,17,14,SQL,1,1,0
+261785,17,14,SQL,1,1,0
+261785,17,14,SQL,1,1,0
+261785,17,14,SQL,1,1,0
+261785,17,14,SQL,1,1,0
+261785,17,14,SQL,1,1,0
+261785,17,13,"Data Analysis with Excel Pivot Tables",1,1,0
+261785,17,13,"Data Analysis with Excel Pivot Tables",1,1,0
+261785,17,13,"Data Analysis with Excel Pivot Tables",1,1,0
+261785,17,13,"Data Analysis with Excel Pivot Tables",1,1,0
+261785,17,12,"Introduction to Business Analytics",1,1,0
+261785,17,12,"Introduction to Business Analytics",1,1,0
+261785,17,12,"Introduction to Business Analytics",1,1,0
+261785,17,7,"Introduction to Data and Data Science",1,1,0
+261785,17,7,"Introduction to Data and Data Science",1,1,0
+261785,17,2,"Introduction to Tableau",1,1,0
+261785,17,2,"Introduction to Tableau",1,1,0
+261785,17,2,"Introduction to Tableau",1,1,0
+261785,17,2,"Introduction to Tableau",1,1,0
+261785,17,2,"Introduction to Tableau",1,1,0
+261785,17,2,"Introduction to Tableau",1,1,0
+261785,17,2,"Introduction to Tableau",1,1,0
+261785,17,2,"Introduction to Tableau",1,1,0
+261785,100,46,"Data Literacy",1,1,0
+261785,100,46,"Data Literacy",1,1,0
+261785,100,46,"Data Literacy",1,1,0
+261785,100,45,"SQL for Data Science Interviews",1,1,0
+261785,100,45,"SQL for Data Science Interviews",1,1,0
+261785,100,45,"SQL for Data Science Interviews",1,1,0
+261785,100,45,"SQL for Data Science Interviews",1,1,0
+261785,100,42,"Data Strategy",1,1,0
+261785,100,42,"Data Strategy",1,1,0
+261785,100,42,"Data Strategy",1,1,0
+261785,100,42,"Data Strategy",1,1,0
+261785,100,7,"Introduction to Data and Data Science",1,1,0
+261785,100,39,"Advanced Microsoft Excel",1,1,0
+261785,100,39,"Advanced Microsoft Excel",1,1,0
+261785,100,28,"Power BI",1,1,0
+261785,100,28,"Power BI",1,1,0
+261785,100,28,"Power BI",1,1,0
+261785,100,28,"Power BI",1,1,0
+261785,100,28,"Power BI",1,1,0
+261785,100,28,"Power BI",1,1,0
+261785,100,28,"Power BI",1,1,0
+261785,100,28,"Power BI",1,1,0
+261785,100,28,"Power BI",1,1,0
+261785,100,28,"Power BI",1,1,0
+261785,100,28,"Power BI",1,1,0
+261785,100,25,"Starting a Career in Data Science: Project Portfolio, Resume, and Interview Process",1,1,0
+261785,100,25,"Starting a Career in Data Science: Project Portfolio, Resume, and Interview Process",1,1,0
+261785,100,24,Probability,1,1,0
+261785,100,24,Probability,1,1,0
+261785,100,24,Probability,1,1,0
+261785,100,24,Probability,1,1,0
+261785,100,23,"Introduction to Excel",1,1,0
+261785,100,23,"Introduction to Excel",1,1,0
+261785,100,23,"Introduction to Excel",1,1,0
+261785,100,23,"Introduction to Excel",1,1,0
+261785,100,23,"Introduction to Excel",1,1,0
+261785,100,23,"Introduction to Excel",1,1,0
+261785,100,23,"Introduction to Excel",1,1,0
+261785,100,23,"Introduction to Excel",1,1,0
+261785,100,23,"Introduction to Excel",1,1,0
+261785,100,23,"Introduction to Excel",1,1,0
+261785,100,23,"Introduction to Excel",1,1,0
+261785,100,23,"Introduction to Excel",1,1,0
+261785,100,23,"Introduction to Excel",1,1,0
+261785,100,23,"Introduction to Excel",1,1,0
+261785,100,23,"Introduction to Excel",1,1,0
+261785,100,23,"Introduction to Excel",1,1,0
+261785,100,23,"Introduction to Excel",1,1,0
+261785,100,23,"Introduction to Excel",1,1,0
+261785,100,23,"Introduction to Excel",1,1,0
+261785,100,22,Mathematics,1,1,0
+261785,100,21,Statistics,1,1,0
+261785,100,21,Statistics,1,1,0
+261785,100,21,Statistics,1,1,0
+261785,100,21,Statistics,1,1,0
+261785,100,21,Statistics,1,1,0
+261785,100,21,Statistics,1,1,0
+261785,100,21,Statistics,1,1,0
+261785,100,21,Statistics,1,1,0
+261785,100,14,SQL,1,1,0
+261785,100,14,SQL,1,1,0
+261785,100,14,SQL,1,1,0
+261785,100,14,SQL,1,1,0
+261785,100,14,SQL,1,1,0
+261785,100,14,SQL,1,1,0
+261785,100,14,SQL,1,1,0

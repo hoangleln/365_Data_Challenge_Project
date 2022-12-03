@@ -1,0 +1,1001 @@
+student_id,course_id,course_title,exam_id,exam_result,minutes_watched,exam_category,exam_cat_descr,exam_completion_time,exam_duration
+258803,14,SQL,408,83,62.6,2,"Practice exam",3.38,10
+258803,14,SQL,408,83,43.6,2,"Practice exam",3.38,10
+258803,14,SQL,408,83,86.8,2,"Practice exam",3.38,10
+258803,14,SQL,408,83,42.9,2,"Practice exam",3.38,10
+258803,14,SQL,408,83,21.4,2,"Practice exam",3.38,10
+258803,14,SQL,408,83,52.8,2,"Practice exam",3.38,10
+258803,14,SQL,408,83,28.3,2,"Practice exam",3.38,10
+258803,14,SQL,408,83,19.3,2,"Practice exam",3.38,10
+258803,14,SQL,408,83,37.9,2,"Practice exam",3.38,10
+258803,14,SQL,408,83,0.7,2,"Practice exam",3.38,10
+258803,14,SQL,408,83,67.1,2,"Practice exam",3.38,10
+258803,14,SQL,408,83,1.6,2,"Practice exam",3.38,10
+258803,14,SQL,408,83,6.8,2,"Practice exam",3.38,10
+258803,16,"Python Programmer Bootcamp",408,83,6.9,2,"Practice exam",3.38,10
+258803,19,"SQL + Tableau + Python",408,83,52,2,"Practice exam",3.38,10
+258803,19,"SQL + Tableau + Python",408,83,44.7,2,"Practice exam",3.38,10
+258803,19,"SQL + Tableau + Python",408,83,3.5,2,"Practice exam",3.38,10
+258803,19,"SQL + Tableau + Python",408,83,0.1,2,"Practice exam",3.38,10
+258803,19,"SQL + Tableau + Python",408,83,41,2,"Practice exam",3.38,10
+258818,2,"Introduction to Tableau",408,100,6.7,2,"Practice exam",0.65,10
+258818,2,"Introduction to Tableau",408,50,6.7,2,"Practice exam",2.35,10
+258818,2,"Introduction to Tableau",402,100,6.7,2,"Practice exam",4.23,16
+258818,2,"Introduction to Tableau",401,67,6.7,2,"Practice exam",9,15
+258818,2,"Introduction to Tableau",408,100,0.2,2,"Practice exam",0.65,10
+258818,2,"Introduction to Tableau",408,50,0.2,2,"Practice exam",2.35,10
+258818,2,"Introduction to Tableau",402,100,0.2,2,"Practice exam",4.23,16
+258818,2,"Introduction to Tableau",401,67,0.2,2,"Practice exam",9,15
+258818,2,"Introduction to Tableau",408,100,18,2,"Practice exam",0.65,10
+258818,2,"Introduction to Tableau",408,50,18,2,"Practice exam",2.35,10
+258818,2,"Introduction to Tableau",402,100,18,2,"Practice exam",4.23,16
+258818,2,"Introduction to Tableau",401,67,18,2,"Practice exam",9,15
+258818,2,"Introduction to Tableau",408,100,51.9,2,"Practice exam",0.65,10
+258818,2,"Introduction to Tableau",408,50,51.9,2,"Practice exam",2.35,10
+258818,2,"Introduction to Tableau",402,100,51.9,2,"Practice exam",4.23,16
+258818,2,"Introduction to Tableau",401,67,51.9,2,"Practice exam",9,15
+258818,2,"Introduction to Tableau",408,100,0.4,2,"Practice exam",0.65,10
+258818,2,"Introduction to Tableau",408,50,0.4,2,"Practice exam",2.35,10
+258818,2,"Introduction to Tableau",402,100,0.4,2,"Practice exam",4.23,16
+258818,2,"Introduction to Tableau",401,67,0.4,2,"Practice exam",9,15
+258818,2,"Introduction to Tableau",408,100,7.1,2,"Practice exam",0.65,10
+258818,2,"Introduction to Tableau",408,50,7.1,2,"Practice exam",2.35,10
+258818,2,"Introduction to Tableau",402,100,7.1,2,"Practice exam",4.23,16
+258818,2,"Introduction to Tableau",401,67,7.1,2,"Practice exam",9,15
+258818,2,"Introduction to Tableau",408,100,12.3,2,"Practice exam",0.65,10
+258818,2,"Introduction to Tableau",408,50,12.3,2,"Practice exam",2.35,10
+258818,2,"Introduction to Tableau",402,100,12.3,2,"Practice exam",4.23,16
+258818,2,"Introduction to Tableau",401,67,12.3,2,"Practice exam",9,15
+258818,2,"Introduction to Tableau",408,100,5.8,2,"Practice exam",0.65,10
+258818,2,"Introduction to Tableau",408,50,5.8,2,"Practice exam",2.35,10
+258818,2,"Introduction to Tableau",402,100,5.8,2,"Practice exam",4.23,16
+258818,2,"Introduction to Tableau",401,67,5.8,2,"Practice exam",9,15
+258818,2,"Introduction to Tableau",408,100,24,2,"Practice exam",0.65,10
+258818,2,"Introduction to Tableau",408,50,24,2,"Practice exam",2.35,10
+258818,2,"Introduction to Tableau",402,100,24,2,"Practice exam",4.23,16
+258818,2,"Introduction to Tableau",401,67,24,2,"Practice exam",9,15
+258818,2,"Introduction to Tableau",408,100,30.5,2,"Practice exam",0.65,10
+258818,2,"Introduction to Tableau",408,50,30.5,2,"Practice exam",2.35,10
+258818,2,"Introduction to Tableau",402,100,30.5,2,"Practice exam",4.23,16
+258818,2,"Introduction to Tableau",401,67,30.5,2,"Practice exam",9,15
+258818,2,"Introduction to Tableau",408,100,18.5,2,"Practice exam",0.65,10
+258818,2,"Introduction to Tableau",408,50,18.5,2,"Practice exam",2.35,10
+258818,2,"Introduction to Tableau",402,100,18.5,2,"Practice exam",4.23,16
+258818,2,"Introduction to Tableau",401,67,18.5,2,"Practice exam",9,15
+258818,2,"Introduction to Tableau",408,100,19.4,2,"Practice exam",0.65,10
+258818,2,"Introduction to Tableau",408,50,19.4,2,"Practice exam",2.35,10
+258818,2,"Introduction to Tableau",402,100,19.4,2,"Practice exam",4.23,16
+258818,2,"Introduction to Tableau",401,67,19.4,2,"Practice exam",9,15
+258818,3,"The Complete Data Visualization Course with Python, R, Tableau, and Excel",408,100,27.6,2,"Practice exam",0.65,10
+258818,3,"The Complete Data Visualization Course with Python, R, Tableau, and Excel",408,50,27.6,2,"Practice exam",2.35,10
+258818,3,"The Complete Data Visualization Course with Python, R, Tableau, and Excel",402,100,27.6,2,"Practice exam",4.23,16
+258818,3,"The Complete Data Visualization Course with Python, R, Tableau, and Excel",401,67,27.6,2,"Practice exam",9,15
+258818,3,"The Complete Data Visualization Course with Python, R, Tableau, and Excel",408,100,69.1,2,"Practice exam",0.65,10
+258818,3,"The Complete Data Visualization Course with Python, R, Tableau, and Excel",408,50,69.1,2,"Practice exam",2.35,10
+258818,3,"The Complete Data Visualization Course with Python, R, Tableau, and Excel",402,100,69.1,2,"Practice exam",4.23,16
+258818,3,"The Complete Data Visualization Course with Python, R, Tableau, and Excel",401,67,69.1,2,"Practice exam",9,15
+258818,3,"The Complete Data Visualization Course with Python, R, Tableau, and Excel",408,100,8.7,2,"Practice exam",0.65,10
+258818,3,"The Complete Data Visualization Course with Python, R, Tableau, and Excel",408,50,8.7,2,"Practice exam",2.35,10
+258818,3,"The Complete Data Visualization Course with Python, R, Tableau, and Excel",402,100,8.7,2,"Practice exam",4.23,16
+258818,3,"The Complete Data Visualization Course with Python, R, Tableau, and Excel",401,67,8.7,2,"Practice exam",9,15
+258818,4,"Introduction to R Programming",408,100,34.7,2,"Practice exam",0.65,10
+258818,4,"Introduction to R Programming",408,50,34.7,2,"Practice exam",2.35,10
+258818,4,"Introduction to R Programming",402,100,34.7,2,"Practice exam",4.23,16
+258818,4,"Introduction to R Programming",401,67,34.7,2,"Practice exam",9,15
+258818,4,"Introduction to R Programming",408,100,18.6,2,"Practice exam",0.65,10
+258818,4,"Introduction to R Programming",408,50,18.6,2,"Practice exam",2.35,10
+258818,4,"Introduction to R Programming",402,100,18.6,2,"Practice exam",4.23,16
+258818,4,"Introduction to R Programming",401,67,18.6,2,"Practice exam",9,15
+258818,4,"Introduction to R Programming",408,100,27.2,2,"Practice exam",0.65,10
+258818,4,"Introduction to R Programming",408,50,27.2,2,"Practice exam",2.35,10
+258818,4,"Introduction to R Programming",402,100,27.2,2,"Practice exam",4.23,16
+258818,4,"Introduction to R Programming",401,67,27.2,2,"Practice exam",9,15
+258818,4,"Introduction to R Programming",408,100,27.3,2,"Practice exam",0.65,10
+258818,4,"Introduction to R Programming",408,50,27.3,2,"Practice exam",2.35,10
+258818,4,"Introduction to R Programming",402,100,27.3,2,"Practice exam",4.23,16
+258818,4,"Introduction to R Programming",401,67,27.3,2,"Practice exam",9,15
+258818,4,"Introduction to R Programming",408,100,10.2,2,"Practice exam",0.65,10
+258818,4,"Introduction to R Programming",408,50,10.2,2,"Practice exam",2.35,10
+258818,4,"Introduction to R Programming",402,100,10.2,2,"Practice exam",4.23,16
+258818,4,"Introduction to R Programming",401,67,10.2,2,"Practice exam",9,15
+258818,4,"Introduction to R Programming",408,100,15.8,2,"Practice exam",0.65,10
+258818,4,"Introduction to R Programming",408,50,15.8,2,"Practice exam",2.35,10
+258818,4,"Introduction to R Programming",402,100,15.8,2,"Practice exam",4.23,16
+258818,4,"Introduction to R Programming",401,67,15.8,2,"Practice exam",9,15
+258818,4,"Introduction to R Programming",408,100,18.1,2,"Practice exam",0.65,10
+258818,4,"Introduction to R Programming",408,50,18.1,2,"Practice exam",2.35,10
+258818,4,"Introduction to R Programming",402,100,18.1,2,"Practice exam",4.23,16
+258818,4,"Introduction to R Programming",401,67,18.1,2,"Practice exam",9,15
+258818,4,"Introduction to R Programming",408,100,17,2,"Practice exam",0.65,10
+258818,4,"Introduction to R Programming",408,50,17,2,"Practice exam",2.35,10
+258818,4,"Introduction to R Programming",402,100,17,2,"Practice exam",4.23,16
+258818,4,"Introduction to R Programming",401,67,17,2,"Practice exam",9,15
+258818,4,"Introduction to R Programming",408,100,13.4,2,"Practice exam",0.65,10
+258818,4,"Introduction to R Programming",408,50,13.4,2,"Practice exam",2.35,10
+258818,4,"Introduction to R Programming",402,100,13.4,2,"Practice exam",4.23,16
+258818,4,"Introduction to R Programming",401,67,13.4,2,"Practice exam",9,15
+258818,4,"Introduction to R Programming",408,100,32.9,2,"Practice exam",0.65,10
+258818,4,"Introduction to R Programming",408,50,32.9,2,"Practice exam",2.35,10
+258818,4,"Introduction to R Programming",402,100,32.9,2,"Practice exam",4.23,16
+258818,4,"Introduction to R Programming",401,67,32.9,2,"Practice exam",9,15
+258818,4,"Introduction to R Programming",408,100,29.4,2,"Practice exam",0.65,10
+258818,4,"Introduction to R Programming",408,50,29.4,2,"Practice exam",2.35,10
+258818,4,"Introduction to R Programming",402,100,29.4,2,"Practice exam",4.23,16
+258818,4,"Introduction to R Programming",401,67,29.4,2,"Practice exam",9,15
+258818,13,"Data Analysis with Excel Pivot Tables",408,100,13.9,2,"Practice exam",0.65,10
+258818,13,"Data Analysis with Excel Pivot Tables",408,50,13.9,2,"Practice exam",2.35,10
+258818,13,"Data Analysis with Excel Pivot Tables",402,100,13.9,2,"Practice exam",4.23,16
+258818,13,"Data Analysis with Excel Pivot Tables",401,67,13.9,2,"Practice exam",9,15
+258818,13,"Data Analysis with Excel Pivot Tables",408,100,3,2,"Practice exam",0.65,10
+258818,13,"Data Analysis with Excel Pivot Tables",408,50,3,2,"Practice exam",2.35,10
+258818,13,"Data Analysis with Excel Pivot Tables",402,100,3,2,"Practice exam",4.23,16
+258818,13,"Data Analysis with Excel Pivot Tables",401,67,3,2,"Practice exam",9,15
+258818,14,SQL,408,100,10.5,2,"Practice exam",0.65,10
+258818,14,SQL,408,50,10.5,2,"Practice exam",2.35,10
+258818,14,SQL,402,100,10.5,2,"Practice exam",4.23,16
+258818,14,SQL,401,67,10.5,2,"Practice exam",9,15
+258818,14,SQL,408,100,34.6,2,"Practice exam",0.65,10
+258818,14,SQL,408,50,34.6,2,"Practice exam",2.35,10
+258818,14,SQL,402,100,34.6,2,"Practice exam",4.23,16
+258818,14,SQL,401,67,34.6,2,"Practice exam",9,15
+258818,14,SQL,408,100,30.5,2,"Practice exam",0.65,10
+258818,14,SQL,408,50,30.5,2,"Practice exam",2.35,10
+258818,14,SQL,402,100,30.5,2,"Practice exam",4.23,16
+258818,14,SQL,401,67,30.5,2,"Practice exam",9,15
+258818,14,SQL,408,100,43.6,2,"Practice exam",0.65,10
+258818,14,SQL,408,50,43.6,2,"Practice exam",2.35,10
+258818,14,SQL,402,100,43.6,2,"Practice exam",4.23,16
+258818,14,SQL,401,67,43.6,2,"Practice exam",9,15
+258818,14,SQL,408,100,27.1,2,"Practice exam",0.65,10
+258818,14,SQL,408,50,27.1,2,"Practice exam",2.35,10
+258818,14,SQL,402,100,27.1,2,"Practice exam",4.23,16
+258818,14,SQL,401,67,27.1,2,"Practice exam",9,15
+258818,14,SQL,408,100,45,2,"Practice exam",0.65,10
+258818,14,SQL,408,50,45,2,"Practice exam",2.35,10
+258818,14,SQL,402,100,45,2,"Practice exam",4.23,16
+258818,14,SQL,401,67,45,2,"Practice exam",9,15
+258818,14,SQL,408,100,14.4,2,"Practice exam",0.65,10
+258818,14,SQL,408,50,14.4,2,"Practice exam",2.35,10
+258818,14,SQL,402,100,14.4,2,"Practice exam",4.23,16
+258818,14,SQL,401,67,14.4,2,"Practice exam",9,15
+258818,14,SQL,408,100,19,2,"Practice exam",0.65,10
+258818,14,SQL,408,50,19,2,"Practice exam",2.35,10
+258818,14,SQL,402,100,19,2,"Practice exam",4.23,16
+258818,14,SQL,401,67,19,2,"Practice exam",9,15
+258818,14,SQL,408,100,9.2,2,"Practice exam",0.65,10
+258818,14,SQL,408,50,9.2,2,"Practice exam",2.35,10
+258818,14,SQL,402,100,9.2,2,"Practice exam",4.23,16
+258818,14,SQL,401,67,9.2,2,"Practice exam",9,15
+258818,14,SQL,408,100,28.2,2,"Practice exam",0.65,10
+258818,14,SQL,408,50,28.2,2,"Practice exam",2.35,10
+258818,14,SQL,402,100,28.2,2,"Practice exam",4.23,16
+258818,14,SQL,401,67,28.2,2,"Practice exam",9,15
+258818,14,SQL,408,100,18.8,2,"Practice exam",0.65,10
+258818,14,SQL,408,50,18.8,2,"Practice exam",2.35,10
+258818,14,SQL,402,100,18.8,2,"Practice exam",4.23,16
+258818,14,SQL,401,67,18.8,2,"Practice exam",9,15
+258818,14,SQL,408,100,18.6,2,"Practice exam",0.65,10
+258818,14,SQL,408,50,18.6,2,"Practice exam",2.35,10
+258818,14,SQL,402,100,18.6,2,"Practice exam",4.23,16
+258818,14,SQL,401,67,18.6,2,"Practice exam",9,15
+258818,14,SQL,408,100,39.8,2,"Practice exam",0.65,10
+258818,14,SQL,408,50,39.8,2,"Practice exam",2.35,10
+258818,14,SQL,402,100,39.8,2,"Practice exam",4.23,16
+258818,14,SQL,401,67,39.8,2,"Practice exam",9,15
+258818,14,SQL,408,100,19.5,2,"Practice exam",0.65,10
+258818,14,SQL,408,50,19.5,2,"Practice exam",2.35,10
+258818,14,SQL,402,100,19.5,2,"Practice exam",4.23,16
+258818,14,SQL,401,67,19.5,2,"Practice exam",9,15
+258818,14,SQL,408,100,5.9,2,"Practice exam",0.65,10
+258818,14,SQL,408,50,5.9,2,"Practice exam",2.35,10
+258818,14,SQL,402,100,5.9,2,"Practice exam",4.23,16
+258818,14,SQL,401,67,5.9,2,"Practice exam",9,15
+258818,14,SQL,408,100,24,2,"Practice exam",0.65,10
+258818,14,SQL,408,50,24,2,"Practice exam",2.35,10
+258818,14,SQL,402,100,24,2,"Practice exam",4.23,16
+258818,14,SQL,401,67,24,2,"Practice exam",9,15
+258818,14,SQL,408,100,27.8,2,"Practice exam",0.65,10
+258818,14,SQL,408,50,27.8,2,"Practice exam",2.35,10
+258818,14,SQL,402,100,27.8,2,"Practice exam",4.23,16
+258818,14,SQL,401,67,27.8,2,"Practice exam",9,15
+258818,14,SQL,408,100,18.6,2,"Practice exam",0.65,10
+258818,14,SQL,408,50,18.6,2,"Practice exam",2.35,10
+258818,14,SQL,402,100,18.6,2,"Practice exam",4.23,16
+258818,14,SQL,401,67,18.6,2,"Practice exam",9,15
+258818,14,SQL,408,100,11.7,2,"Practice exam",0.65,10
+258818,14,SQL,408,50,11.7,2,"Practice exam",2.35,10
+258818,14,SQL,402,100,11.7,2,"Practice exam",4.23,16
+258818,14,SQL,401,67,11.7,2,"Practice exam",9,15
+258818,14,SQL,408,100,6.9,2,"Practice exam",0.65,10
+258818,14,SQL,408,50,6.9,2,"Practice exam",2.35,10
+258818,14,SQL,402,100,6.9,2,"Practice exam",4.23,16
+258818,14,SQL,401,67,6.9,2,"Practice exam",9,15
+258818,14,SQL,408,100,3.8,2,"Practice exam",0.65,10
+258818,14,SQL,408,50,3.8,2,"Practice exam",2.35,10
+258818,14,SQL,402,100,3.8,2,"Practice exam",4.23,16
+258818,14,SQL,401,67,3.8,2,"Practice exam",9,15
+258818,14,SQL,408,100,7.6,2,"Practice exam",0.65,10
+258818,14,SQL,408,50,7.6,2,"Practice exam",2.35,10
+258818,14,SQL,402,100,7.6,2,"Practice exam",4.23,16
+258818,14,SQL,401,67,7.6,2,"Practice exam",9,15
+258818,14,SQL,408,100,4.9,2,"Practice exam",0.65,10
+258818,14,SQL,408,50,4.9,2,"Practice exam",2.35,10
+258818,14,SQL,402,100,4.9,2,"Practice exam",4.23,16
+258818,14,SQL,401,67,4.9,2,"Practice exam",9,15
+258818,14,SQL,408,100,20.2,2,"Practice exam",0.65,10
+258818,14,SQL,408,50,20.2,2,"Practice exam",2.35,10
+258818,14,SQL,402,100,20.2,2,"Practice exam",4.23,16
+258818,14,SQL,401,67,20.2,2,"Practice exam",9,15
+258818,14,SQL,408,100,15.9,2,"Practice exam",0.65,10
+258818,14,SQL,408,50,15.9,2,"Practice exam",2.35,10
+258818,14,SQL,402,100,15.9,2,"Practice exam",4.23,16
+258818,14,SQL,401,67,15.9,2,"Practice exam",9,15
+258818,14,SQL,408,100,22,2,"Practice exam",0.65,10
+258818,14,SQL,408,50,22,2,"Practice exam",2.35,10
+258818,14,SQL,402,100,22,2,"Practice exam",4.23,16
+258818,14,SQL,401,67,22,2,"Practice exam",9,15
+258818,14,SQL,408,100,4.9,2,"Practice exam",0.65,10
+258818,14,SQL,408,50,4.9,2,"Practice exam",2.35,10
+258818,14,SQL,402,100,4.9,2,"Practice exam",4.23,16
+258818,14,SQL,401,67,4.9,2,"Practice exam",9,15
+258818,14,SQL,408,100,7.8,2,"Practice exam",0.65,10
+258818,14,SQL,408,50,7.8,2,"Practice exam",2.35,10
+258818,14,SQL,402,100,7.8,2,"Practice exam",4.23,16
+258818,14,SQL,401,67,7.8,2,"Practice exam",9,15
+258818,14,SQL,408,100,2,2,"Practice exam",0.65,10
+258818,14,SQL,408,50,2,2,"Practice exam",2.35,10
+258818,14,SQL,402,100,2,2,"Practice exam",4.23,16
+258818,14,SQL,401,67,2,2,"Practice exam",9,15
+258818,16,"Python Programmer Bootcamp",408,100,40,2,"Practice exam",0.65,10
+258818,16,"Python Programmer Bootcamp",408,50,40,2,"Practice exam",2.35,10
+258818,16,"Python Programmer Bootcamp",402,100,40,2,"Practice exam",4.23,16
+258818,16,"Python Programmer Bootcamp",401,67,40,2,"Practice exam",9,15
+258818,19,"SQL + Tableau + Python",408,100,15.6,2,"Practice exam",0.65,10
+258818,19,"SQL + Tableau + Python",408,50,15.6,2,"Practice exam",2.35,10
+258818,19,"SQL + Tableau + Python",402,100,15.6,2,"Practice exam",4.23,16
+258818,19,"SQL + Tableau + Python",401,67,15.6,2,"Practice exam",9,15
+258818,19,"SQL + Tableau + Python",408,100,12,2,"Practice exam",0.65,10
+258818,19,"SQL + Tableau + Python",408,50,12,2,"Practice exam",2.35,10
+258818,19,"SQL + Tableau + Python",402,100,12,2,"Practice exam",4.23,16
+258818,19,"SQL + Tableau + Python",401,67,12,2,"Practice exam",9,15
+258818,19,"SQL + Tableau + Python",408,100,10.2,2,"Practice exam",0.65,10
+258818,19,"SQL + Tableau + Python",408,50,10.2,2,"Practice exam",2.35,10
+258818,19,"SQL + Tableau + Python",402,100,10.2,2,"Practice exam",4.23,16
+258818,19,"SQL + Tableau + Python",401,67,10.2,2,"Practice exam",9,15
+258818,21,Statistics,408,100,4.1,2,"Practice exam",0.65,10
+258818,21,Statistics,408,50,4.1,2,"Practice exam",2.35,10
+258818,21,Statistics,402,100,4.1,2,"Practice exam",4.23,16
+258818,21,Statistics,401,67,4.1,2,"Practice exam",9,15
+258818,22,Mathematics,408,100,28.7,2,"Practice exam",0.65,10
+258818,22,Mathematics,408,50,28.7,2,"Practice exam",2.35,10
+258818,22,Mathematics,402,100,28.7,2,"Practice exam",4.23,16
+258818,22,Mathematics,401,67,28.7,2,"Practice exam",9,15
+258818,23,"Introduction to Excel",408,100,15.5,2,"Practice exam",0.65,10
+258818,23,"Introduction to Excel",408,50,15.5,2,"Practice exam",2.35,10
+258818,23,"Introduction to Excel",402,100,15.5,2,"Practice exam",4.23,16
+258818,23,"Introduction to Excel",401,67,15.5,2,"Practice exam",9,15
+258818,28,"Power BI",408,100,15.1,2,"Practice exam",0.65,10
+258818,28,"Power BI",408,50,15.1,2,"Practice exam",2.35,10
+258818,28,"Power BI",402,100,15.1,2,"Practice exam",4.23,16
+258818,28,"Power BI",401,67,15.1,2,"Practice exam",9,15
+258818,28,"Power BI",408,100,32.7,2,"Practice exam",0.65,10
+258818,28,"Power BI",408,50,32.7,2,"Practice exam",2.35,10
+258818,28,"Power BI",402,100,32.7,2,"Practice exam",4.23,16
+258818,28,"Power BI",401,67,32.7,2,"Practice exam",9,15
+258818,28,"Power BI",408,100,15.7,2,"Practice exam",0.65,10
+258818,28,"Power BI",408,50,15.7,2,"Practice exam",2.35,10
+258818,28,"Power BI",402,100,15.7,2,"Practice exam",4.23,16
+258818,28,"Power BI",401,67,15.7,2,"Practice exam",9,15
+258818,28,"Power BI",408,100,12.8,2,"Practice exam",0.65,10
+258818,28,"Power BI",408,50,12.8,2,"Practice exam",2.35,10
+258818,28,"Power BI",402,100,12.8,2,"Practice exam",4.23,16
+258818,28,"Power BI",401,67,12.8,2,"Practice exam",9,15
+258818,28,"Power BI",408,100,3,2,"Practice exam",0.65,10
+258818,28,"Power BI",408,50,3,2,"Practice exam",2.35,10
+258818,28,"Power BI",402,100,3,2,"Practice exam",4.23,16
+258818,28,"Power BI",401,67,3,2,"Practice exam",9,15
+258818,28,"Power BI",408,100,11.1,2,"Practice exam",0.65,10
+258818,28,"Power BI",408,50,11.1,2,"Practice exam",2.35,10
+258818,28,"Power BI",402,100,11.1,2,"Practice exam",4.23,16
+258818,28,"Power BI",401,67,11.1,2,"Practice exam",9,15
+258818,28,"Power BI",408,100,17.8,2,"Practice exam",0.65,10
+258818,28,"Power BI",408,50,17.8,2,"Practice exam",2.35,10
+258818,28,"Power BI",402,100,17.8,2,"Practice exam",4.23,16
+258818,28,"Power BI",401,67,17.8,2,"Practice exam",9,15
+258818,28,"Power BI",408,100,2.7,2,"Practice exam",0.65,10
+258818,28,"Power BI",408,50,2.7,2,"Practice exam",2.35,10
+258818,28,"Power BI",402,100,2.7,2,"Practice exam",4.23,16
+258818,28,"Power BI",401,67,2.7,2,"Practice exam",9,15
+258818,35,"Introduction to Python",408,100,20.9,2,"Practice exam",0.65,10
+258818,35,"Introduction to Python",408,50,20.9,2,"Practice exam",2.35,10
+258818,35,"Introduction to Python",402,100,20.9,2,"Practice exam",4.23,16
+258818,35,"Introduction to Python",401,67,20.9,2,"Practice exam",9,15
+258818,35,"Introduction to Python",408,100,4.8,2,"Practice exam",0.65,10
+258818,35,"Introduction to Python",408,50,4.8,2,"Practice exam",2.35,10
+258818,35,"Introduction to Python",402,100,4.8,2,"Practice exam",4.23,16
+258818,35,"Introduction to Python",401,67,4.8,2,"Practice exam",9,15
+258818,35,"Introduction to Python",408,100,6.7,2,"Practice exam",0.65,10
+258818,35,"Introduction to Python",408,50,6.7,2,"Practice exam",2.35,10
+258818,35,"Introduction to Python",402,100,6.7,2,"Practice exam",4.23,16
+258818,35,"Introduction to Python",401,67,6.7,2,"Practice exam",9,15
+258818,35,"Introduction to Python",408,100,5.8,2,"Practice exam",0.65,10
+258818,35,"Introduction to Python",408,50,5.8,2,"Practice exam",2.35,10
+258818,35,"Introduction to Python",402,100,5.8,2,"Practice exam",4.23,16
+258818,35,"Introduction to Python",401,67,5.8,2,"Practice exam",9,15
+258818,39,"Advanced Microsoft Excel",408,100,12.8,2,"Practice exam",0.65,10
+258818,39,"Advanced Microsoft Excel",408,50,12.8,2,"Practice exam",2.35,10
+258818,39,"Advanced Microsoft Excel",402,100,12.8,2,"Practice exam",4.23,16
+258818,39,"Advanced Microsoft Excel",401,67,12.8,2,"Practice exam",9,15
+258832,13,"Data Analysis with Excel Pivot Tables",531,17,46.3,2,"Practice exam",6.47,18
+258832,13,"Data Analysis with Excel Pivot Tables",530,100,46.3,2,"Practice exam",12.62,16
+258832,21,Statistics,531,17,0.9,2,"Practice exam",6.47,18
+258832,21,Statistics,530,100,0.9,2,"Practice exam",12.62,16
+258832,21,Statistics,531,17,13.2,2,"Practice exam",6.47,18
+258832,21,Statistics,530,100,13.2,2,"Practice exam",12.62,16
+258832,21,Statistics,531,17,14.4,2,"Practice exam",6.47,18
+258832,21,Statistics,530,100,14.4,2,"Practice exam",12.62,16
+258832,21,Statistics,531,17,42.3,2,"Practice exam",6.47,18
+258832,21,Statistics,530,100,42.3,2,"Practice exam",12.62,16
+258832,23,"Introduction to Excel",531,17,70.4,2,"Practice exam",6.47,18
+258832,23,"Introduction to Excel",530,100,70.4,2,"Practice exam",12.62,16
+258832,23,"Introduction to Excel",531,17,36.2,2,"Practice exam",6.47,18
+258832,23,"Introduction to Excel",530,100,36.2,2,"Practice exam",12.62,16
+258832,23,"Introduction to Excel",531,17,71,2,"Practice exam",6.47,18
+258832,23,"Introduction to Excel",530,100,71,2,"Practice exam",12.62,16
+258832,23,"Introduction to Excel",531,17,3.6,2,"Practice exam",6.47,18
+258832,23,"Introduction to Excel",530,100,3.6,2,"Practice exam",12.62,16
+258832,39,"Advanced Microsoft Excel",531,17,0.1,2,"Practice exam",6.47,18
+258832,39,"Advanced Microsoft Excel",530,100,0.1,2,"Practice exam",12.62,16
+258832,39,"Advanced Microsoft Excel",531,17,0.3,2,"Practice exam",6.47,18
+258832,39,"Advanced Microsoft Excel",530,100,0.3,2,"Practice exam",12.62,16
+258908,21,Statistics,449,100,15,2,"Practice exam",3.45,15
+258908,21,Statistics,448,100,15,2,"Practice exam",3.18,10
+258908,21,Statistics,449,100,205.8,2,"Practice exam",3.45,15
+258908,21,Statistics,448,100,205.8,2,"Practice exam",3.18,10
+258908,24,Probability,449,100,138.5,2,"Practice exam",3.45,15
+258908,24,Probability,448,100,138.5,2,"Practice exam",3.18,10
+258908,45,"SQL for Data Science Interviews",449,100,7.4,2,"Practice exam",3.45,15
+258908,45,"SQL for Data Science Interviews",448,100,7.4,2,"Practice exam",3.18,10
+258908,45,"SQL for Data Science Interviews",449,100,41.5,2,"Practice exam",3.45,15
+258908,45,"SQL for Data Science Interviews",448,100,41.5,2,"Practice exam",3.18,10
+258908,45,"SQL for Data Science Interviews",449,100,6.3,2,"Practice exam",3.45,15
+258908,45,"SQL for Data Science Interviews",448,100,6.3,2,"Practice exam",3.18,10
+258908,45,"SQL for Data Science Interviews",449,100,71.8,2,"Practice exam",3.45,15
+258908,45,"SQL for Data Science Interviews",448,100,71.8,2,"Practice exam",3.18,10
+258908,45,"SQL for Data Science Interviews",449,100,28.4,2,"Practice exam",3.45,15
+258908,45,"SQL for Data Science Interviews",448,100,28.4,2,"Practice exam",3.18,10
+258908,45,"SQL for Data Science Interviews",449,100,38.4,2,"Practice exam",3.45,15
+258908,45,"SQL for Data Science Interviews",448,100,38.4,2,"Practice exam",3.18,10
+258908,45,"SQL for Data Science Interviews",449,100,5.7,2,"Practice exam",3.45,15
+258908,45,"SQL for Data Science Interviews",448,100,5.7,2,"Practice exam",3.18,10
+258913,2,"Introduction to Tableau",684,100,60.6,2,"Practice exam",5.67,8
+258913,2,"Introduction to Tableau",401,100,60.6,2,"Practice exam",0.47,15
+258913,2,"Introduction to Tableau",401,33,60.6,2,"Practice exam",9.98,15
+258913,2,"Introduction to Tableau",684,100,3.4,2,"Practice exam",5.67,8
+258913,2,"Introduction to Tableau",401,100,3.4,2,"Practice exam",0.47,15
+258913,2,"Introduction to Tableau",401,33,3.4,2,"Practice exam",9.98,15
+258913,2,"Introduction to Tableau",684,100,52.4,2,"Practice exam",5.67,8
+258913,2,"Introduction to Tableau",401,100,52.4,2,"Practice exam",0.47,15
+258913,2,"Introduction to Tableau",401,33,52.4,2,"Practice exam",9.98,15
+258913,2,"Introduction to Tableau",684,100,12.6,2,"Practice exam",5.67,8
+258913,2,"Introduction to Tableau",401,100,12.6,2,"Practice exam",0.47,15
+258913,2,"Introduction to Tableau",401,33,12.6,2,"Practice exam",9.98,15
+258913,7,"Introduction to Data and Data Science",684,100,45.5,2,"Practice exam",5.67,8
+258913,7,"Introduction to Data and Data Science",401,100,45.5,2,"Practice exam",0.47,15
+258913,7,"Introduction to Data and Data Science",401,33,45.5,2,"Practice exam",9.98,15
+258913,7,"Introduction to Data and Data Science",684,100,100,2,"Practice exam",5.67,8
+258913,7,"Introduction to Data and Data Science",401,100,100,2,"Practice exam",0.47,15
+258913,7,"Introduction to Data and Data Science",401,33,100,2,"Practice exam",9.98,15
+258913,14,SQL,684,100,28.8,2,"Practice exam",5.67,8
+258913,14,SQL,401,100,28.8,2,"Practice exam",0.47,15
+258913,14,SQL,401,33,28.8,2,"Practice exam",9.98,15
+258913,14,SQL,684,100,70.9,2,"Practice exam",5.67,8
+258913,14,SQL,401,100,70.9,2,"Practice exam",0.47,15
+258913,14,SQL,401,33,70.9,2,"Practice exam",9.98,15
+258913,14,SQL,684,100,0.4,2,"Practice exam",5.67,8
+258913,14,SQL,401,100,0.4,2,"Practice exam",0.47,15
+258913,14,SQL,401,33,0.4,2,"Practice exam",9.98,15
+258913,14,SQL,684,100,47,2,"Practice exam",5.67,8
+258913,14,SQL,401,100,47,2,"Practice exam",0.47,15
+258913,14,SQL,401,33,47,2,"Practice exam",9.98,15
+258913,14,SQL,684,100,0.2,2,"Practice exam",5.67,8
+258913,14,SQL,401,100,0.2,2,"Practice exam",0.47,15
+258913,14,SQL,401,33,0.2,2,"Practice exam",9.98,15
+258913,14,SQL,684,100,0.1,2,"Practice exam",5.67,8
+258913,14,SQL,401,100,0.1,2,"Practice exam",0.47,15
+258913,14,SQL,401,33,0.1,2,"Practice exam",9.98,15
+258913,14,SQL,684,100,37.2,2,"Practice exam",5.67,8
+258913,14,SQL,401,100,37.2,2,"Practice exam",0.47,15
+258913,14,SQL,401,33,37.2,2,"Practice exam",9.98,15
+258913,14,SQL,684,100,132.3,2,"Practice exam",5.67,8
+258913,14,SQL,401,100,132.3,2,"Practice exam",0.47,15
+258913,14,SQL,401,33,132.3,2,"Practice exam",9.98,15
+258913,14,SQL,684,100,64.1,2,"Practice exam",5.67,8
+258913,14,SQL,401,100,64.1,2,"Practice exam",0.47,15
+258913,14,SQL,401,33,64.1,2,"Practice exam",9.98,15
+258913,14,SQL,684,100,22.2,2,"Practice exam",5.67,8
+258913,14,SQL,401,100,22.2,2,"Practice exam",0.47,15
+258913,14,SQL,401,33,22.2,2,"Practice exam",9.98,15
+258913,14,SQL,684,100,3.7,2,"Practice exam",5.67,8
+258913,14,SQL,401,100,3.7,2,"Practice exam",0.47,15
+258913,14,SQL,401,33,3.7,2,"Practice exam",9.98,15
+258913,14,SQL,684,100,28.1,2,"Practice exam",5.67,8
+258913,14,SQL,401,100,28.1,2,"Practice exam",0.47,15
+258913,14,SQL,401,33,28.1,2,"Practice exam",9.98,15
+258913,14,SQL,684,100,19.3,2,"Practice exam",5.67,8
+258913,14,SQL,401,100,19.3,2,"Practice exam",0.47,15
+258913,14,SQL,401,33,19.3,2,"Practice exam",9.98,15
+258913,14,SQL,684,100,55.7,2,"Practice exam",5.67,8
+258913,14,SQL,401,100,55.7,2,"Practice exam",0.47,15
+258913,14,SQL,401,33,55.7,2,"Practice exam",9.98,15
+258913,14,SQL,684,100,79.2,2,"Practice exam",5.67,8
+258913,14,SQL,401,100,79.2,2,"Practice exam",0.47,15
+258913,14,SQL,401,33,79.2,2,"Practice exam",9.98,15
+258913,14,SQL,684,100,44.4,2,"Practice exam",5.67,8
+258913,14,SQL,401,100,44.4,2,"Practice exam",0.47,15
+258913,14,SQL,401,33,44.4,2,"Practice exam",9.98,15
+258913,14,SQL,684,100,2.3,2,"Practice exam",5.67,8
+258913,14,SQL,401,100,2.3,2,"Practice exam",0.47,15
+258913,14,SQL,401,33,2.3,2,"Practice exam",9.98,15
+258913,14,SQL,684,100,32.5,2,"Practice exam",5.67,8
+258913,14,SQL,401,100,32.5,2,"Practice exam",0.47,15
+258913,14,SQL,401,33,32.5,2,"Practice exam",9.98,15
+258913,14,SQL,684,100,31.4,2,"Practice exam",5.67,8
+258913,14,SQL,401,100,31.4,2,"Practice exam",0.47,15
+258913,14,SQL,401,33,31.4,2,"Practice exam",9.98,15
+258913,14,SQL,684,100,20.4,2,"Practice exam",5.67,8
+258913,14,SQL,401,100,20.4,2,"Practice exam",0.47,15
+258913,14,SQL,401,33,20.4,2,"Practice exam",9.98,15
+258913,14,SQL,684,100,21.7,2,"Practice exam",5.67,8
+258913,14,SQL,401,100,21.7,2,"Practice exam",0.47,15
+258913,14,SQL,401,33,21.7,2,"Practice exam",9.98,15
+258913,14,SQL,684,100,8.5,2,"Practice exam",5.67,8
+258913,14,SQL,401,100,8.5,2,"Practice exam",0.47,15
+258913,14,SQL,401,33,8.5,2,"Practice exam",9.98,15
+258913,14,SQL,684,100,14.7,2,"Practice exam",5.67,8
+258913,14,SQL,401,100,14.7,2,"Practice exam",0.47,15
+258913,14,SQL,401,33,14.7,2,"Practice exam",9.98,15
+258913,21,Statistics,684,100,87.1,2,"Practice exam",5.67,8
+258913,21,Statistics,401,100,87.1,2,"Practice exam",0.47,15
+258913,21,Statistics,401,33,87.1,2,"Practice exam",9.98,15
+258913,23,"Introduction to Excel",684,100,5.1,2,"Practice exam",5.67,8
+258913,23,"Introduction to Excel",401,100,5.1,2,"Practice exam",0.47,15
+258913,23,"Introduction to Excel",401,33,5.1,2,"Practice exam",9.98,15
+258913,23,"Introduction to Excel",684,100,29.2,2,"Practice exam",5.67,8
+258913,23,"Introduction to Excel",401,100,29.2,2,"Practice exam",0.47,15
+258913,23,"Introduction to Excel",401,33,29.2,2,"Practice exam",9.98,15
+258913,23,"Introduction to Excel",684,100,5.8,2,"Practice exam",5.67,8
+258913,23,"Introduction to Excel",401,100,5.8,2,"Practice exam",0.47,15
+258913,23,"Introduction to Excel",401,33,5.8,2,"Practice exam",9.98,15
+258913,23,"Introduction to Excel",684,100,126.3,2,"Practice exam",5.67,8
+258913,23,"Introduction to Excel",401,100,126.3,2,"Practice exam",0.47,15
+258913,23,"Introduction to Excel",401,33,126.3,2,"Practice exam",9.98,15
+258913,23,"Introduction to Excel",684,100,32.9,2,"Practice exam",5.67,8
+258913,23,"Introduction to Excel",401,100,32.9,2,"Practice exam",0.47,15
+258913,23,"Introduction to Excel",401,33,32.9,2,"Practice exam",9.98,15
+258913,23,"Introduction to Excel",684,100,0.1,2,"Practice exam",5.67,8
+258913,23,"Introduction to Excel",401,100,0.1,2,"Practice exam",0.47,15
+258913,23,"Introduction to Excel",401,33,0.1,2,"Practice exam",9.98,15
+258913,30,"Git and GitHub",684,100,5.5,2,"Practice exam",5.67,8
+258913,30,"Git and GitHub",401,100,5.5,2,"Practice exam",0.47,15
+258913,30,"Git and GitHub",401,33,5.5,2,"Practice exam",9.98,15
+258913,30,"Git and GitHub",684,100,1.5,2,"Practice exam",5.67,8
+258913,30,"Git and GitHub",401,100,1.5,2,"Practice exam",0.47,15
+258913,30,"Git and GitHub",401,33,1.5,2,"Practice exam",9.98,15
+258913,46,"Data Literacy",684,100,26.2,2,"Practice exam",5.67,8
+258913,46,"Data Literacy",401,100,26.2,2,"Practice exam",0.47,15
+258913,46,"Data Literacy",401,33,26.2,2,"Practice exam",9.98,15
+258913,46,"Data Literacy",684,100,40.5,2,"Practice exam",5.67,8
+258913,46,"Data Literacy",401,100,40.5,2,"Practice exam",0.47,15
+258913,46,"Data Literacy",401,33,40.5,2,"Practice exam",9.98,15
+258913,46,"Data Literacy",684,100,63.5,2,"Practice exam",5.67,8
+258913,46,"Data Literacy",401,100,63.5,2,"Practice exam",0.47,15
+258913,46,"Data Literacy",401,33,63.5,2,"Practice exam",9.98,15
+258956,7,"Introduction to Data and Data Science",684,100,12.3,2,"Practice exam",5.18,8
+258956,7,"Introduction to Data and Data Science",684,100,55.9,2,"Practice exam",5.18,8
+258956,7,"Introduction to Data and Data Science",684,100,15.7,2,"Practice exam",5.18,8
+258956,14,SQL,684,100,95.7,2,"Practice exam",5.18,8
+258956,14,SQL,684,100,64.7,2,"Practice exam",5.18,8
+258956,14,SQL,684,100,63,2,"Practice exam",5.18,8
+258956,14,SQL,684,100,53.4,2,"Practice exam",5.18,8
+258956,14,SQL,684,100,52.1,2,"Practice exam",5.18,8
+258956,14,SQL,684,100,10.7,2,"Practice exam",5.18,8
+258956,14,SQL,684,100,36.4,2,"Practice exam",5.18,8
+258956,14,SQL,684,100,0.1,2,"Practice exam",5.18,8
+258956,21,Statistics,684,100,49.5,2,"Practice exam",5.18,8
+258956,23,"Introduction to Excel",684,100,14.8,2,"Practice exam",5.18,8
+258956,23,"Introduction to Excel",684,100,24.4,2,"Practice exam",5.18,8
+258956,23,"Introduction to Excel",684,100,82,2,"Practice exam",5.18,8
+258956,23,"Introduction to Excel",684,100,41.5,2,"Practice exam",5.18,8
+258956,7,"Introduction to Data and Data Science",684,100,44.7,2,"Practice exam",5.18,8
+258971,7,"Introduction to Data and Data Science",367,67,61,1,"Course exam",6.42,10
+258971,7,"Introduction to Data and Data Science",365,100,61,2,"Practice exam",0.42,20
+258971,7,"Introduction to Data and Data Science",365,67,61,2,"Practice exam",10.4,20
+258971,7,"Introduction to Data and Data Science",367,67,9.3,1,"Course exam",6.42,10
+258971,7,"Introduction to Data and Data Science",365,100,9.3,2,"Practice exam",0.42,20
+258971,7,"Introduction to Data and Data Science",365,67,9.3,2,"Practice exam",10.4,20
+258971,7,"Introduction to Data and Data Science",367,67,7.2,1,"Course exam",6.42,10
+258971,7,"Introduction to Data and Data Science",365,100,7.2,2,"Practice exam",0.42,20
+258971,7,"Introduction to Data and Data Science",365,67,7.2,2,"Practice exam",10.4,20
+258971,7,"Introduction to Data and Data Science",367,67,18.1,1,"Course exam",6.42,10
+258971,7,"Introduction to Data and Data Science",365,100,18.1,2,"Practice exam",0.42,20
+258971,7,"Introduction to Data and Data Science",365,67,18.1,2,"Practice exam",10.4,20
+258971,7,"Introduction to Data and Data Science",367,67,8.9,1,"Course exam",6.42,10
+258971,7,"Introduction to Data and Data Science",365,100,8.9,2,"Practice exam",0.42,20
+258971,7,"Introduction to Data and Data Science",365,67,8.9,2,"Practice exam",10.4,20
+258971,7,"Introduction to Data and Data Science",367,67,32.6,1,"Course exam",6.42,10
+258971,7,"Introduction to Data and Data Science",365,100,32.6,2,"Practice exam",0.42,20
+258971,7,"Introduction to Data and Data Science",365,67,32.6,2,"Practice exam",10.4,20
+258971,14,SQL,367,67,7.7,1,"Course exam",6.42,10
+258971,14,SQL,365,100,7.7,2,"Practice exam",0.42,20
+258971,14,SQL,365,67,7.7,2,"Practice exam",10.4,20
+258971,14,SQL,367,67,4.4,1,"Course exam",6.42,10
+258971,14,SQL,365,100,4.4,2,"Practice exam",0.42,20
+258971,14,SQL,365,67,4.4,2,"Practice exam",10.4,20
+258971,14,SQL,367,67,11.7,1,"Course exam",6.42,10
+258971,14,SQL,365,100,11.7,2,"Practice exam",0.42,20
+258971,14,SQL,365,67,11.7,2,"Practice exam",10.4,20
+258971,14,SQL,367,67,0.3,1,"Course exam",6.42,10
+258971,14,SQL,365,100,0.3,2,"Practice exam",0.42,20
+258971,14,SQL,365,67,0.3,2,"Practice exam",10.4,20
+258971,14,SQL,367,67,3.2,1,"Course exam",6.42,10
+258971,14,SQL,365,100,3.2,2,"Practice exam",0.42,20
+258971,14,SQL,365,67,3.2,2,"Practice exam",10.4,20
+258971,20,"Introduction to Jupyter",367,67,24.6,1,"Course exam",6.42,10
+258971,20,"Introduction to Jupyter",365,100,24.6,2,"Practice exam",0.42,20
+258971,20,"Introduction to Jupyter",365,67,24.6,2,"Practice exam",10.4,20
+258971,20,"Introduction to Jupyter",367,67,18.9,1,"Course exam",6.42,10
+258971,20,"Introduction to Jupyter",365,100,18.9,2,"Practice exam",0.42,20
+258971,20,"Introduction to Jupyter",365,67,18.9,2,"Practice exam",10.4,20
+258971,21,Statistics,367,67,23.9,1,"Course exam",6.42,10
+258971,21,Statistics,365,100,23.9,2,"Practice exam",0.42,20
+258971,21,Statistics,365,67,23.9,2,"Practice exam",10.4,20
+258971,21,Statistics,367,67,3.7,1,"Course exam",6.42,10
+258971,21,Statistics,365,100,3.7,2,"Practice exam",0.42,20
+258971,21,Statistics,365,67,3.7,2,"Practice exam",10.4,20
+258971,21,Statistics,367,67,67.9,1,"Course exam",6.42,10
+258971,21,Statistics,365,100,67.9,2,"Practice exam",0.42,20
+258971,21,Statistics,365,67,67.9,2,"Practice exam",10.4,20
+258971,21,Statistics,367,67,5.8,1,"Course exam",6.42,10
+258971,21,Statistics,365,100,5.8,2,"Practice exam",0.42,20
+258971,21,Statistics,365,67,5.8,2,"Practice exam",10.4,20
+258971,21,Statistics,367,67,4.7,1,"Course exam",6.42,10
+258971,21,Statistics,365,100,4.7,2,"Practice exam",0.42,20
+258971,21,Statistics,365,67,4.7,2,"Practice exam",10.4,20
+258971,22,Mathematics,367,67,22,1,"Course exam",6.42,10
+258971,22,Mathematics,365,100,22,2,"Practice exam",0.42,20
+258971,22,Mathematics,365,67,22,2,"Practice exam",10.4,20
+258971,7,"Introduction to Data and Data Science",367,67,0.3,1,"Course exam",6.42,10
+258971,7,"Introduction to Data and Data Science",365,100,0.3,2,"Practice exam",0.42,20
+258971,7,"Introduction to Data and Data Science",365,67,0.3,2,"Practice exam",10.4,20
+258984,7,"Introduction to Data and Data Science",366,100,34.7,2,"Practice exam",0.5,20
+258984,7,"Introduction to Data and Data Science",366,33,34.7,2,"Practice exam",4.22,20
+258984,7,"Introduction to Data and Data Science",365,100,34.7,2,"Practice exam",0.42,20
+258984,7,"Introduction to Data and Data Science",365,50,34.7,2,"Practice exam",4.02,20
+258984,7,"Introduction to Data and Data Science",366,100,37.7,2,"Practice exam",0.5,20
+258984,7,"Introduction to Data and Data Science",366,33,37.7,2,"Practice exam",4.22,20
+258984,7,"Introduction to Data and Data Science",365,100,37.7,2,"Practice exam",0.42,20
+258984,7,"Introduction to Data and Data Science",365,50,37.7,2,"Practice exam",4.02,20
+258984,7,"Introduction to Data and Data Science",366,100,11.1,2,"Practice exam",0.5,20
+258984,7,"Introduction to Data and Data Science",366,33,11.1,2,"Practice exam",4.22,20
+258984,7,"Introduction to Data and Data Science",365,100,11.1,2,"Practice exam",0.42,20
+258984,7,"Introduction to Data and Data Science",365,50,11.1,2,"Practice exam",4.02,20
+258984,7,"Introduction to Data and Data Science",366,100,56.7,2,"Practice exam",0.5,20
+258984,7,"Introduction to Data and Data Science",366,33,56.7,2,"Practice exam",4.22,20
+258984,7,"Introduction to Data and Data Science",365,100,56.7,2,"Practice exam",0.42,20
+258984,7,"Introduction to Data and Data Science",365,50,56.7,2,"Practice exam",4.02,20
+258984,20,"Introduction to Jupyter",366,100,29.3,2,"Practice exam",0.5,20
+258984,20,"Introduction to Jupyter",366,33,29.3,2,"Practice exam",4.22,20
+258984,20,"Introduction to Jupyter",365,100,29.3,2,"Practice exam",0.42,20
+258984,20,"Introduction to Jupyter",365,50,29.3,2,"Practice exam",4.02,20
+258984,20,"Introduction to Jupyter",366,100,0.1,2,"Practice exam",0.5,20
+258984,20,"Introduction to Jupyter",366,33,0.1,2,"Practice exam",4.22,20
+258984,20,"Introduction to Jupyter",365,100,0.1,2,"Practice exam",0.42,20
+258984,20,"Introduction to Jupyter",365,50,0.1,2,"Practice exam",4.02,20
+258984,20,"Introduction to Jupyter",366,100,25.7,2,"Practice exam",0.5,20
+258984,20,"Introduction to Jupyter",366,33,25.7,2,"Practice exam",4.22,20
+258984,20,"Introduction to Jupyter",365,100,25.7,2,"Practice exam",0.42,20
+258984,20,"Introduction to Jupyter",365,50,25.7,2,"Practice exam",4.02,20
+258984,21,Statistics,366,100,28.3,2,"Practice exam",0.5,20
+258984,21,Statistics,366,33,28.3,2,"Practice exam",4.22,20
+258984,21,Statistics,365,100,28.3,2,"Practice exam",0.42,20
+258984,21,Statistics,365,50,28.3,2,"Practice exam",4.02,20
+258984,23,"Introduction to Excel",366,100,7.1,2,"Practice exam",0.5,20
+258984,23,"Introduction to Excel",366,33,7.1,2,"Practice exam",4.22,20
+258984,23,"Introduction to Excel",365,100,7.1,2,"Practice exam",0.42,20
+258984,23,"Introduction to Excel",365,50,7.1,2,"Practice exam",4.02,20
+258984,23,"Introduction to Excel",366,100,30.8,2,"Practice exam",0.5,20
+258984,23,"Introduction to Excel",366,33,30.8,2,"Practice exam",4.22,20
+258984,23,"Introduction to Excel",365,100,30.8,2,"Practice exam",0.42,20
+258984,23,"Introduction to Excel",365,50,30.8,2,"Practice exam",4.02,20
+258984,23,"Introduction to Excel",366,100,50,2,"Practice exam",0.5,20
+258984,23,"Introduction to Excel",366,33,50,2,"Practice exam",4.22,20
+258984,23,"Introduction to Excel",365,100,50,2,"Practice exam",0.42,20
+258984,23,"Introduction to Excel",365,50,50,2,"Practice exam",4.02,20
+258984,30,"Git and GitHub",366,100,6.5,2,"Practice exam",0.5,20
+258984,30,"Git and GitHub",366,33,6.5,2,"Practice exam",4.22,20
+258984,30,"Git and GitHub",365,100,6.5,2,"Practice exam",0.42,20
+258984,30,"Git and GitHub",365,50,6.5,2,"Practice exam",4.02,20
+258984,30,"Git and GitHub",366,100,11.9,2,"Practice exam",0.5,20
+258984,30,"Git and GitHub",366,33,11.9,2,"Practice exam",4.22,20
+258984,30,"Git and GitHub",365,100,11.9,2,"Practice exam",0.42,20
+258984,30,"Git and GitHub",365,50,11.9,2,"Practice exam",4.02,20
+258984,30,"Git and GitHub",366,100,17.6,2,"Practice exam",0.5,20
+258984,30,"Git and GitHub",366,33,17.6,2,"Practice exam",4.22,20
+258984,30,"Git and GitHub",365,100,17.6,2,"Practice exam",0.42,20
+258984,30,"Git and GitHub",365,50,17.6,2,"Practice exam",4.02,20
+258984,35,"Introduction to Python",366,100,0.3,2,"Practice exam",0.5,20
+258984,35,"Introduction to Python",366,33,0.3,2,"Practice exam",4.22,20
+258984,35,"Introduction to Python",365,100,0.3,2,"Practice exam",0.42,20
+258984,35,"Introduction to Python",365,50,0.3,2,"Practice exam",4.02,20
+258984,35,"Introduction to Python",366,100,11.2,2,"Practice exam",0.5,20
+258984,35,"Introduction to Python",366,33,11.2,2,"Practice exam",4.22,20
+258984,35,"Introduction to Python",365,100,11.2,2,"Practice exam",0.42,20
+258984,35,"Introduction to Python",365,50,11.2,2,"Practice exam",4.02,20
+258984,35,"Introduction to Python",366,100,16.2,2,"Practice exam",0.5,20
+258984,35,"Introduction to Python",366,33,16.2,2,"Practice exam",4.22,20
+258984,35,"Introduction to Python",365,100,16.2,2,"Practice exam",0.42,20
+258984,35,"Introduction to Python",365,50,16.2,2,"Practice exam",4.02,20
+258984,35,"Introduction to Python",366,100,39.7,2,"Practice exam",0.5,20
+258984,35,"Introduction to Python",366,33,39.7,2,"Practice exam",4.22,20
+258984,35,"Introduction to Python",365,100,39.7,2,"Practice exam",0.42,20
+258984,35,"Introduction to Python",365,50,39.7,2,"Practice exam",4.02,20
+258984,7,"Introduction to Data and Data Science",366,100,19.8,2,"Practice exam",0.5,20
+258984,7,"Introduction to Data and Data Science",366,33,19.8,2,"Practice exam",4.22,20
+258984,7,"Introduction to Data and Data Science",365,100,19.8,2,"Practice exam",0.42,20
+258984,7,"Introduction to Data and Data Science",365,50,19.8,2,"Practice exam",4.02,20
+259174,2,"Introduction to Tableau",539,100,73,2,"Practice exam",0.53,10
+259174,2,"Introduction to Tableau",539,67,73,2,"Practice exam",10,10
+259174,2,"Introduction to Tableau",367,100,73,1,"Course exam",5.35,10
+259174,2,"Introduction to Tableau",366,100,73,2,"Practice exam",4.33,20
+259174,2,"Introduction to Tableau",365,100,73,2,"Practice exam",0.48,20
+259174,2,"Introduction to Tableau",365,67,73,2,"Practice exam",3.33,20
+259174,2,"Introduction to Tableau",714,100,73,2,"Practice exam",16.38,20
+259174,2,"Introduction to Tableau",713,100,73,2,"Practice exam",8.03,18
+259174,2,"Introduction to Tableau",712,100,73,2,"Practice exam",4.03,10
+259174,2,"Introduction to Tableau",757,100,73,2,"Practice exam",0.68,8
+259174,2,"Introduction to Tableau",757,83,73,2,"Practice exam",5.37,8
+259174,2,"Introduction to Tableau",756,100,73,2,"Practice exam",6.23,8
+259174,2,"Introduction to Tableau",755,100,73,2,"Practice exam",0.7,10
+259174,2,"Introduction to Tableau",755,67,73,2,"Practice exam",5.87,10
+259174,2,"Introduction to Tableau",539,100,43.5,2,"Practice exam",0.53,10
+259174,2,"Introduction to Tableau",539,67,43.5,2,"Practice exam",10,10
+259174,2,"Introduction to Tableau",367,100,43.5,1,"Course exam",5.35,10
+259174,2,"Introduction to Tableau",366,100,43.5,2,"Practice exam",4.33,20
+259174,2,"Introduction to Tableau",365,100,43.5,2,"Practice exam",0.48,20
+259174,2,"Introduction to Tableau",365,67,43.5,2,"Practice exam",3.33,20
+259174,2,"Introduction to Tableau",714,100,43.5,2,"Practice exam",16.38,20
+259174,2,"Introduction to Tableau",713,100,43.5,2,"Practice exam",8.03,18
+259174,2,"Introduction to Tableau",712,100,43.5,2,"Practice exam",4.03,10
+259174,2,"Introduction to Tableau",757,100,43.5,2,"Practice exam",0.68,8
+259174,2,"Introduction to Tableau",757,83,43.5,2,"Practice exam",5.37,8
+259174,2,"Introduction to Tableau",756,100,43.5,2,"Practice exam",6.23,8
+259174,2,"Introduction to Tableau",755,100,43.5,2,"Practice exam",0.7,10
+259174,2,"Introduction to Tableau",755,67,43.5,2,"Practice exam",5.87,10
+259174,2,"Introduction to Tableau",539,100,26.1,2,"Practice exam",0.53,10
+259174,2,"Introduction to Tableau",539,67,26.1,2,"Practice exam",10,10
+259174,2,"Introduction to Tableau",367,100,26.1,1,"Course exam",5.35,10
+259174,2,"Introduction to Tableau",366,100,26.1,2,"Practice exam",4.33,20
+259174,2,"Introduction to Tableau",365,100,26.1,2,"Practice exam",0.48,20
+259174,2,"Introduction to Tableau",365,67,26.1,2,"Practice exam",3.33,20
+259174,2,"Introduction to Tableau",714,100,26.1,2,"Practice exam",16.38,20
+259174,2,"Introduction to Tableau",713,100,26.1,2,"Practice exam",8.03,18
+259174,2,"Introduction to Tableau",712,100,26.1,2,"Practice exam",4.03,10
+259174,2,"Introduction to Tableau",757,100,26.1,2,"Practice exam",0.68,8
+259174,2,"Introduction to Tableau",757,83,26.1,2,"Practice exam",5.37,8
+259174,2,"Introduction to Tableau",756,100,26.1,2,"Practice exam",6.23,8
+259174,2,"Introduction to Tableau",755,100,26.1,2,"Practice exam",0.7,10
+259174,2,"Introduction to Tableau",755,67,26.1,2,"Practice exam",5.87,10
+259174,2,"Introduction to Tableau",539,100,18.8,2,"Practice exam",0.53,10
+259174,2,"Introduction to Tableau",539,67,18.8,2,"Practice exam",10,10
+259174,2,"Introduction to Tableau",367,100,18.8,1,"Course exam",5.35,10
+259174,2,"Introduction to Tableau",366,100,18.8,2,"Practice exam",4.33,20
+259174,2,"Introduction to Tableau",365,100,18.8,2,"Practice exam",0.48,20
+259174,2,"Introduction to Tableau",365,67,18.8,2,"Practice exam",3.33,20
+259174,2,"Introduction to Tableau",714,100,18.8,2,"Practice exam",16.38,20
+259174,2,"Introduction to Tableau",713,100,18.8,2,"Practice exam",8.03,18
+259174,2,"Introduction to Tableau",712,100,18.8,2,"Practice exam",4.03,10
+259174,2,"Introduction to Tableau",757,100,18.8,2,"Practice exam",0.68,8
+259174,2,"Introduction to Tableau",757,83,18.8,2,"Practice exam",5.37,8
+259174,2,"Introduction to Tableau",756,100,18.8,2,"Practice exam",6.23,8
+259174,2,"Introduction to Tableau",755,100,18.8,2,"Practice exam",0.7,10
+259174,2,"Introduction to Tableau",755,67,18.8,2,"Practice exam",5.87,10
+259174,3,"The Complete Data Visualization Course with Python, R, Tableau, and Excel",539,100,101.9,2,"Practice exam",0.53,10
+259174,3,"The Complete Data Visualization Course with Python, R, Tableau, and Excel",539,67,101.9,2,"Practice exam",10,10
+259174,3,"The Complete Data Visualization Course with Python, R, Tableau, and Excel",367,100,101.9,1,"Course exam",5.35,10
+259174,3,"The Complete Data Visualization Course with Python, R, Tableau, and Excel",366,100,101.9,2,"Practice exam",4.33,20
+259174,3,"The Complete Data Visualization Course with Python, R, Tableau, and Excel",365,100,101.9,2,"Practice exam",0.48,20
+259174,3,"The Complete Data Visualization Course with Python, R, Tableau, and Excel",365,67,101.9,2,"Practice exam",3.33,20
+259174,3,"The Complete Data Visualization Course with Python, R, Tableau, and Excel",714,100,101.9,2,"Practice exam",16.38,20
+259174,3,"The Complete Data Visualization Course with Python, R, Tableau, and Excel",713,100,101.9,2,"Practice exam",8.03,18
+259174,3,"The Complete Data Visualization Course with Python, R, Tableau, and Excel",712,100,101.9,2,"Practice exam",4.03,10
+259174,3,"The Complete Data Visualization Course with Python, R, Tableau, and Excel",757,100,101.9,2,"Practice exam",0.68,8
+259174,3,"The Complete Data Visualization Course with Python, R, Tableau, and Excel",757,83,101.9,2,"Practice exam",5.37,8
+259174,3,"The Complete Data Visualization Course with Python, R, Tableau, and Excel",756,100,101.9,2,"Practice exam",6.23,8
+259174,3,"The Complete Data Visualization Course with Python, R, Tableau, and Excel",755,100,101.9,2,"Practice exam",0.7,10
+259174,3,"The Complete Data Visualization Course with Python, R, Tableau, and Excel",755,67,101.9,2,"Practice exam",5.87,10
+259174,3,"The Complete Data Visualization Course with Python, R, Tableau, and Excel",539,100,54.1,2,"Practice exam",0.53,10
+259174,3,"The Complete Data Visualization Course with Python, R, Tableau, and Excel",539,67,54.1,2,"Practice exam",10,10
+259174,3,"The Complete Data Visualization Course with Python, R, Tableau, and Excel",367,100,54.1,1,"Course exam",5.35,10
+259174,3,"The Complete Data Visualization Course with Python, R, Tableau, and Excel",366,100,54.1,2,"Practice exam",4.33,20
+259174,3,"The Complete Data Visualization Course with Python, R, Tableau, and Excel",365,100,54.1,2,"Practice exam",0.48,20
+259174,3,"The Complete Data Visualization Course with Python, R, Tableau, and Excel",365,67,54.1,2,"Practice exam",3.33,20
+259174,3,"The Complete Data Visualization Course with Python, R, Tableau, and Excel",714,100,54.1,2,"Practice exam",16.38,20
+259174,3,"The Complete Data Visualization Course with Python, R, Tableau, and Excel",713,100,54.1,2,"Practice exam",8.03,18
+259174,3,"The Complete Data Visualization Course with Python, R, Tableau, and Excel",712,100,54.1,2,"Practice exam",4.03,10
+259174,3,"The Complete Data Visualization Course with Python, R, Tableau, and Excel",757,100,54.1,2,"Practice exam",0.68,8
+259174,3,"The Complete Data Visualization Course with Python, R, Tableau, and Excel",757,83,54.1,2,"Practice exam",5.37,8
+259174,3,"The Complete Data Visualization Course with Python, R, Tableau, and Excel",756,100,54.1,2,"Practice exam",6.23,8
+259174,3,"The Complete Data Visualization Course with Python, R, Tableau, and Excel",755,100,54.1,2,"Practice exam",0.7,10
+259174,3,"The Complete Data Visualization Course with Python, R, Tableau, and Excel",755,67,54.1,2,"Practice exam",5.87,10
+259174,3,"The Complete Data Visualization Course with Python, R, Tableau, and Excel",539,100,53.7,2,"Practice exam",0.53,10
+259174,3,"The Complete Data Visualization Course with Python, R, Tableau, and Excel",539,67,53.7,2,"Practice exam",10,10
+259174,3,"The Complete Data Visualization Course with Python, R, Tableau, and Excel",367,100,53.7,1,"Course exam",5.35,10
+259174,3,"The Complete Data Visualization Course with Python, R, Tableau, and Excel",366,100,53.7,2,"Practice exam",4.33,20
+259174,3,"The Complete Data Visualization Course with Python, R, Tableau, and Excel",365,100,53.7,2,"Practice exam",0.48,20
+259174,3,"The Complete Data Visualization Course with Python, R, Tableau, and Excel",365,67,53.7,2,"Practice exam",3.33,20
+259174,3,"The Complete Data Visualization Course with Python, R, Tableau, and Excel",714,100,53.7,2,"Practice exam",16.38,20
+259174,3,"The Complete Data Visualization Course with Python, R, Tableau, and Excel",713,100,53.7,2,"Practice exam",8.03,18
+259174,3,"The Complete Data Visualization Course with Python, R, Tableau, and Excel",712,100,53.7,2,"Practice exam",4.03,10
+259174,3,"The Complete Data Visualization Course with Python, R, Tableau, and Excel",757,100,53.7,2,"Practice exam",0.68,8
+259174,3,"The Complete Data Visualization Course with Python, R, Tableau, and Excel",757,83,53.7,2,"Practice exam",5.37,8
+259174,3,"The Complete Data Visualization Course with Python, R, Tableau, and Excel",756,100,53.7,2,"Practice exam",6.23,8
+259174,3,"The Complete Data Visualization Course with Python, R, Tableau, and Excel",755,100,53.7,2,"Practice exam",0.7,10
+259174,3,"The Complete Data Visualization Course with Python, R, Tableau, and Excel",755,67,53.7,2,"Practice exam",5.87,10
+259174,3,"The Complete Data Visualization Course with Python, R, Tableau, and Excel",539,100,142.2,2,"Practice exam",0.53,10
+259174,3,"The Complete Data Visualization Course with Python, R, Tableau, and Excel",539,67,142.2,2,"Practice exam",10,10
+259174,3,"The Complete Data Visualization Course with Python, R, Tableau, and Excel",367,100,142.2,1,"Course exam",5.35,10
+259174,3,"The Complete Data Visualization Course with Python, R, Tableau, and Excel",366,100,142.2,2,"Practice exam",4.33,20
+259174,3,"The Complete Data Visualization Course with Python, R, Tableau, and Excel",365,100,142.2,2,"Practice exam",0.48,20
+259174,3,"The Complete Data Visualization Course with Python, R, Tableau, and Excel",365,67,142.2,2,"Practice exam",3.33,20
+259174,3,"The Complete Data Visualization Course with Python, R, Tableau, and Excel",714,100,142.2,2,"Practice exam",16.38,20
+259174,3,"The Complete Data Visualization Course with Python, R, Tableau, and Excel",713,100,142.2,2,"Practice exam",8.03,18
+259174,3,"The Complete Data Visualization Course with Python, R, Tableau, and Excel",712,100,142.2,2,"Practice exam",4.03,10
+259174,3,"The Complete Data Visualization Course with Python, R, Tableau, and Excel",757,100,142.2,2,"Practice exam",0.68,8
+259174,3,"The Complete Data Visualization Course with Python, R, Tableau, and Excel",757,83,142.2,2,"Practice exam",5.37,8
+259174,3,"The Complete Data Visualization Course with Python, R, Tableau, and Excel",756,100,142.2,2,"Practice exam",6.23,8
+259174,3,"The Complete Data Visualization Course with Python, R, Tableau, and Excel",755,100,142.2,2,"Practice exam",0.7,10
+259174,3,"The Complete Data Visualization Course with Python, R, Tableau, and Excel",755,67,142.2,2,"Practice exam",5.87,10
+259174,3,"The Complete Data Visualization Course with Python, R, Tableau, and Excel",539,100,43.4,2,"Practice exam",0.53,10
+259174,3,"The Complete Data Visualization Course with Python, R, Tableau, and Excel",539,67,43.4,2,"Practice exam",10,10
+259174,3,"The Complete Data Visualization Course with Python, R, Tableau, and Excel",367,100,43.4,1,"Course exam",5.35,10
+259174,3,"The Complete Data Visualization Course with Python, R, Tableau, and Excel",366,100,43.4,2,"Practice exam",4.33,20
+259174,3,"The Complete Data Visualization Course with Python, R, Tableau, and Excel",365,100,43.4,2,"Practice exam",0.48,20
+259174,3,"The Complete Data Visualization Course with Python, R, Tableau, and Excel",365,67,43.4,2,"Practice exam",3.33,20
+259174,3,"The Complete Data Visualization Course with Python, R, Tableau, and Excel",714,100,43.4,2,"Practice exam",16.38,20
+259174,3,"The Complete Data Visualization Course with Python, R, Tableau, and Excel",713,100,43.4,2,"Practice exam",8.03,18
+259174,3,"The Complete Data Visualization Course with Python, R, Tableau, and Excel",712,100,43.4,2,"Practice exam",4.03,10
+259174,3,"The Complete Data Visualization Course with Python, R, Tableau, and Excel",757,100,43.4,2,"Practice exam",0.68,8
+259174,3,"The Complete Data Visualization Course with Python, R, Tableau, and Excel",757,83,43.4,2,"Practice exam",5.37,8
+259174,3,"The Complete Data Visualization Course with Python, R, Tableau, and Excel",756,100,43.4,2,"Practice exam",6.23,8
+259174,3,"The Complete Data Visualization Course with Python, R, Tableau, and Excel",755,100,43.4,2,"Practice exam",0.7,10
+259174,3,"The Complete Data Visualization Course with Python, R, Tableau, and Excel",755,67,43.4,2,"Practice exam",5.87,10
+259174,3,"The Complete Data Visualization Course with Python, R, Tableau, and Excel",539,100,20.5,2,"Practice exam",0.53,10
+259174,3,"The Complete Data Visualization Course with Python, R, Tableau, and Excel",539,67,20.5,2,"Practice exam",10,10
+259174,3,"The Complete Data Visualization Course with Python, R, Tableau, and Excel",367,100,20.5,1,"Course exam",5.35,10
+259174,3,"The Complete Data Visualization Course with Python, R, Tableau, and Excel",366,100,20.5,2,"Practice exam",4.33,20
+259174,3,"The Complete Data Visualization Course with Python, R, Tableau, and Excel",365,100,20.5,2,"Practice exam",0.48,20
+259174,3,"The Complete Data Visualization Course with Python, R, Tableau, and Excel",365,67,20.5,2,"Practice exam",3.33,20
+259174,3,"The Complete Data Visualization Course with Python, R, Tableau, and Excel",714,100,20.5,2,"Practice exam",16.38,20
+259174,3,"The Complete Data Visualization Course with Python, R, Tableau, and Excel",713,100,20.5,2,"Practice exam",8.03,18
+259174,3,"The Complete Data Visualization Course with Python, R, Tableau, and Excel",712,100,20.5,2,"Practice exam",4.03,10
+259174,3,"The Complete Data Visualization Course with Python, R, Tableau, and Excel",757,100,20.5,2,"Practice exam",0.68,8
+259174,3,"The Complete Data Visualization Course with Python, R, Tableau, and Excel",757,83,20.5,2,"Practice exam",5.37,8
+259174,3,"The Complete Data Visualization Course with Python, R, Tableau, and Excel",756,100,20.5,2,"Practice exam",6.23,8
+259174,3,"The Complete Data Visualization Course with Python, R, Tableau, and Excel",755,100,20.5,2,"Practice exam",0.7,10
+259174,3,"The Complete Data Visualization Course with Python, R, Tableau, and Excel",755,67,20.5,2,"Practice exam",5.87,10
+259174,3,"The Complete Data Visualization Course with Python, R, Tableau, and Excel",539,100,110.7,2,"Practice exam",0.53,10
+259174,3,"The Complete Data Visualization Course with Python, R, Tableau, and Excel",539,67,110.7,2,"Practice exam",10,10
+259174,3,"The Complete Data Visualization Course with Python, R, Tableau, and Excel",367,100,110.7,1,"Course exam",5.35,10
+259174,3,"The Complete Data Visualization Course with Python, R, Tableau, and Excel",366,100,110.7,2,"Practice exam",4.33,20
+259174,3,"The Complete Data Visualization Course with Python, R, Tableau, and Excel",365,100,110.7,2,"Practice exam",0.48,20
+259174,3,"The Complete Data Visualization Course with Python, R, Tableau, and Excel",365,67,110.7,2,"Practice exam",3.33,20
+259174,3,"The Complete Data Visualization Course with Python, R, Tableau, and Excel",714,100,110.7,2,"Practice exam",16.38,20
+259174,3,"The Complete Data Visualization Course with Python, R, Tableau, and Excel",713,100,110.7,2,"Practice exam",8.03,18
+259174,3,"The Complete Data Visualization Course with Python, R, Tableau, and Excel",712,100,110.7,2,"Practice exam",4.03,10
+259174,3,"The Complete Data Visualization Course with Python, R, Tableau, and Excel",757,100,110.7,2,"Practice exam",0.68,8
+259174,3,"The Complete Data Visualization Course with Python, R, Tableau, and Excel",757,83,110.7,2,"Practice exam",5.37,8
+259174,3,"The Complete Data Visualization Course with Python, R, Tableau, and Excel",756,100,110.7,2,"Practice exam",6.23,8
+259174,3,"The Complete Data Visualization Course with Python, R, Tableau, and Excel",755,100,110.7,2,"Practice exam",0.7,10
+259174,3,"The Complete Data Visualization Course with Python, R, Tableau, and Excel",755,67,110.7,2,"Practice exam",5.87,10
+259174,3,"The Complete Data Visualization Course with Python, R, Tableau, and Excel",539,100,13.7,2,"Practice exam",0.53,10
+259174,3,"The Complete Data Visualization Course with Python, R, Tableau, and Excel",539,67,13.7,2,"Practice exam",10,10
+259174,3,"The Complete Data Visualization Course with Python, R, Tableau, and Excel",367,100,13.7,1,"Course exam",5.35,10
+259174,3,"The Complete Data Visualization Course with Python, R, Tableau, and Excel",366,100,13.7,2,"Practice exam",4.33,20
+259174,3,"The Complete Data Visualization Course with Python, R, Tableau, and Excel",365,100,13.7,2,"Practice exam",0.48,20
+259174,3,"The Complete Data Visualization Course with Python, R, Tableau, and Excel",365,67,13.7,2,"Practice exam",3.33,20
+259174,3,"The Complete Data Visualization Course with Python, R, Tableau, and Excel",714,100,13.7,2,"Practice exam",16.38,20
+259174,3,"The Complete Data Visualization Course with Python, R, Tableau, and Excel",713,100,13.7,2,"Practice exam",8.03,18
+259174,3,"The Complete Data Visualization Course with Python, R, Tableau, and Excel",712,100,13.7,2,"Practice exam",4.03,10
+259174,3,"The Complete Data Visualization Course with Python, R, Tableau, and Excel",757,100,13.7,2,"Practice exam",0.68,8
+259174,3,"The Complete Data Visualization Course with Python, R, Tableau, and Excel",757,83,13.7,2,"Practice exam",5.37,8
+259174,3,"The Complete Data Visualization Course with Python, R, Tableau, and Excel",756,100,13.7,2,"Practice exam",6.23,8
+259174,3,"The Complete Data Visualization Course with Python, R, Tableau, and Excel",755,100,13.7,2,"Practice exam",0.7,10
+259174,3,"The Complete Data Visualization Course with Python, R, Tableau, and Excel",755,67,13.7,2,"Practice exam",5.87,10
+259174,3,"The Complete Data Visualization Course with Python, R, Tableau, and Excel",539,100,14.8,2,"Practice exam",0.53,10
+259174,3,"The Complete Data Visualization Course with Python, R, Tableau, and Excel",539,67,14.8,2,"Practice exam",10,10
+259174,3,"The Complete Data Visualization Course with Python, R, Tableau, and Excel",367,100,14.8,1,"Course exam",5.35,10
+259174,3,"The Complete Data Visualization Course with Python, R, Tableau, and Excel",366,100,14.8,2,"Practice exam",4.33,20
+259174,3,"The Complete Data Visualization Course with Python, R, Tableau, and Excel",365,100,14.8,2,"Practice exam",0.48,20
+259174,3,"The Complete Data Visualization Course with Python, R, Tableau, and Excel",365,67,14.8,2,"Practice exam",3.33,20
+259174,3,"The Complete Data Visualization Course with Python, R, Tableau, and Excel",714,100,14.8,2,"Practice exam",16.38,20
+259174,3,"The Complete Data Visualization Course with Python, R, Tableau, and Excel",713,100,14.8,2,"Practice exam",8.03,18
+259174,3,"The Complete Data Visualization Course with Python, R, Tableau, and Excel",712,100,14.8,2,"Practice exam",4.03,10
+259174,3,"The Complete Data Visualization Course with Python, R, Tableau, and Excel",757,100,14.8,2,"Practice exam",0.68,8
+259174,3,"The Complete Data Visualization Course with Python, R, Tableau, and Excel",757,83,14.8,2,"Practice exam",5.37,8
+259174,3,"The Complete Data Visualization Course with Python, R, Tableau, and Excel",756,100,14.8,2,"Practice exam",6.23,8
+259174,3,"The Complete Data Visualization Course with Python, R, Tableau, and Excel",755,100,14.8,2,"Practice exam",0.7,10
+259174,3,"The Complete Data Visualization Course with Python, R, Tableau, and Excel",755,67,14.8,2,"Practice exam",5.87,10
+259174,3,"The Complete Data Visualization Course with Python, R, Tableau, and Excel",539,100,86.1,2,"Practice exam",0.53,10
+259174,3,"The Complete Data Visualization Course with Python, R, Tableau, and Excel",539,67,86.1,2,"Practice exam",10,10
+259174,3,"The Complete Data Visualization Course with Python, R, Tableau, and Excel",367,100,86.1,1,"Course exam",5.35,10
+259174,3,"The Complete Data Visualization Course with Python, R, Tableau, and Excel",366,100,86.1,2,"Practice exam",4.33,20
+259174,3,"The Complete Data Visualization Course with Python, R, Tableau, and Excel",365,100,86.1,2,"Practice exam",0.48,20
+259174,3,"The Complete Data Visualization Course with Python, R, Tableau, and Excel",365,67,86.1,2,"Practice exam",3.33,20
+259174,3,"The Complete Data Visualization Course with Python, R, Tableau, and Excel",714,100,86.1,2,"Practice exam",16.38,20
+259174,3,"The Complete Data Visualization Course with Python, R, Tableau, and Excel",713,100,86.1,2,"Practice exam",8.03,18
+259174,3,"The Complete Data Visualization Course with Python, R, Tableau, and Excel",712,100,86.1,2,"Practice exam",4.03,10
+259174,3,"The Complete Data Visualization Course with Python, R, Tableau, and Excel",757,100,86.1,2,"Practice exam",0.68,8
+259174,3,"The Complete Data Visualization Course with Python, R, Tableau, and Excel",757,83,86.1,2,"Practice exam",5.37,8
+259174,3,"The Complete Data Visualization Course with Python, R, Tableau, and Excel",756,100,86.1,2,"Practice exam",6.23,8
+259174,3,"The Complete Data Visualization Course with Python, R, Tableau, and Excel",755,100,86.1,2,"Practice exam",0.7,10
+259174,3,"The Complete Data Visualization Course with Python, R, Tableau, and Excel",755,67,86.1,2,"Practice exam",5.87,10
+259174,3,"The Complete Data Visualization Course with Python, R, Tableau, and Excel",539,100,52.6,2,"Practice exam",0.53,10
+259174,3,"The Complete Data Visualization Course with Python, R, Tableau, and Excel",539,67,52.6,2,"Practice exam",10,10
+259174,3,"The Complete Data Visualization Course with Python, R, Tableau, and Excel",367,100,52.6,1,"Course exam",5.35,10
+259174,3,"The Complete Data Visualization Course with Python, R, Tableau, and Excel",366,100,52.6,2,"Practice exam",4.33,20
+259174,3,"The Complete Data Visualization Course with Python, R, Tableau, and Excel",365,100,52.6,2,"Practice exam",0.48,20
+259174,3,"The Complete Data Visualization Course with Python, R, Tableau, and Excel",365,67,52.6,2,"Practice exam",3.33,20
+259174,3,"The Complete Data Visualization Course with Python, R, Tableau, and Excel",714,100,52.6,2,"Practice exam",16.38,20
+259174,3,"The Complete Data Visualization Course with Python, R, Tableau, and Excel",713,100,52.6,2,"Practice exam",8.03,18
+259174,3,"The Complete Data Visualization Course with Python, R, Tableau, and Excel",712,100,52.6,2,"Practice exam",4.03,10
+259174,3,"The Complete Data Visualization Course with Python, R, Tableau, and Excel",757,100,52.6,2,"Practice exam",0.68,8
+259174,3,"The Complete Data Visualization Course with Python, R, Tableau, and Excel",757,83,52.6,2,"Practice exam",5.37,8
+259174,3,"The Complete Data Visualization Course with Python, R, Tableau, and Excel",756,100,52.6,2,"Practice exam",6.23,8
+259174,3,"The Complete Data Visualization Course with Python, R, Tableau, and Excel",755,100,52.6,2,"Practice exam",0.7,10
+259174,3,"The Complete Data Visualization Course with Python, R, Tableau, and Excel",755,67,52.6,2,"Practice exam",5.87,10
+259174,3,"The Complete Data Visualization Course with Python, R, Tableau, and Excel",539,100,67,2,"Practice exam",0.53,10
+259174,3,"The Complete Data Visualization Course with Python, R, Tableau, and Excel",539,67,67,2,"Practice exam",10,10
+259174,3,"The Complete Data Visualization Course with Python, R, Tableau, and Excel",367,100,67,1,"Course exam",5.35,10
+259174,3,"The Complete Data Visualization Course with Python, R, Tableau, and Excel",366,100,67,2,"Practice exam",4.33,20
+259174,3,"The Complete Data Visualization Course with Python, R, Tableau, and Excel",365,100,67,2,"Practice exam",0.48,20
+259174,3,"The Complete Data Visualization Course with Python, R, Tableau, and Excel",365,67,67,2,"Practice exam",3.33,20
+259174,3,"The Complete Data Visualization Course with Python, R, Tableau, and Excel",714,100,67,2,"Practice exam",16.38,20
+259174,3,"The Complete Data Visualization Course with Python, R, Tableau, and Excel",713,100,67,2,"Practice exam",8.03,18
+259174,3,"The Complete Data Visualization Course with Python, R, Tableau, and Excel",712,100,67,2,"Practice exam",4.03,10
+259174,3,"The Complete Data Visualization Course with Python, R, Tableau, and Excel",757,100,67,2,"Practice exam",0.68,8
+259174,3,"The Complete Data Visualization Course with Python, R, Tableau, and Excel",757,83,67,2,"Practice exam",5.37,8
+259174,3,"The Complete Data Visualization Course with Python, R, Tableau, and Excel",756,100,67,2,"Practice exam",6.23,8
+259174,3,"The Complete Data Visualization Course with Python, R, Tableau, and Excel",755,100,67,2,"Practice exam",0.7,10
+259174,3,"The Complete Data Visualization Course with Python, R, Tableau, and Excel",755,67,67,2,"Practice exam",5.87,10
+259174,3,"The Complete Data Visualization Course with Python, R, Tableau, and Excel",539,100,73,2,"Practice exam",0.53,10
+259174,3,"The Complete Data Visualization Course with Python, R, Tableau, and Excel",539,67,73,2,"Practice exam",10,10
+259174,3,"The Complete Data Visualization Course with Python, R, Tableau, and Excel",367,100,73,1,"Course exam",5.35,10
+259174,3,"The Complete Data Visualization Course with Python, R, Tableau, and Excel",366,100,73,2,"Practice exam",4.33,20
+259174,3,"The Complete Data Visualization Course with Python, R, Tableau, and Excel",365,100,73,2,"Practice exam",0.48,20
+259174,3,"The Complete Data Visualization Course with Python, R, Tableau, and Excel",365,67,73,2,"Practice exam",3.33,20
+259174,3,"The Complete Data Visualization Course with Python, R, Tableau, and Excel",714,100,73,2,"Practice exam",16.38,20
+259174,3,"The Complete Data Visualization Course with Python, R, Tableau, and Excel",713,100,73,2,"Practice exam",8.03,18
+259174,3,"The Complete Data Visualization Course with Python, R, Tableau, and Excel",712,100,73,2,"Practice exam",4.03,10
+259174,3,"The Complete Data Visualization Course with Python, R, Tableau, and Excel",757,100,73,2,"Practice exam",0.68,8
+259174,3,"The Complete Data Visualization Course with Python, R, Tableau, and Excel",757,83,73,2,"Practice exam",5.37,8
+259174,3,"The Complete Data Visualization Course with Python, R, Tableau, and Excel",756,100,73,2,"Practice exam",6.23,8
+259174,3,"The Complete Data Visualization Course with Python, R, Tableau, and Excel",755,100,73,2,"Practice exam",0.7,10
+259174,3,"The Complete Data Visualization Course with Python, R, Tableau, and Excel",755,67,73,2,"Practice exam",5.87,10
+259174,7,"Introduction to Data and Data Science",539,100,88.2,2,"Practice exam",0.53,10
+259174,7,"Introduction to Data and Data Science",539,67,88.2,2,"Practice exam",10,10
+259174,7,"Introduction to Data and Data Science",367,100,88.2,1,"Course exam",5.35,10
+259174,7,"Introduction to Data and Data Science",366,100,88.2,2,"Practice exam",4.33,20
+259174,7,"Introduction to Data and Data Science",365,100,88.2,2,"Practice exam",0.48,20
+259174,7,"Introduction to Data and Data Science",365,67,88.2,2,"Practice exam",3.33,20
+259174,7,"Introduction to Data and Data Science",714,100,88.2,2,"Practice exam",16.38,20
+259174,7,"Introduction to Data and Data Science",713,100,88.2,2,"Practice exam",8.03,18
+259174,7,"Introduction to Data and Data Science",712,100,88.2,2,"Practice exam",4.03,10
+259174,7,"Introduction to Data and Data Science",757,100,88.2,2,"Practice exam",0.68,8
+259174,7,"Introduction to Data and Data Science",757,83,88.2,2,"Practice exam",5.37,8
+259174,7,"Introduction to Data and Data Science",756,100,88.2,2,"Practice exam",6.23,8
+259174,7,"Introduction to Data and Data Science",755,100,88.2,2,"Practice exam",0.7,10
+259174,7,"Introduction to Data and Data Science",755,67,88.2,2,"Practice exam",5.87,10
+259174,7,"Introduction to Data and Data Science",539,100,58.5,2,"Practice exam",0.53,10
+259174,7,"Introduction to Data and Data Science",539,67,58.5,2,"Practice exam",10,10
+259174,7,"Introduction to Data and Data Science",367,100,58.5,1,"Course exam",5.35,10
+259174,7,"Introduction to Data and Data Science",366,100,58.5,2,"Practice exam",4.33,20
+259174,7,"Introduction to Data and Data Science",365,100,58.5,2,"Practice exam",0.48,20
+259174,7,"Introduction to Data and Data Science",365,67,58.5,2,"Practice exam",3.33,20
+259174,7,"Introduction to Data and Data Science",714,100,58.5,2,"Practice exam",16.38,20
+259174,7,"Introduction to Data and Data Science",713,100,58.5,2,"Practice exam",8.03,18
+259174,7,"Introduction to Data and Data Science",712,100,58.5,2,"Practice exam",4.03,10
+259174,7,"Introduction to Data and Data Science",757,100,58.5,2,"Practice exam",0.68,8
+259174,7,"Introduction to Data and Data Science",757,83,58.5,2,"Practice exam",5.37,8
+259174,7,"Introduction to Data and Data Science",756,100,58.5,2,"Practice exam",6.23,8
+259174,7,"Introduction to Data and Data Science",755,100,58.5,2,"Practice exam",0.7,10
+259174,7,"Introduction to Data and Data Science",755,67,58.5,2,"Practice exam",5.87,10
+259174,7,"Introduction to Data and Data Science",539,100,139.3,2,"Practice exam",0.53,10
+259174,7,"Introduction to Data and Data Science",539,67,139.3,2,"Practice exam",10,10
+259174,7,"Introduction to Data and Data Science",367,100,139.3,1,"Course exam",5.35,10
+259174,7,"Introduction to Data and Data Science",366,100,139.3,2,"Practice exam",4.33,20
+259174,7,"Introduction to Data and Data Science",365,100,139.3,2,"Practice exam",0.48,20
+259174,7,"Introduction to Data and Data Science",365,67,139.3,2,"Practice exam",3.33,20
+259174,7,"Introduction to Data and Data Science",714,100,139.3,2,"Practice exam",16.38,20
+259174,7,"Introduction to Data and Data Science",713,100,139.3,2,"Practice exam",8.03,18
+259174,7,"Introduction to Data and Data Science",712,100,139.3,2,"Practice exam",4.03,10
+259174,7,"Introduction to Data and Data Science",757,100,139.3,2,"Practice exam",0.68,8
+259174,7,"Introduction to Data and Data Science",757,83,139.3,2,"Practice exam",5.37,8
+259174,7,"Introduction to Data and Data Science",756,100,139.3,2,"Practice exam",6.23,8
+259174,7,"Introduction to Data and Data Science",755,100,139.3,2,"Practice exam",0.7,10
+259174,7,"Introduction to Data and Data Science",755,67,139.3,2,"Practice exam",5.87,10
+259174,7,"Introduction to Data and Data Science",539,100,115.7,2,"Practice exam",0.53,10
+259174,7,"Introduction to Data and Data Science",539,67,115.7,2,"Practice exam",10,10
+259174,7,"Introduction to Data and Data Science",367,100,115.7,1,"Course exam",5.35,10
+259174,7,"Introduction to Data and Data Science",366,100,115.7,2,"Practice exam",4.33,20
+259174,7,"Introduction to Data and Data Science",365,100,115.7,2,"Practice exam",0.48,20
+259174,7,"Introduction to Data and Data Science",365,67,115.7,2,"Practice exam",3.33,20
+259174,7,"Introduction to Data and Data Science",714,100,115.7,2,"Practice exam",16.38,20
+259174,7,"Introduction to Data and Data Science",713,100,115.7,2,"Practice exam",8.03,18
+259174,7,"Introduction to Data and Data Science",712,100,115.7,2,"Practice exam",4.03,10
+259174,7,"Introduction to Data and Data Science",757,100,115.7,2,"Practice exam",0.68,8
+259174,7,"Introduction to Data and Data Science",757,83,115.7,2,"Practice exam",5.37,8
+259174,7,"Introduction to Data and Data Science",756,100,115.7,2,"Practice exam",6.23,8
+259174,7,"Introduction to Data and Data Science",755,100,115.7,2,"Practice exam",0.7,10
+259174,7,"Introduction to Data and Data Science",755,67,115.7,2,"Practice exam",5.87,10
+259174,13,"Data Analysis with Excel Pivot Tables",539,100,37.9,2,"Practice exam",0.53,10
+259174,13,"Data Analysis with Excel Pivot Tables",539,67,37.9,2,"Practice exam",10,10
+259174,13,"Data Analysis with Excel Pivot Tables",367,100,37.9,1,"Course exam",5.35,10
+259174,13,"Data Analysis with Excel Pivot Tables",366,100,37.9,2,"Practice exam",4.33,20
+259174,13,"Data Analysis with Excel Pivot Tables",365,100,37.9,2,"Practice exam",0.48,20
+259174,13,"Data Analysis with Excel Pivot Tables",365,67,37.9,2,"Practice exam",3.33,20
+259174,13,"Data Analysis with Excel Pivot Tables",714,100,37.9,2,"Practice exam",16.38,20
+259174,13,"Data Analysis with Excel Pivot Tables",713,100,37.9,2,"Practice exam",8.03,18
+259174,13,"Data Analysis with Excel Pivot Tables",712,100,37.9,2,"Practice exam",4.03,10
+259174,13,"Data Analysis with Excel Pivot Tables",757,100,37.9,2,"Practice exam",0.68,8
+259174,13,"Data Analysis with Excel Pivot Tables",757,83,37.9,2,"Practice exam",5.37,8
+259174,13,"Data Analysis with Excel Pivot Tables",756,100,37.9,2,"Practice exam",6.23,8
+259174,13,"Data Analysis with Excel Pivot Tables",755,100,37.9,2,"Practice exam",0.7,10
+259174,13,"Data Analysis with Excel Pivot Tables",755,67,37.9,2,"Practice exam",5.87,10
+259174,14,SQL,539,100,11.1,2,"Practice exam",0.53,10
+259174,14,SQL,539,67,11.1,2,"Practice exam",10,10
+259174,14,SQL,367,100,11.1,1,"Course exam",5.35,10
+259174,14,SQL,366,100,11.1,2,"Practice exam",4.33,20
+259174,14,SQL,365,100,11.1,2,"Practice exam",0.48,20
+259174,14,SQL,365,67,11.1,2,"Practice exam",3.33,20
+259174,14,SQL,714,100,11.1,2,"Practice exam",16.38,20
+259174,14,SQL,713,100,11.1,2,"Practice exam",8.03,18
+259174,14,SQL,712,100,11.1,2,"Practice exam",4.03,10
+259174,14,SQL,757,100,11.1,2,"Practice exam",0.68,8
+259174,14,SQL,757,83,11.1,2,"Practice exam",5.37,8
+259174,14,SQL,756,100,11.1,2,"Practice exam",6.23,8
+259174,14,SQL,755,100,11.1,2,"Practice exam",0.7,10
+259174,14,SQL,755,67,11.1,2,"Practice exam",5.87,10
+259174,14,SQL,539,100,56.9,2,"Practice exam",0.53,10
+259174,14,SQL,539,67,56.9,2,"Practice exam",10,10
+259174,14,SQL,367,100,56.9,1,"Course exam",5.35,10
+259174,14,SQL,366,100,56.9,2,"Practice exam",4.33,20
+259174,14,SQL,365,100,56.9,2,"Practice exam",0.48,20
+259174,14,SQL,365,67,56.9,2,"Practice exam",3.33,20
+259174,14,SQL,714,100,56.9,2,"Practice exam",16.38,20
+259174,14,SQL,713,100,56.9,2,"Practice exam",8.03,18
+259174,14,SQL,712,100,56.9,2,"Practice exam",4.03,10
+259174,14,SQL,757,100,56.9,2,"Practice exam",0.68,8
+259174,14,SQL,757,83,56.9,2,"Practice exam",5.37,8
+259174,14,SQL,756,100,56.9,2,"Practice exam",6.23,8
+259174,14,SQL,755,100,56.9,2,"Practice exam",0.7,10
+259174,14,SQL,755,67,56.9,2,"Practice exam",5.87,10
+259174,14,SQL,539,100,0.6,2,"Practice exam",0.53,10
+259174,14,SQL,539,67,0.6,2,"Practice exam",10,10
+259174,14,SQL,367,100,0.6,1,"Course exam",5.35,10
+259174,14,SQL,366,100,0.6,2,"Practice exam",4.33,20
+259174,14,SQL,365,100,0.6,2,"Practice exam",0.48,20
+259174,14,SQL,365,67,0.6,2,"Practice exam",3.33,20
+259174,14,SQL,714,100,0.6,2,"Practice exam",16.38,20
+259174,14,SQL,713,100,0.6,2,"Practice exam",8.03,18
+259174,14,SQL,712,100,0.6,2,"Practice exam",4.03,10
+259174,14,SQL,757,100,0.6,2,"Practice exam",0.68,8
+259174,14,SQL,757,83,0.6,2,"Practice exam",5.37,8
+259174,14,SQL,756,100,0.6,2,"Practice exam",6.23,8
+259174,14,SQL,755,100,0.6,2,"Practice exam",0.7,10
+259174,14,SQL,755,67,0.6,2,"Practice exam",5.87,10
+259174,14,SQL,539,100,32.9,2,"Practice exam",0.53,10
+259174,14,SQL,539,67,32.9,2,"Practice exam",10,10
+259174,14,SQL,367,100,32.9,1,"Course exam",5.35,10
+259174,14,SQL,366,100,32.9,2,"Practice exam",4.33,20
+259174,14,SQL,365,100,32.9,2,"Practice exam",0.48,20

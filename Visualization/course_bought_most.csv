@@ -1,0 +1,47 @@
+course_id,course_title,number_of_student_bought
+7,"Introduction to Data and Data Science",15353
+21,Statistics,7046
+14,SQL,6702
+23,"Introduction to Excel",6032
+16,"Python Programmer Bootcamp",4628
+42,"Data Strategy",3210
+37,"Machine Learning in Python",1678
+24,Probability,1479
+46,"Data Literacy",1378
+3,"The Complete Data Visualization Course with Python, R, Tableau, and Excel",1360
+35,"Introduction to Python",1281
+28,"Power BI",1247
+2,"Introduction to Tableau",1137
+13,"Data Analysis with Excel Pivot Tables",1062
+5,"Data Preprocessing with NumPy",921
+45,"SQL for Data Science Interviews",898
+15,"Credit Risk Modeling in Python",833
+20,"Introduction to Jupyter",710
+4,"Introduction to R Programming",704
+11,"Data Cleaning and Preprocessing with pandas",683
+39,"Advanced Microsoft Excel",556
+22,Mathematics,536
+32,"Deep Learning with TensorFlow 2",494
+34,"Web Scraping and API Fundamentals in Python",471
+25,"Starting a Career in Data Science: Project Portfolio, Resume, and Interview Process",427
+27,"Time Series Analysis with Python",387
+12,"Introduction to Business Analytics",366
+30,"Git and GitHub",353
+29,"Product Management for AI & Data Science",321
+33,"Customer Analytics in Python",286
+26,"SQL + Tableau",247
+19,"SQL + Tableau + Python",205
+53,"A/B Testing in Python",201
+36,"Python for Finance",187
+43,"Fashion Analytics with Tableau",160
+49,"Linear Algebra and Feature Selection",135
+41,"Convolutional Neural Networks with TensorFlow in Python",119
+50,"Machine Learning with NaÃ¯ve Bayes",119
+51,"Machine Learning in Excel",110
+54,"Machine Learning with Decision Trees and Random Forests",89
+52,"Machine Learning with Support Vector Machines",83
+55,"Machine Learning with K-Nearest Neighbors",69
+48,"AI Applications for Business Success",63
+44,"Dates and Times in Python",56
+57,"Data-Driven Business Growth",55
+56,"Machine Learning with Ridge and Lasso Regression",27

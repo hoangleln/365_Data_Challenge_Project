@@ -1,0 +1,1001 @@
+student_id,exam_id,course_id,course_title,exam_result,exam_cat_descr,exam_duration,exam_completion_time,engagement_quizzes,engagement_exams,engagement_lessons
+258803,408,19,"SQL + Tableau + Python",83,"Practice exam",10,3.38,1,1,1
+258803,408,19,"SQL + Tableau + Python",83,"Practice exam",10,3.38,1,1,1
+258803,408,19,"SQL + Tableau + Python",83,"Practice exam",10,3.38,1,1,1
+258803,408,19,"SQL + Tableau + Python",83,"Practice exam",10,3.38,1,1,1
+258803,408,19,"SQL + Tableau + Python",83,"Practice exam",10,3.38,1,1,1
+258803,408,16,"Python Programmer Bootcamp",83,"Practice exam",10,3.38,1,1,1
+258803,408,14,SQL,83,"Practice exam",10,3.38,1,1,1
+258803,408,14,SQL,83,"Practice exam",10,3.38,1,1,1
+258803,408,14,SQL,83,"Practice exam",10,3.38,1,1,1
+258803,408,14,SQL,83,"Practice exam",10,3.38,1,1,1
+258803,408,14,SQL,83,"Practice exam",10,3.38,1,1,1
+258803,408,14,SQL,83,"Practice exam",10,3.38,1,1,1
+258803,408,14,SQL,83,"Practice exam",10,3.38,1,1,1
+258803,408,14,SQL,83,"Practice exam",10,3.38,1,1,1
+258803,408,14,SQL,83,"Practice exam",10,3.38,1,1,1
+258803,408,14,SQL,83,"Practice exam",10,3.38,1,1,1
+258803,408,14,SQL,83,"Practice exam",10,3.38,1,1,1
+258803,408,14,SQL,83,"Practice exam",10,3.38,1,1,1
+258803,408,14,SQL,83,"Practice exam",10,3.38,1,1,1
+258803,408,19,"SQL + Tableau + Python",83,"Practice exam",10,3.38,1,1,1
+258803,408,19,"SQL + Tableau + Python",83,"Practice exam",10,3.38,1,1,1
+258803,408,19,"SQL + Tableau + Python",83,"Practice exam",10,3.38,1,1,1
+258803,408,19,"SQL + Tableau + Python",83,"Practice exam",10,3.38,1,1,1
+258803,408,19,"SQL + Tableau + Python",83,"Practice exam",10,3.38,1,1,1
+258803,408,16,"Python Programmer Bootcamp",83,"Practice exam",10,3.38,1,1,1
+258803,408,14,SQL,83,"Practice exam",10,3.38,1,1,1
+258803,408,14,SQL,83,"Practice exam",10,3.38,1,1,1
+258803,408,14,SQL,83,"Practice exam",10,3.38,1,1,1
+258803,408,14,SQL,83,"Practice exam",10,3.38,1,1,1
+258803,408,14,SQL,83,"Practice exam",10,3.38,1,1,1
+258803,408,14,SQL,83,"Practice exam",10,3.38,1,1,1
+258803,408,14,SQL,83,"Practice exam",10,3.38,1,1,1
+258803,408,14,SQL,83,"Practice exam",10,3.38,1,1,1
+258803,408,14,SQL,83,"Practice exam",10,3.38,1,1,1
+258803,408,14,SQL,83,"Practice exam",10,3.38,1,1,1
+258803,408,14,SQL,83,"Practice exam",10,3.38,1,1,1
+258803,408,14,SQL,83,"Practice exam",10,3.38,1,1,1
+258803,408,14,SQL,83,"Practice exam",10,3.38,1,1,1
+258803,408,19,"SQL + Tableau + Python",83,"Practice exam",10,3.38,1,0,1
+258803,408,19,"SQL + Tableau + Python",83,"Practice exam",10,3.38,1,0,1
+258803,408,19,"SQL + Tableau + Python",83,"Practice exam",10,3.38,1,0,1
+258803,408,19,"SQL + Tableau + Python",83,"Practice exam",10,3.38,1,0,1
+258803,408,19,"SQL + Tableau + Python",83,"Practice exam",10,3.38,1,0,1
+258803,408,16,"Python Programmer Bootcamp",83,"Practice exam",10,3.38,1,0,1
+258803,408,14,SQL,83,"Practice exam",10,3.38,1,0,1
+258803,408,14,SQL,83,"Practice exam",10,3.38,1,0,1
+258803,408,14,SQL,83,"Practice exam",10,3.38,1,0,1
+258803,408,14,SQL,83,"Practice exam",10,3.38,1,0,1
+258803,408,14,SQL,83,"Practice exam",10,3.38,1,0,1
+258803,408,14,SQL,83,"Practice exam",10,3.38,1,0,1
+258803,408,14,SQL,83,"Practice exam",10,3.38,1,0,1
+258803,408,14,SQL,83,"Practice exam",10,3.38,1,0,1
+258803,408,14,SQL,83,"Practice exam",10,3.38,1,0,1
+258803,408,14,SQL,83,"Practice exam",10,3.38,1,0,1
+258803,408,14,SQL,83,"Practice exam",10,3.38,1,0,1
+258803,408,14,SQL,83,"Practice exam",10,3.38,1,0,1
+258803,408,14,SQL,83,"Practice exam",10,3.38,1,0,1
+258803,408,19,"SQL + Tableau + Python",83,"Practice exam",10,3.38,1,0,1
+258803,408,19,"SQL + Tableau + Python",83,"Practice exam",10,3.38,1,0,1
+258803,408,19,"SQL + Tableau + Python",83,"Practice exam",10,3.38,1,0,1
+258803,408,19,"SQL + Tableau + Python",83,"Practice exam",10,3.38,1,0,1
+258803,408,19,"SQL + Tableau + Python",83,"Practice exam",10,3.38,1,0,1
+258803,408,16,"Python Programmer Bootcamp",83,"Practice exam",10,3.38,1,0,1
+258803,408,14,SQL,83,"Practice exam",10,3.38,1,0,1
+258803,408,14,SQL,83,"Practice exam",10,3.38,1,0,1
+258803,408,14,SQL,83,"Practice exam",10,3.38,1,0,1
+258803,408,14,SQL,83,"Practice exam",10,3.38,1,0,1
+258803,408,14,SQL,83,"Practice exam",10,3.38,1,0,1
+258803,408,14,SQL,83,"Practice exam",10,3.38,1,0,1
+258803,408,14,SQL,83,"Practice exam",10,3.38,1,0,1
+258803,408,14,SQL,83,"Practice exam",10,3.38,1,0,1
+258803,408,14,SQL,83,"Practice exam",10,3.38,1,0,1
+258803,408,14,SQL,83,"Practice exam",10,3.38,1,0,1
+258803,408,14,SQL,83,"Practice exam",10,3.38,1,0,1
+258803,408,14,SQL,83,"Practice exam",10,3.38,1,0,1
+258803,408,14,SQL,83,"Practice exam",10,3.38,1,0,1
+258803,408,19,"SQL + Tableau + Python",83,"Practice exam",10,3.38,1,0,1
+258803,408,19,"SQL + Tableau + Python",83,"Practice exam",10,3.38,1,0,1
+258803,408,19,"SQL + Tableau + Python",83,"Practice exam",10,3.38,1,0,1
+258803,408,19,"SQL + Tableau + Python",83,"Practice exam",10,3.38,1,0,1
+258803,408,19,"SQL + Tableau + Python",83,"Practice exam",10,3.38,1,0,1
+258803,408,16,"Python Programmer Bootcamp",83,"Practice exam",10,3.38,1,0,1
+258803,408,14,SQL,83,"Practice exam",10,3.38,1,0,1
+258803,408,14,SQL,83,"Practice exam",10,3.38,1,0,1
+258803,408,14,SQL,83,"Practice exam",10,3.38,1,0,1
+258803,408,14,SQL,83,"Practice exam",10,3.38,1,0,1
+258803,408,14,SQL,83,"Practice exam",10,3.38,1,0,1
+258803,408,14,SQL,83,"Practice exam",10,3.38,1,0,1
+258803,408,14,SQL,83,"Practice exam",10,3.38,1,0,1
+258803,408,14,SQL,83,"Practice exam",10,3.38,1,0,1
+258803,408,14,SQL,83,"Practice exam",10,3.38,1,0,1
+258803,408,14,SQL,83,"Practice exam",10,3.38,1,0,1
+258803,408,14,SQL,83,"Practice exam",10,3.38,1,0,1
+258803,408,14,SQL,83,"Practice exam",10,3.38,1,0,1
+258803,408,14,SQL,83,"Practice exam",10,3.38,1,0,1
+258803,408,19,"SQL + Tableau + Python",83,"Practice exam",10,3.38,1,0,1
+258803,408,19,"SQL + Tableau + Python",83,"Practice exam",10,3.38,1,0,1
+258803,408,19,"SQL + Tableau + Python",83,"Practice exam",10,3.38,1,0,1
+258803,408,19,"SQL + Tableau + Python",83,"Practice exam",10,3.38,1,0,1
+258803,408,19,"SQL + Tableau + Python",83,"Practice exam",10,3.38,1,0,1
+258803,408,16,"Python Programmer Bootcamp",83,"Practice exam",10,3.38,1,0,1
+258803,408,14,SQL,83,"Practice exam",10,3.38,1,0,1
+258803,408,14,SQL,83,"Practice exam",10,3.38,1,0,1
+258803,408,14,SQL,83,"Practice exam",10,3.38,1,0,1
+258803,408,14,SQL,83,"Practice exam",10,3.38,1,0,1
+258803,408,14,SQL,83,"Practice exam",10,3.38,1,0,1
+258803,408,14,SQL,83,"Practice exam",10,3.38,1,0,1
+258803,408,14,SQL,83,"Practice exam",10,3.38,1,0,1
+258803,408,14,SQL,83,"Practice exam",10,3.38,1,0,1
+258803,408,14,SQL,83,"Practice exam",10,3.38,1,0,1
+258803,408,14,SQL,83,"Practice exam",10,3.38,1,0,1
+258803,408,14,SQL,83,"Practice exam",10,3.38,1,0,1
+258803,408,14,SQL,83,"Practice exam",10,3.38,1,0,1
+258803,408,14,SQL,83,"Practice exam",10,3.38,1,0,1
+258818,401,39,"Advanced Microsoft Excel",67,"Practice exam",15,9,1,0,1
+258818,402,39,"Advanced Microsoft Excel",100,"Practice exam",16,4.23,1,0,1
+258818,408,39,"Advanced Microsoft Excel",50,"Practice exam",10,2.35,1,0,1
+258818,408,39,"Advanced Microsoft Excel",100,"Practice exam",10,0.65,1,0,1
+258818,401,35,"Introduction to Python",67,"Practice exam",15,9,1,0,1
+258818,402,35,"Introduction to Python",100,"Practice exam",16,4.23,1,0,1
+258818,408,35,"Introduction to Python",50,"Practice exam",10,2.35,1,0,1
+258818,408,35,"Introduction to Python",100,"Practice exam",10,0.65,1,0,1
+258818,401,35,"Introduction to Python",67,"Practice exam",15,9,1,0,1
+258818,402,35,"Introduction to Python",100,"Practice exam",16,4.23,1,0,1
+258818,408,35,"Introduction to Python",50,"Practice exam",10,2.35,1,0,1
+258818,408,35,"Introduction to Python",100,"Practice exam",10,0.65,1,0,1
+258818,401,35,"Introduction to Python",67,"Practice exam",15,9,1,0,1
+258818,402,35,"Introduction to Python",100,"Practice exam",16,4.23,1,0,1
+258818,408,35,"Introduction to Python",50,"Practice exam",10,2.35,1,0,1
+258818,408,35,"Introduction to Python",100,"Practice exam",10,0.65,1,0,1
+258818,401,35,"Introduction to Python",67,"Practice exam",15,9,1,0,1
+258818,402,35,"Introduction to Python",100,"Practice exam",16,4.23,1,0,1
+258818,408,35,"Introduction to Python",50,"Practice exam",10,2.35,1,0,1
+258818,408,35,"Introduction to Python",100,"Practice exam",10,0.65,1,0,1
+258818,401,28,"Power BI",67,"Practice exam",15,9,1,0,1
+258818,402,28,"Power BI",100,"Practice exam",16,4.23,1,0,1
+258818,408,28,"Power BI",50,"Practice exam",10,2.35,1,0,1
+258818,408,28,"Power BI",100,"Practice exam",10,0.65,1,0,1
+258818,401,28,"Power BI",67,"Practice exam",15,9,1,0,1
+258818,402,28,"Power BI",100,"Practice exam",16,4.23,1,0,1
+258818,408,28,"Power BI",50,"Practice exam",10,2.35,1,0,1
+258818,408,28,"Power BI",100,"Practice exam",10,0.65,1,0,1
+258818,401,28,"Power BI",67,"Practice exam",15,9,1,0,1
+258818,402,28,"Power BI",100,"Practice exam",16,4.23,1,0,1
+258818,408,28,"Power BI",50,"Practice exam",10,2.35,1,0,1
+258818,408,28,"Power BI",100,"Practice exam",10,0.65,1,0,1
+258818,401,28,"Power BI",67,"Practice exam",15,9,1,0,1
+258818,402,28,"Power BI",100,"Practice exam",16,4.23,1,0,1
+258818,408,28,"Power BI",50,"Practice exam",10,2.35,1,0,1
+258818,408,28,"Power BI",100,"Practice exam",10,0.65,1,0,1
+258818,401,28,"Power BI",67,"Practice exam",15,9,1,0,1
+258818,402,28,"Power BI",100,"Practice exam",16,4.23,1,0,1
+258818,408,28,"Power BI",50,"Practice exam",10,2.35,1,0,1
+258818,408,28,"Power BI",100,"Practice exam",10,0.65,1,0,1
+258818,401,28,"Power BI",67,"Practice exam",15,9,1,0,1
+258818,402,28,"Power BI",100,"Practice exam",16,4.23,1,0,1
+258818,408,28,"Power BI",50,"Practice exam",10,2.35,1,0,1
+258818,408,28,"Power BI",100,"Practice exam",10,0.65,1,0,1
+258818,401,28,"Power BI",67,"Practice exam",15,9,1,0,1
+258818,402,28,"Power BI",100,"Practice exam",16,4.23,1,0,1
+258818,408,28,"Power BI",50,"Practice exam",10,2.35,1,0,1
+258818,408,28,"Power BI",100,"Practice exam",10,0.65,1,0,1
+258818,401,28,"Power BI",67,"Practice exam",15,9,1,0,1
+258818,402,28,"Power BI",100,"Practice exam",16,4.23,1,0,1
+258818,408,28,"Power BI",50,"Practice exam",10,2.35,1,0,1
+258818,408,28,"Power BI",100,"Practice exam",10,0.65,1,0,1
+258818,401,23,"Introduction to Excel",67,"Practice exam",15,9,1,0,1
+258818,402,23,"Introduction to Excel",100,"Practice exam",16,4.23,1,0,1
+258818,408,23,"Introduction to Excel",50,"Practice exam",10,2.35,1,0,1
+258818,408,23,"Introduction to Excel",100,"Practice exam",10,0.65,1,0,1
+258818,401,22,Mathematics,67,"Practice exam",15,9,1,0,1
+258818,402,22,Mathematics,100,"Practice exam",16,4.23,1,0,1
+258818,408,22,Mathematics,50,"Practice exam",10,2.35,1,0,1
+258818,408,22,Mathematics,100,"Practice exam",10,0.65,1,0,1
+258818,401,21,Statistics,67,"Practice exam",15,9,1,0,1
+258818,402,21,Statistics,100,"Practice exam",16,4.23,1,0,1
+258818,408,21,Statistics,50,"Practice exam",10,2.35,1,0,1
+258818,408,21,Statistics,100,"Practice exam",10,0.65,1,0,1
+258818,401,19,"SQL + Tableau + Python",67,"Practice exam",15,9,1,0,1
+258818,402,19,"SQL + Tableau + Python",100,"Practice exam",16,4.23,1,0,1
+258818,408,19,"SQL + Tableau + Python",50,"Practice exam",10,2.35,1,0,1
+258818,408,19,"SQL + Tableau + Python",100,"Practice exam",10,0.65,1,0,1
+258818,401,19,"SQL + Tableau + Python",67,"Practice exam",15,9,1,0,1
+258818,402,19,"SQL + Tableau + Python",100,"Practice exam",16,4.23,1,0,1
+258818,408,19,"SQL + Tableau + Python",50,"Practice exam",10,2.35,1,0,1
+258818,408,19,"SQL + Tableau + Python",100,"Practice exam",10,0.65,1,0,1
+258818,401,19,"SQL + Tableau + Python",67,"Practice exam",15,9,1,0,1
+258818,402,19,"SQL + Tableau + Python",100,"Practice exam",16,4.23,1,0,1
+258818,408,19,"SQL + Tableau + Python",50,"Practice exam",10,2.35,1,0,1
+258818,408,19,"SQL + Tableau + Python",100,"Practice exam",10,0.65,1,0,1
+258818,401,16,"Python Programmer Bootcamp",67,"Practice exam",15,9,1,0,1
+258818,402,16,"Python Programmer Bootcamp",100,"Practice exam",16,4.23,1,0,1
+258818,408,16,"Python Programmer Bootcamp",50,"Practice exam",10,2.35,1,0,1
+258818,408,16,"Python Programmer Bootcamp",100,"Practice exam",10,0.65,1,0,1
+258818,401,14,SQL,67,"Practice exam",15,9,1,0,1
+258818,402,14,SQL,100,"Practice exam",16,4.23,1,0,1
+258818,408,14,SQL,50,"Practice exam",10,2.35,1,0,1
+258818,408,14,SQL,100,"Practice exam",10,0.65,1,0,1
+258818,401,14,SQL,67,"Practice exam",15,9,1,0,1
+258818,402,14,SQL,100,"Practice exam",16,4.23,1,0,1
+258818,408,14,SQL,50,"Practice exam",10,2.35,1,0,1
+258818,408,14,SQL,100,"Practice exam",10,0.65,1,0,1
+258818,401,14,SQL,67,"Practice exam",15,9,1,0,1
+258818,402,14,SQL,100,"Practice exam",16,4.23,1,0,1
+258818,408,14,SQL,50,"Practice exam",10,2.35,1,0,1
+258818,408,14,SQL,100,"Practice exam",10,0.65,1,0,1
+258818,401,14,SQL,67,"Practice exam",15,9,1,0,1
+258818,402,14,SQL,100,"Practice exam",16,4.23,1,0,1
+258818,408,14,SQL,50,"Practice exam",10,2.35,1,0,1
+258818,408,14,SQL,100,"Practice exam",10,0.65,1,0,1
+258818,401,14,SQL,67,"Practice exam",15,9,1,0,1
+258818,402,14,SQL,100,"Practice exam",16,4.23,1,0,1
+258818,408,14,SQL,50,"Practice exam",10,2.35,1,0,1
+258818,408,14,SQL,100,"Practice exam",10,0.65,1,0,1
+258818,401,14,SQL,67,"Practice exam",15,9,1,0,1
+258818,402,14,SQL,100,"Practice exam",16,4.23,1,0,1
+258818,408,14,SQL,50,"Practice exam",10,2.35,1,0,1
+258818,408,14,SQL,100,"Practice exam",10,0.65,1,0,1
+258818,401,14,SQL,67,"Practice exam",15,9,1,0,1
+258818,402,14,SQL,100,"Practice exam",16,4.23,1,0,1
+258818,408,14,SQL,50,"Practice exam",10,2.35,1,0,1
+258818,408,14,SQL,100,"Practice exam",10,0.65,1,0,1
+258818,401,14,SQL,67,"Practice exam",15,9,1,0,1
+258818,402,14,SQL,100,"Practice exam",16,4.23,1,0,1
+258818,408,14,SQL,50,"Practice exam",10,2.35,1,0,1
+258818,408,14,SQL,100,"Practice exam",10,0.65,1,0,1
+258818,401,14,SQL,67,"Practice exam",15,9,1,0,1
+258818,402,14,SQL,100,"Practice exam",16,4.23,1,0,1
+258818,408,14,SQL,50,"Practice exam",10,2.35,1,0,1
+258818,408,14,SQL,100,"Practice exam",10,0.65,1,0,1
+258818,401,14,SQL,67,"Practice exam",15,9,1,0,1
+258818,402,14,SQL,100,"Practice exam",16,4.23,1,0,1
+258818,408,14,SQL,50,"Practice exam",10,2.35,1,0,1
+258818,408,14,SQL,100,"Practice exam",10,0.65,1,0,1
+258818,401,14,SQL,67,"Practice exam",15,9,1,0,1
+258818,402,14,SQL,100,"Practice exam",16,4.23,1,0,1
+258818,408,14,SQL,50,"Practice exam",10,2.35,1,0,1
+258818,408,14,SQL,100,"Practice exam",10,0.65,1,0,1
+258818,401,14,SQL,67,"Practice exam",15,9,1,0,1
+258818,402,14,SQL,100,"Practice exam",16,4.23,1,0,1
+258818,408,14,SQL,50,"Practice exam",10,2.35,1,0,1
+258818,408,14,SQL,100,"Practice exam",10,0.65,1,0,1
+258818,401,14,SQL,67,"Practice exam",15,9,1,0,1
+258818,402,14,SQL,100,"Practice exam",16,4.23,1,0,1
+258818,408,14,SQL,50,"Practice exam",10,2.35,1,0,1
+258818,408,14,SQL,100,"Practice exam",10,0.65,1,0,1
+258818,401,14,SQL,67,"Practice exam",15,9,1,0,1
+258818,402,14,SQL,100,"Practice exam",16,4.23,1,0,1
+258818,408,14,SQL,50,"Practice exam",10,2.35,1,0,1
+258818,408,14,SQL,100,"Practice exam",10,0.65,1,0,1
+258818,401,14,SQL,67,"Practice exam",15,9,1,0,1
+258818,402,14,SQL,100,"Practice exam",16,4.23,1,0,1
+258818,408,14,SQL,50,"Practice exam",10,2.35,1,0,1
+258818,408,14,SQL,100,"Practice exam",10,0.65,1,0,1
+258818,401,14,SQL,67,"Practice exam",15,9,1,0,1
+258818,402,14,SQL,100,"Practice exam",16,4.23,1,0,1
+258818,408,14,SQL,50,"Practice exam",10,2.35,1,0,1
+258818,408,14,SQL,100,"Practice exam",10,0.65,1,0,1
+258818,401,14,SQL,67,"Practice exam",15,9,1,0,1
+258818,402,14,SQL,100,"Practice exam",16,4.23,1,0,1
+258818,408,14,SQL,50,"Practice exam",10,2.35,1,0,1
+258818,408,14,SQL,100,"Practice exam",10,0.65,1,0,1
+258818,401,14,SQL,67,"Practice exam",15,9,1,0,1
+258818,402,14,SQL,100,"Practice exam",16,4.23,1,0,1
+258818,408,14,SQL,50,"Practice exam",10,2.35,1,0,1
+258818,408,14,SQL,100,"Practice exam",10,0.65,1,0,1
+258818,401,14,SQL,67,"Practice exam",15,9,1,0,1
+258818,402,14,SQL,100,"Practice exam",16,4.23,1,0,1
+258818,408,14,SQL,50,"Practice exam",10,2.35,1,0,1
+258818,408,14,SQL,100,"Practice exam",10,0.65,1,0,1
+258818,401,14,SQL,67,"Practice exam",15,9,1,0,1
+258818,402,14,SQL,100,"Practice exam",16,4.23,1,0,1
+258818,408,14,SQL,50,"Practice exam",10,2.35,1,0,1
+258818,408,14,SQL,100,"Practice exam",10,0.65,1,0,1
+258818,401,14,SQL,67,"Practice exam",15,9,1,0,1
+258818,402,14,SQL,100,"Practice exam",16,4.23,1,0,1
+258818,408,14,SQL,50,"Practice exam",10,2.35,1,0,1
+258818,408,14,SQL,100,"Practice exam",10,0.65,1,0,1
+258818,401,14,SQL,67,"Practice exam",15,9,1,0,1
+258818,402,14,SQL,100,"Practice exam",16,4.23,1,0,1
+258818,408,14,SQL,50,"Practice exam",10,2.35,1,0,1
+258818,408,14,SQL,100,"Practice exam",10,0.65,1,0,1
+258818,401,14,SQL,67,"Practice exam",15,9,1,0,1
+258818,402,14,SQL,100,"Practice exam",16,4.23,1,0,1
+258818,408,14,SQL,50,"Practice exam",10,2.35,1,0,1
+258818,408,14,SQL,100,"Practice exam",10,0.65,1,0,1
+258818,401,14,SQL,67,"Practice exam",15,9,1,0,1
+258818,402,14,SQL,100,"Practice exam",16,4.23,1,0,1
+258818,408,14,SQL,50,"Practice exam",10,2.35,1,0,1
+258818,408,14,SQL,100,"Practice exam",10,0.65,1,0,1
+258818,401,14,SQL,67,"Practice exam",15,9,1,0,1
+258818,402,14,SQL,100,"Practice exam",16,4.23,1,0,1
+258818,408,14,SQL,50,"Practice exam",10,2.35,1,0,1
+258818,408,14,SQL,100,"Practice exam",10,0.65,1,0,1
+258818,401,14,SQL,67,"Practice exam",15,9,1,0,1
+258818,402,14,SQL,100,"Practice exam",16,4.23,1,0,1
+258818,408,14,SQL,50,"Practice exam",10,2.35,1,0,1
+258818,408,14,SQL,100,"Practice exam",10,0.65,1,0,1
+258818,401,14,SQL,67,"Practice exam",15,9,1,0,1
+258818,402,14,SQL,100,"Practice exam",16,4.23,1,0,1
+258818,408,14,SQL,50,"Practice exam",10,2.35,1,0,1
+258818,408,14,SQL,100,"Practice exam",10,0.65,1,0,1
+258818,401,14,SQL,67,"Practice exam",15,9,1,0,1
+258818,402,14,SQL,100,"Practice exam",16,4.23,1,0,1
+258818,408,14,SQL,50,"Practice exam",10,2.35,1,0,1
+258818,408,14,SQL,100,"Practice exam",10,0.65,1,0,1
+258818,401,14,SQL,67,"Practice exam",15,9,1,0,1
+258818,402,14,SQL,100,"Practice exam",16,4.23,1,0,1
+258818,408,14,SQL,50,"Practice exam",10,2.35,1,0,1
+258818,408,14,SQL,100,"Practice exam",10,0.65,1,0,1
+258818,401,13,"Data Analysis with Excel Pivot Tables",67,"Practice exam",15,9,1,0,1
+258818,402,13,"Data Analysis with Excel Pivot Tables",100,"Practice exam",16,4.23,1,0,1
+258818,408,13,"Data Analysis with Excel Pivot Tables",50,"Practice exam",10,2.35,1,0,1
+258818,408,13,"Data Analysis with Excel Pivot Tables",100,"Practice exam",10,0.65,1,0,1
+258818,401,13,"Data Analysis with Excel Pivot Tables",67,"Practice exam",15,9,1,0,1
+258818,402,13,"Data Analysis with Excel Pivot Tables",100,"Practice exam",16,4.23,1,0,1
+258818,408,13,"Data Analysis with Excel Pivot Tables",50,"Practice exam",10,2.35,1,0,1
+258818,408,13,"Data Analysis with Excel Pivot Tables",100,"Practice exam",10,0.65,1,0,1
+258818,401,4,"Introduction to R Programming",67,"Practice exam",15,9,1,0,1
+258818,402,4,"Introduction to R Programming",100,"Practice exam",16,4.23,1,0,1
+258818,408,4,"Introduction to R Programming",50,"Practice exam",10,2.35,1,0,1
+258818,408,4,"Introduction to R Programming",100,"Practice exam",10,0.65,1,0,1
+258818,401,4,"Introduction to R Programming",67,"Practice exam",15,9,1,0,1
+258818,402,4,"Introduction to R Programming",100,"Practice exam",16,4.23,1,0,1
+258818,408,4,"Introduction to R Programming",50,"Practice exam",10,2.35,1,0,1
+258818,408,4,"Introduction to R Programming",100,"Practice exam",10,0.65,1,0,1
+258818,401,4,"Introduction to R Programming",67,"Practice exam",15,9,1,0,1
+258818,402,4,"Introduction to R Programming",100,"Practice exam",16,4.23,1,0,1
+258818,408,4,"Introduction to R Programming",50,"Practice exam",10,2.35,1,0,1
+258818,408,4,"Introduction to R Programming",100,"Practice exam",10,0.65,1,0,1
+258818,401,4,"Introduction to R Programming",67,"Practice exam",15,9,1,0,1
+258818,402,4,"Introduction to R Programming",100,"Practice exam",16,4.23,1,0,1
+258818,408,4,"Introduction to R Programming",50,"Practice exam",10,2.35,1,0,1
+258818,408,4,"Introduction to R Programming",100,"Practice exam",10,0.65,1,0,1
+258818,401,4,"Introduction to R Programming",67,"Practice exam",15,9,1,0,1
+258818,402,4,"Introduction to R Programming",100,"Practice exam",16,4.23,1,0,1
+258818,408,4,"Introduction to R Programming",50,"Practice exam",10,2.35,1,0,1
+258818,408,4,"Introduction to R Programming",100,"Practice exam",10,0.65,1,0,1
+258818,401,4,"Introduction to R Programming",67,"Practice exam",15,9,1,0,1
+258818,402,4,"Introduction to R Programming",100,"Practice exam",16,4.23,1,0,1
+258818,408,4,"Introduction to R Programming",50,"Practice exam",10,2.35,1,0,1
+258818,408,4,"Introduction to R Programming",100,"Practice exam",10,0.65,1,0,1
+258818,401,4,"Introduction to R Programming",67,"Practice exam",15,9,1,0,1
+258818,402,4,"Introduction to R Programming",100,"Practice exam",16,4.23,1,0,1
+258818,408,4,"Introduction to R Programming",50,"Practice exam",10,2.35,1,0,1
+258818,408,4,"Introduction to R Programming",100,"Practice exam",10,0.65,1,0,1
+258818,401,4,"Introduction to R Programming",67,"Practice exam",15,9,1,0,1
+258818,402,4,"Introduction to R Programming",100,"Practice exam",16,4.23,1,0,1
+258818,408,4,"Introduction to R Programming",50,"Practice exam",10,2.35,1,0,1
+258818,408,4,"Introduction to R Programming",100,"Practice exam",10,0.65,1,0,1
+258818,401,4,"Introduction to R Programming",67,"Practice exam",15,9,1,0,1
+258818,402,4,"Introduction to R Programming",100,"Practice exam",16,4.23,1,0,1
+258818,408,4,"Introduction to R Programming",50,"Practice exam",10,2.35,1,0,1
+258818,408,4,"Introduction to R Programming",100,"Practice exam",10,0.65,1,0,1
+258818,401,4,"Introduction to R Programming",67,"Practice exam",15,9,1,0,1
+258818,402,4,"Introduction to R Programming",100,"Practice exam",16,4.23,1,0,1
+258818,408,4,"Introduction to R Programming",50,"Practice exam",10,2.35,1,0,1
+258818,408,4,"Introduction to R Programming",100,"Practice exam",10,0.65,1,0,1
+258818,401,4,"Introduction to R Programming",67,"Practice exam",15,9,1,0,1
+258818,402,4,"Introduction to R Programming",100,"Practice exam",16,4.23,1,0,1
+258818,408,4,"Introduction to R Programming",50,"Practice exam",10,2.35,1,0,1
+258818,408,4,"Introduction to R Programming",100,"Practice exam",10,0.65,1,0,1
+258818,401,3,"The Complete Data Visualization Course with Python, R, Tableau, and Excel",67,"Practice exam",15,9,1,0,1
+258818,402,3,"The Complete Data Visualization Course with Python, R, Tableau, and Excel",100,"Practice exam",16,4.23,1,0,1
+258818,408,3,"The Complete Data Visualization Course with Python, R, Tableau, and Excel",50,"Practice exam",10,2.35,1,0,1
+258818,408,3,"The Complete Data Visualization Course with Python, R, Tableau, and Excel",100,"Practice exam",10,0.65,1,0,1
+258818,401,3,"The Complete Data Visualization Course with Python, R, Tableau, and Excel",67,"Practice exam",15,9,1,0,1
+258818,402,3,"The Complete Data Visualization Course with Python, R, Tableau, and Excel",100,"Practice exam",16,4.23,1,0,1
+258818,408,3,"The Complete Data Visualization Course with Python, R, Tableau, and Excel",50,"Practice exam",10,2.35,1,0,1
+258818,408,3,"The Complete Data Visualization Course with Python, R, Tableau, and Excel",100,"Practice exam",10,0.65,1,0,1
+258818,401,3,"The Complete Data Visualization Course with Python, R, Tableau, and Excel",67,"Practice exam",15,9,1,0,1
+258818,402,3,"The Complete Data Visualization Course with Python, R, Tableau, and Excel",100,"Practice exam",16,4.23,1,0,1
+258818,408,3,"The Complete Data Visualization Course with Python, R, Tableau, and Excel",50,"Practice exam",10,2.35,1,0,1
+258818,408,3,"The Complete Data Visualization Course with Python, R, Tableau, and Excel",100,"Practice exam",10,0.65,1,0,1
+258818,401,2,"Introduction to Tableau",67,"Practice exam",15,9,1,0,1
+258818,402,2,"Introduction to Tableau",100,"Practice exam",16,4.23,1,0,1
+258818,408,2,"Introduction to Tableau",50,"Practice exam",10,2.35,1,0,1
+258818,408,2,"Introduction to Tableau",100,"Practice exam",10,0.65,1,0,1
+258818,401,2,"Introduction to Tableau",67,"Practice exam",15,9,1,0,1
+258818,402,2,"Introduction to Tableau",100,"Practice exam",16,4.23,1,0,1
+258818,408,2,"Introduction to Tableau",50,"Practice exam",10,2.35,1,0,1
+258818,408,2,"Introduction to Tableau",100,"Practice exam",10,0.65,1,0,1
+258818,401,2,"Introduction to Tableau",67,"Practice exam",15,9,1,0,1
+258818,402,2,"Introduction to Tableau",100,"Practice exam",16,4.23,1,0,1
+258818,408,2,"Introduction to Tableau",50,"Practice exam",10,2.35,1,0,1
+258818,408,2,"Introduction to Tableau",100,"Practice exam",10,0.65,1,0,1
+258818,401,2,"Introduction to Tableau",67,"Practice exam",15,9,1,0,1
+258818,402,2,"Introduction to Tableau",100,"Practice exam",16,4.23,1,0,1
+258818,408,2,"Introduction to Tableau",50,"Practice exam",10,2.35,1,0,1
+258818,408,2,"Introduction to Tableau",100,"Practice exam",10,0.65,1,0,1
+258818,401,2,"Introduction to Tableau",67,"Practice exam",15,9,1,0,1
+258818,402,2,"Introduction to Tableau",100,"Practice exam",16,4.23,1,0,1
+258818,408,2,"Introduction to Tableau",50,"Practice exam",10,2.35,1,0,1
+258818,408,2,"Introduction to Tableau",100,"Practice exam",10,0.65,1,0,1
+258818,401,2,"Introduction to Tableau",67,"Practice exam",15,9,1,0,1
+258818,402,2,"Introduction to Tableau",100,"Practice exam",16,4.23,1,0,1
+258818,408,2,"Introduction to Tableau",50,"Practice exam",10,2.35,1,0,1
+258818,408,2,"Introduction to Tableau",100,"Practice exam",10,0.65,1,0,1
+258818,401,2,"Introduction to Tableau",67,"Practice exam",15,9,1,0,1
+258818,402,2,"Introduction to Tableau",100,"Practice exam",16,4.23,1,0,1
+258818,408,2,"Introduction to Tableau",50,"Practice exam",10,2.35,1,0,1
+258818,408,2,"Introduction to Tableau",100,"Practice exam",10,0.65,1,0,1
+258818,401,2,"Introduction to Tableau",67,"Practice exam",15,9,1,0,1
+258818,402,2,"Introduction to Tableau",100,"Practice exam",16,4.23,1,0,1
+258818,408,2,"Introduction to Tableau",50,"Practice exam",10,2.35,1,0,1
+258818,408,2,"Introduction to Tableau",100,"Practice exam",10,0.65,1,0,1
+258818,401,2,"Introduction to Tableau",67,"Practice exam",15,9,1,0,1
+258818,402,2,"Introduction to Tableau",100,"Practice exam",16,4.23,1,0,1
+258818,408,2,"Introduction to Tableau",50,"Practice exam",10,2.35,1,0,1
+258818,408,2,"Introduction to Tableau",100,"Practice exam",10,0.65,1,0,1
+258818,401,2,"Introduction to Tableau",67,"Practice exam",15,9,1,0,1
+258818,402,2,"Introduction to Tableau",100,"Practice exam",16,4.23,1,0,1
+258818,408,2,"Introduction to Tableau",50,"Practice exam",10,2.35,1,0,1
+258818,408,2,"Introduction to Tableau",100,"Practice exam",10,0.65,1,0,1
+258818,401,2,"Introduction to Tableau",67,"Practice exam",15,9,1,0,1
+258818,402,2,"Introduction to Tableau",100,"Practice exam",16,4.23,1,0,1
+258818,408,2,"Introduction to Tableau",50,"Practice exam",10,2.35,1,0,1
+258818,408,2,"Introduction to Tableau",100,"Practice exam",10,0.65,1,0,1
+258818,401,2,"Introduction to Tableau",67,"Practice exam",15,9,1,0,1
+258818,402,2,"Introduction to Tableau",100,"Practice exam",16,4.23,1,0,1
+258818,408,2,"Introduction to Tableau",50,"Practice exam",10,2.35,1,0,1
+258818,408,2,"Introduction to Tableau",100,"Practice exam",10,0.65,1,0,1
+258818,401,39,"Advanced Microsoft Excel",67,"Practice exam",15,9,1,0,1
+258818,402,39,"Advanced Microsoft Excel",100,"Practice exam",16,4.23,1,0,1
+258818,408,39,"Advanced Microsoft Excel",50,"Practice exam",10,2.35,1,0,1
+258818,408,39,"Advanced Microsoft Excel",100,"Practice exam",10,0.65,1,0,1
+258818,401,35,"Introduction to Python",67,"Practice exam",15,9,1,0,1
+258818,402,35,"Introduction to Python",100,"Practice exam",16,4.23,1,0,1
+258818,408,35,"Introduction to Python",50,"Practice exam",10,2.35,1,0,1
+258818,408,35,"Introduction to Python",100,"Practice exam",10,0.65,1,0,1
+258818,401,35,"Introduction to Python",67,"Practice exam",15,9,1,0,1
+258818,402,35,"Introduction to Python",100,"Practice exam",16,4.23,1,0,1
+258818,408,35,"Introduction to Python",50,"Practice exam",10,2.35,1,0,1
+258818,408,35,"Introduction to Python",100,"Practice exam",10,0.65,1,0,1
+258818,401,35,"Introduction to Python",67,"Practice exam",15,9,1,0,1
+258818,402,35,"Introduction to Python",100,"Practice exam",16,4.23,1,0,1
+258818,408,35,"Introduction to Python",50,"Practice exam",10,2.35,1,0,1
+258818,408,35,"Introduction to Python",100,"Practice exam",10,0.65,1,0,1
+258818,401,35,"Introduction to Python",67,"Practice exam",15,9,1,0,1
+258818,402,35,"Introduction to Python",100,"Practice exam",16,4.23,1,0,1
+258818,408,35,"Introduction to Python",50,"Practice exam",10,2.35,1,0,1
+258818,408,35,"Introduction to Python",100,"Practice exam",10,0.65,1,0,1
+258818,401,28,"Power BI",67,"Practice exam",15,9,1,0,1
+258818,402,28,"Power BI",100,"Practice exam",16,4.23,1,0,1
+258818,408,28,"Power BI",50,"Practice exam",10,2.35,1,0,1
+258818,408,28,"Power BI",100,"Practice exam",10,0.65,1,0,1
+258818,401,28,"Power BI",67,"Practice exam",15,9,1,0,1
+258818,402,28,"Power BI",100,"Practice exam",16,4.23,1,0,1
+258818,408,28,"Power BI",50,"Practice exam",10,2.35,1,0,1
+258818,408,28,"Power BI",100,"Practice exam",10,0.65,1,0,1
+258818,401,28,"Power BI",67,"Practice exam",15,9,1,0,1
+258818,402,28,"Power BI",100,"Practice exam",16,4.23,1,0,1
+258818,408,28,"Power BI",50,"Practice exam",10,2.35,1,0,1
+258818,408,28,"Power BI",100,"Practice exam",10,0.65,1,0,1
+258818,401,28,"Power BI",67,"Practice exam",15,9,1,0,1
+258818,402,28,"Power BI",100,"Practice exam",16,4.23,1,0,1
+258818,408,28,"Power BI",50,"Practice exam",10,2.35,1,0,1
+258818,408,28,"Power BI",100,"Practice exam",10,0.65,1,0,1
+258818,401,28,"Power BI",67,"Practice exam",15,9,1,0,1
+258818,402,28,"Power BI",100,"Practice exam",16,4.23,1,0,1
+258818,408,28,"Power BI",50,"Practice exam",10,2.35,1,0,1
+258818,408,28,"Power BI",100,"Practice exam",10,0.65,1,0,1
+258818,401,28,"Power BI",67,"Practice exam",15,9,1,0,1
+258818,402,28,"Power BI",100,"Practice exam",16,4.23,1,0,1
+258818,408,28,"Power BI",50,"Practice exam",10,2.35,1,0,1
+258818,408,28,"Power BI",100,"Practice exam",10,0.65,1,0,1
+258818,401,28,"Power BI",67,"Practice exam",15,9,1,0,1
+258818,402,28,"Power BI",100,"Practice exam",16,4.23,1,0,1
+258818,408,28,"Power BI",50,"Practice exam",10,2.35,1,0,1
+258818,408,28,"Power BI",100,"Practice exam",10,0.65,1,0,1
+258818,401,28,"Power BI",67,"Practice exam",15,9,1,0,1
+258818,402,28,"Power BI",100,"Practice exam",16,4.23,1,0,1
+258818,408,28,"Power BI",50,"Practice exam",10,2.35,1,0,1
+258818,408,28,"Power BI",100,"Practice exam",10,0.65,1,0,1
+258818,401,23,"Introduction to Excel",67,"Practice exam",15,9,1,0,1
+258818,402,23,"Introduction to Excel",100,"Practice exam",16,4.23,1,0,1
+258818,408,23,"Introduction to Excel",50,"Practice exam",10,2.35,1,0,1
+258818,408,23,"Introduction to Excel",100,"Practice exam",10,0.65,1,0,1
+258818,401,22,Mathematics,67,"Practice exam",15,9,1,0,1
+258818,402,22,Mathematics,100,"Practice exam",16,4.23,1,0,1
+258818,408,22,Mathematics,50,"Practice exam",10,2.35,1,0,1
+258818,408,22,Mathematics,100,"Practice exam",10,0.65,1,0,1
+258818,401,21,Statistics,67,"Practice exam",15,9,1,0,1
+258818,402,21,Statistics,100,"Practice exam",16,4.23,1,0,1
+258818,408,21,Statistics,50,"Practice exam",10,2.35,1,0,1
+258818,408,21,Statistics,100,"Practice exam",10,0.65,1,0,1
+258818,401,19,"SQL + Tableau + Python",67,"Practice exam",15,9,1,0,1
+258818,402,19,"SQL + Tableau + Python",100,"Practice exam",16,4.23,1,0,1
+258818,408,19,"SQL + Tableau + Python",50,"Practice exam",10,2.35,1,0,1
+258818,408,19,"SQL + Tableau + Python",100,"Practice exam",10,0.65,1,0,1
+258818,401,19,"SQL + Tableau + Python",67,"Practice exam",15,9,1,0,1
+258818,402,19,"SQL + Tableau + Python",100,"Practice exam",16,4.23,1,0,1
+258818,408,19,"SQL + Tableau + Python",50,"Practice exam",10,2.35,1,0,1
+258818,408,19,"SQL + Tableau + Python",100,"Practice exam",10,0.65,1,0,1
+258818,401,19,"SQL + Tableau + Python",67,"Practice exam",15,9,1,0,1
+258818,402,19,"SQL + Tableau + Python",100,"Practice exam",16,4.23,1,0,1
+258818,408,19,"SQL + Tableau + Python",50,"Practice exam",10,2.35,1,0,1
+258818,408,19,"SQL + Tableau + Python",100,"Practice exam",10,0.65,1,0,1
+258818,401,16,"Python Programmer Bootcamp",67,"Practice exam",15,9,1,0,1
+258818,402,16,"Python Programmer Bootcamp",100,"Practice exam",16,4.23,1,0,1
+258818,408,16,"Python Programmer Bootcamp",50,"Practice exam",10,2.35,1,0,1
+258818,408,16,"Python Programmer Bootcamp",100,"Practice exam",10,0.65,1,0,1
+258818,401,14,SQL,67,"Practice exam",15,9,1,0,1
+258818,402,14,SQL,100,"Practice exam",16,4.23,1,0,1
+258818,408,14,SQL,50,"Practice exam",10,2.35,1,0,1
+258818,408,14,SQL,100,"Practice exam",10,0.65,1,0,1
+258818,401,14,SQL,67,"Practice exam",15,9,1,0,1
+258818,402,14,SQL,100,"Practice exam",16,4.23,1,0,1
+258818,408,14,SQL,50,"Practice exam",10,2.35,1,0,1
+258818,408,14,SQL,100,"Practice exam",10,0.65,1,0,1
+258818,401,14,SQL,67,"Practice exam",15,9,1,0,1
+258818,402,14,SQL,100,"Practice exam",16,4.23,1,0,1
+258818,408,14,SQL,50,"Practice exam",10,2.35,1,0,1
+258818,408,14,SQL,100,"Practice exam",10,0.65,1,0,1
+258818,401,14,SQL,67,"Practice exam",15,9,1,0,1
+258818,402,14,SQL,100,"Practice exam",16,4.23,1,0,1
+258818,408,14,SQL,50,"Practice exam",10,2.35,1,0,1
+258818,408,14,SQL,100,"Practice exam",10,0.65,1,0,1
+258818,401,14,SQL,67,"Practice exam",15,9,1,0,1
+258818,402,14,SQL,100,"Practice exam",16,4.23,1,0,1
+258818,408,14,SQL,50,"Practice exam",10,2.35,1,0,1
+258818,408,14,SQL,100,"Practice exam",10,0.65,1,0,1
+258818,401,14,SQL,67,"Practice exam",15,9,1,0,1
+258818,402,14,SQL,100,"Practice exam",16,4.23,1,0,1
+258818,408,14,SQL,50,"Practice exam",10,2.35,1,0,1
+258818,408,14,SQL,100,"Practice exam",10,0.65,1,0,1
+258818,401,14,SQL,67,"Practice exam",15,9,1,0,1
+258818,402,14,SQL,100,"Practice exam",16,4.23,1,0,1
+258818,408,14,SQL,50,"Practice exam",10,2.35,1,0,1
+258818,408,14,SQL,100,"Practice exam",10,0.65,1,0,1
+258818,401,14,SQL,67,"Practice exam",15,9,1,0,1
+258818,402,14,SQL,100,"Practice exam",16,4.23,1,0,1
+258818,408,14,SQL,50,"Practice exam",10,2.35,1,0,1
+258818,408,14,SQL,100,"Practice exam",10,0.65,1,0,1
+258818,401,14,SQL,67,"Practice exam",15,9,1,0,1
+258818,402,14,SQL,100,"Practice exam",16,4.23,1,0,1
+258818,408,14,SQL,50,"Practice exam",10,2.35,1,0,1
+258818,408,14,SQL,100,"Practice exam",10,0.65,1,0,1
+258818,401,14,SQL,67,"Practice exam",15,9,1,0,1
+258818,402,14,SQL,100,"Practice exam",16,4.23,1,0,1
+258818,408,14,SQL,50,"Practice exam",10,2.35,1,0,1
+258818,408,14,SQL,100,"Practice exam",10,0.65,1,0,1
+258818,401,14,SQL,67,"Practice exam",15,9,1,0,1
+258818,402,14,SQL,100,"Practice exam",16,4.23,1,0,1
+258818,408,14,SQL,50,"Practice exam",10,2.35,1,0,1
+258818,408,14,SQL,100,"Practice exam",10,0.65,1,0,1
+258818,401,14,SQL,67,"Practice exam",15,9,1,0,1
+258818,402,14,SQL,100,"Practice exam",16,4.23,1,0,1
+258818,408,14,SQL,50,"Practice exam",10,2.35,1,0,1
+258818,408,14,SQL,100,"Practice exam",10,0.65,1,0,1
+258818,401,14,SQL,67,"Practice exam",15,9,1,0,1
+258818,402,14,SQL,100,"Practice exam",16,4.23,1,0,1
+258818,408,14,SQL,50,"Practice exam",10,2.35,1,0,1
+258818,408,14,SQL,100,"Practice exam",10,0.65,1,0,1
+258818,401,14,SQL,67,"Practice exam",15,9,1,0,1
+258818,402,14,SQL,100,"Practice exam",16,4.23,1,0,1
+258818,408,14,SQL,50,"Practice exam",10,2.35,1,0,1
+258818,408,14,SQL,100,"Practice exam",10,0.65,1,0,1
+258818,401,14,SQL,67,"Practice exam",15,9,1,0,1
+258818,402,14,SQL,100,"Practice exam",16,4.23,1,0,1
+258818,408,14,SQL,50,"Practice exam",10,2.35,1,0,1
+258818,408,14,SQL,100,"Practice exam",10,0.65,1,0,1
+258818,401,14,SQL,67,"Practice exam",15,9,1,0,1
+258818,402,14,SQL,100,"Practice exam",16,4.23,1,0,1
+258818,408,14,SQL,50,"Practice exam",10,2.35,1,0,1
+258818,408,14,SQL,100,"Practice exam",10,0.65,1,0,1
+258818,401,14,SQL,67,"Practice exam",15,9,1,0,1
+258818,402,14,SQL,100,"Practice exam",16,4.23,1,0,1
+258818,408,14,SQL,50,"Practice exam",10,2.35,1,0,1
+258818,408,14,SQL,100,"Practice exam",10,0.65,1,0,1
+258818,401,14,SQL,67,"Practice exam",15,9,1,0,1
+258818,402,14,SQL,100,"Practice exam",16,4.23,1,0,1
+258818,408,14,SQL,50,"Practice exam",10,2.35,1,0,1
+258818,408,14,SQL,100,"Practice exam",10,0.65,1,0,1
+258818,401,14,SQL,67,"Practice exam",15,9,1,0,1
+258818,402,14,SQL,100,"Practice exam",16,4.23,1,0,1
+258818,408,14,SQL,50,"Practice exam",10,2.35,1,0,1
+258818,408,14,SQL,100,"Practice exam",10,0.65,1,0,1
+258818,401,14,SQL,67,"Practice exam",15,9,1,0,1
+258818,402,14,SQL,100,"Practice exam",16,4.23,1,0,1
+258818,408,14,SQL,50,"Practice exam",10,2.35,1,0,1
+258818,408,14,SQL,100,"Practice exam",10,0.65,1,0,1
+258818,401,14,SQL,67,"Practice exam",15,9,1,0,1
+258818,402,14,SQL,100,"Practice exam",16,4.23,1,0,1
+258818,408,14,SQL,50,"Practice exam",10,2.35,1,0,1
+258818,408,14,SQL,100,"Practice exam",10,0.65,1,0,1
+258818,401,14,SQL,67,"Practice exam",15,9,1,0,1
+258818,402,14,SQL,100,"Practice exam",16,4.23,1,0,1
+258818,408,14,SQL,50,"Practice exam",10,2.35,1,0,1
+258818,408,14,SQL,100,"Practice exam",10,0.65,1,0,1
+258818,401,14,SQL,67,"Practice exam",15,9,1,0,1
+258818,402,14,SQL,100,"Practice exam",16,4.23,1,0,1
+258818,408,14,SQL,50,"Practice exam",10,2.35,1,0,1
+258818,408,14,SQL,100,"Practice exam",10,0.65,1,0,1
+258818,401,14,SQL,67,"Practice exam",15,9,1,0,1
+258818,402,14,SQL,100,"Practice exam",16,4.23,1,0,1
+258818,408,14,SQL,50,"Practice exam",10,2.35,1,0,1
+258818,408,14,SQL,100,"Practice exam",10,0.65,1,0,1
+258818,401,14,SQL,67,"Practice exam",15,9,1,0,1
+258818,402,14,SQL,100,"Practice exam",16,4.23,1,0,1
+258818,408,14,SQL,50,"Practice exam",10,2.35,1,0,1
+258818,408,14,SQL,100,"Practice exam",10,0.65,1,0,1
+258818,401,14,SQL,67,"Practice exam",15,9,1,0,1
+258818,402,14,SQL,100,"Practice exam",16,4.23,1,0,1
+258818,408,14,SQL,50,"Practice exam",10,2.35,1,0,1
+258818,408,14,SQL,100,"Practice exam",10,0.65,1,0,1
+258818,401,14,SQL,67,"Practice exam",15,9,1,0,1
+258818,402,14,SQL,100,"Practice exam",16,4.23,1,0,1
+258818,408,14,SQL,50,"Practice exam",10,2.35,1,0,1
+258818,408,14,SQL,100,"Practice exam",10,0.65,1,0,1
+258818,401,14,SQL,67,"Practice exam",15,9,1,0,1
+258818,402,14,SQL,100,"Practice exam",16,4.23,1,0,1
+258818,408,14,SQL,50,"Practice exam",10,2.35,1,0,1
+258818,408,14,SQL,100,"Practice exam",10,0.65,1,0,1
+258818,401,14,SQL,67,"Practice exam",15,9,1,0,1
+258818,402,14,SQL,100,"Practice exam",16,4.23,1,0,1
+258818,408,14,SQL,50,"Practice exam",10,2.35,1,0,1
+258818,408,14,SQL,100,"Practice exam",10,0.65,1,0,1
+258818,401,13,"Data Analysis with Excel Pivot Tables",67,"Practice exam",15,9,1,0,1
+258818,402,13,"Data Analysis with Excel Pivot Tables",100,"Practice exam",16,4.23,1,0,1
+258818,408,13,"Data Analysis with Excel Pivot Tables",50,"Practice exam",10,2.35,1,0,1
+258818,408,13,"Data Analysis with Excel Pivot Tables",100,"Practice exam",10,0.65,1,0,1
+258818,401,13,"Data Analysis with Excel Pivot Tables",67,"Practice exam",15,9,1,0,1
+258818,402,13,"Data Analysis with Excel Pivot Tables",100,"Practice exam",16,4.23,1,0,1
+258818,408,13,"Data Analysis with Excel Pivot Tables",50,"Practice exam",10,2.35,1,0,1
+258818,408,13,"Data Analysis with Excel Pivot Tables",100,"Practice exam",10,0.65,1,0,1
+258818,401,4,"Introduction to R Programming",67,"Practice exam",15,9,1,0,1
+258818,402,4,"Introduction to R Programming",100,"Practice exam",16,4.23,1,0,1
+258818,408,4,"Introduction to R Programming",50,"Practice exam",10,2.35,1,0,1
+258818,408,4,"Introduction to R Programming",100,"Practice exam",10,0.65,1,0,1
+258818,401,4,"Introduction to R Programming",67,"Practice exam",15,9,1,0,1
+258818,402,4,"Introduction to R Programming",100,"Practice exam",16,4.23,1,0,1
+258818,408,4,"Introduction to R Programming",50,"Practice exam",10,2.35,1,0,1
+258818,408,4,"Introduction to R Programming",100,"Practice exam",10,0.65,1,0,1
+258818,401,4,"Introduction to R Programming",67,"Practice exam",15,9,1,0,1
+258818,402,4,"Introduction to R Programming",100,"Practice exam",16,4.23,1,0,1
+258818,408,4,"Introduction to R Programming",50,"Practice exam",10,2.35,1,0,1
+258818,408,4,"Introduction to R Programming",100,"Practice exam",10,0.65,1,0,1
+258818,401,4,"Introduction to R Programming",67,"Practice exam",15,9,1,0,1
+258818,402,4,"Introduction to R Programming",100,"Practice exam",16,4.23,1,0,1
+258818,408,4,"Introduction to R Programming",50,"Practice exam",10,2.35,1,0,1
+258818,408,4,"Introduction to R Programming",100,"Practice exam",10,0.65,1,0,1
+258818,401,4,"Introduction to R Programming",67,"Practice exam",15,9,1,0,1
+258818,402,4,"Introduction to R Programming",100,"Practice exam",16,4.23,1,0,1
+258818,408,4,"Introduction to R Programming",50,"Practice exam",10,2.35,1,0,1
+258818,408,4,"Introduction to R Programming",100,"Practice exam",10,0.65,1,0,1
+258818,401,4,"Introduction to R Programming",67,"Practice exam",15,9,1,0,1
+258818,402,4,"Introduction to R Programming",100,"Practice exam",16,4.23,1,0,1
+258818,408,4,"Introduction to R Programming",50,"Practice exam",10,2.35,1,0,1
+258818,408,4,"Introduction to R Programming",100,"Practice exam",10,0.65,1,0,1
+258818,401,4,"Introduction to R Programming",67,"Practice exam",15,9,1,0,1
+258818,402,4,"Introduction to R Programming",100,"Practice exam",16,4.23,1,0,1
+258818,408,4,"Introduction to R Programming",50,"Practice exam",10,2.35,1,0,1
+258818,408,4,"Introduction to R Programming",100,"Practice exam",10,0.65,1,0,1
+258818,401,4,"Introduction to R Programming",67,"Practice exam",15,9,1,0,1
+258818,402,4,"Introduction to R Programming",100,"Practice exam",16,4.23,1,0,1
+258818,408,4,"Introduction to R Programming",50,"Practice exam",10,2.35,1,0,1
+258818,408,4,"Introduction to R Programming",100,"Practice exam",10,0.65,1,0,1
+258818,401,4,"Introduction to R Programming",67,"Practice exam",15,9,1,0,1
+258818,402,4,"Introduction to R Programming",100,"Practice exam",16,4.23,1,0,1
+258818,408,4,"Introduction to R Programming",50,"Practice exam",10,2.35,1,0,1
+258818,408,4,"Introduction to R Programming",100,"Practice exam",10,0.65,1,0,1
+258818,401,4,"Introduction to R Programming",67,"Practice exam",15,9,1,0,1
+258818,402,4,"Introduction to R Programming",100,"Practice exam",16,4.23,1,0,1
+258818,408,4,"Introduction to R Programming",50,"Practice exam",10,2.35,1,0,1
+258818,408,4,"Introduction to R Programming",100,"Practice exam",10,0.65,1,0,1
+258818,401,4,"Introduction to R Programming",67,"Practice exam",15,9,1,0,1
+258818,402,4,"Introduction to R Programming",100,"Practice exam",16,4.23,1,0,1
+258818,408,4,"Introduction to R Programming",50,"Practice exam",10,2.35,1,0,1
+258818,408,4,"Introduction to R Programming",100,"Practice exam",10,0.65,1,0,1
+258818,401,3,"The Complete Data Visualization Course with Python, R, Tableau, and Excel",67,"Practice exam",15,9,1,0,1
+258818,402,3,"The Complete Data Visualization Course with Python, R, Tableau, and Excel",100,"Practice exam",16,4.23,1,0,1
+258818,408,3,"The Complete Data Visualization Course with Python, R, Tableau, and Excel",50,"Practice exam",10,2.35,1,0,1
+258818,408,3,"The Complete Data Visualization Course with Python, R, Tableau, and Excel",100,"Practice exam",10,0.65,1,0,1
+258818,401,3,"The Complete Data Visualization Course with Python, R, Tableau, and Excel",67,"Practice exam",15,9,1,0,1
+258818,402,3,"The Complete Data Visualization Course with Python, R, Tableau, and Excel",100,"Practice exam",16,4.23,1,0,1
+258818,408,3,"The Complete Data Visualization Course with Python, R, Tableau, and Excel",50,"Practice exam",10,2.35,1,0,1
+258818,408,3,"The Complete Data Visualization Course with Python, R, Tableau, and Excel",100,"Practice exam",10,0.65,1,0,1
+258818,401,3,"The Complete Data Visualization Course with Python, R, Tableau, and Excel",67,"Practice exam",15,9,1,0,1
+258818,402,3,"The Complete Data Visualization Course with Python, R, Tableau, and Excel",100,"Practice exam",16,4.23,1,0,1
+258818,408,3,"The Complete Data Visualization Course with Python, R, Tableau, and Excel",50,"Practice exam",10,2.35,1,0,1
+258818,408,3,"The Complete Data Visualization Course with Python, R, Tableau, and Excel",100,"Practice exam",10,0.65,1,0,1
+258818,401,2,"Introduction to Tableau",67,"Practice exam",15,9,1,0,1
+258818,402,2,"Introduction to Tableau",100,"Practice exam",16,4.23,1,0,1
+258818,408,2,"Introduction to Tableau",50,"Practice exam",10,2.35,1,0,1
+258818,408,2,"Introduction to Tableau",100,"Practice exam",10,0.65,1,0,1
+258818,401,2,"Introduction to Tableau",67,"Practice exam",15,9,1,0,1
+258818,402,2,"Introduction to Tableau",100,"Practice exam",16,4.23,1,0,1
+258818,408,2,"Introduction to Tableau",50,"Practice exam",10,2.35,1,0,1
+258818,408,2,"Introduction to Tableau",100,"Practice exam",10,0.65,1,0,1
+258818,401,2,"Introduction to Tableau",67,"Practice exam",15,9,1,0,1
+258818,402,2,"Introduction to Tableau",100,"Practice exam",16,4.23,1,0,1
+258818,408,2,"Introduction to Tableau",50,"Practice exam",10,2.35,1,0,1
+258818,408,2,"Introduction to Tableau",100,"Practice exam",10,0.65,1,0,1
+258818,401,2,"Introduction to Tableau",67,"Practice exam",15,9,1,0,1
+258818,402,2,"Introduction to Tableau",100,"Practice exam",16,4.23,1,0,1
+258818,408,2,"Introduction to Tableau",50,"Practice exam",10,2.35,1,0,1
+258818,408,2,"Introduction to Tableau",100,"Practice exam",10,0.65,1,0,1
+258818,401,2,"Introduction to Tableau",67,"Practice exam",15,9,1,0,1
+258818,402,2,"Introduction to Tableau",100,"Practice exam",16,4.23,1,0,1
+258818,408,2,"Introduction to Tableau",50,"Practice exam",10,2.35,1,0,1
+258818,408,2,"Introduction to Tableau",100,"Practice exam",10,0.65,1,0,1
+258818,401,2,"Introduction to Tableau",67,"Practice exam",15,9,1,0,1
+258818,402,2,"Introduction to Tableau",100,"Practice exam",16,4.23,1,0,1
+258818,408,2,"Introduction to Tableau",50,"Practice exam",10,2.35,1,0,1
+258818,408,2,"Introduction to Tableau",100,"Practice exam",10,0.65,1,0,1
+258818,401,2,"Introduction to Tableau",67,"Practice exam",15,9,1,0,1
+258818,402,2,"Introduction to Tableau",100,"Practice exam",16,4.23,1,0,1
+258818,408,2,"Introduction to Tableau",50,"Practice exam",10,2.35,1,0,1
+258818,408,2,"Introduction to Tableau",100,"Practice exam",10,0.65,1,0,1
+258818,401,2,"Introduction to Tableau",67,"Practice exam",15,9,1,0,1
+258818,402,2,"Introduction to Tableau",100,"Practice exam",16,4.23,1,0,1
+258818,408,2,"Introduction to Tableau",50,"Practice exam",10,2.35,1,0,1
+258818,408,2,"Introduction to Tableau",100,"Practice exam",10,0.65,1,0,1
+258818,401,2,"Introduction to Tableau",67,"Practice exam",15,9,1,0,1
+258818,402,2,"Introduction to Tableau",100,"Practice exam",16,4.23,1,0,1
+258818,408,2,"Introduction to Tableau",50,"Practice exam",10,2.35,1,0,1
+258818,408,2,"Introduction to Tableau",100,"Practice exam",10,0.65,1,0,1
+258818,401,2,"Introduction to Tableau",67,"Practice exam",15,9,1,0,1
+258818,402,2,"Introduction to Tableau",100,"Practice exam",16,4.23,1,0,1
+258818,408,2,"Introduction to Tableau",50,"Practice exam",10,2.35,1,0,1
+258818,408,2,"Introduction to Tableau",100,"Practice exam",10,0.65,1,0,1
+258818,401,2,"Introduction to Tableau",67,"Practice exam",15,9,1,0,1
+258818,402,2,"Introduction to Tableau",100,"Practice exam",16,4.23,1,0,1
+258818,408,2,"Introduction to Tableau",50,"Practice exam",10,2.35,1,0,1
+258818,408,2,"Introduction to Tableau",100,"Practice exam",10,0.65,1,0,1
+258818,401,2,"Introduction to Tableau",67,"Practice exam",15,9,1,0,1
+258818,402,2,"Introduction to Tableau",100,"Practice exam",16,4.23,1,0,1
+258818,408,2,"Introduction to Tableau",50,"Practice exam",10,2.35,1,0,1
+258818,408,2,"Introduction to Tableau",100,"Practice exam",10,0.65,1,0,1
+258818,401,39,"Advanced Microsoft Excel",67,"Practice exam",15,9,1,0,1
+258818,402,39,"Advanced Microsoft Excel",100,"Practice exam",16,4.23,1,0,1
+258818,408,39,"Advanced Microsoft Excel",50,"Practice exam",10,2.35,1,0,1
+258818,408,39,"Advanced Microsoft Excel",100,"Practice exam",10,0.65,1,0,1
+258818,401,35,"Introduction to Python",67,"Practice exam",15,9,1,0,1
+258818,402,35,"Introduction to Python",100,"Practice exam",16,4.23,1,0,1
+258818,408,35,"Introduction to Python",50,"Practice exam",10,2.35,1,0,1
+258818,408,35,"Introduction to Python",100,"Practice exam",10,0.65,1,0,1
+258818,401,35,"Introduction to Python",67,"Practice exam",15,9,1,0,1
+258818,402,35,"Introduction to Python",100,"Practice exam",16,4.23,1,0,1
+258818,408,35,"Introduction to Python",50,"Practice exam",10,2.35,1,0,1
+258818,408,35,"Introduction to Python",100,"Practice exam",10,0.65,1,0,1
+258818,401,35,"Introduction to Python",67,"Practice exam",15,9,1,0,1
+258818,402,35,"Introduction to Python",100,"Practice exam",16,4.23,1,0,1
+258818,408,35,"Introduction to Python",50,"Practice exam",10,2.35,1,0,1
+258818,408,35,"Introduction to Python",100,"Practice exam",10,0.65,1,0,1
+258818,401,35,"Introduction to Python",67,"Practice exam",15,9,1,0,1
+258818,402,35,"Introduction to Python",100,"Practice exam",16,4.23,1,0,1
+258818,408,35,"Introduction to Python",50,"Practice exam",10,2.35,1,0,1
+258818,408,35,"Introduction to Python",100,"Practice exam",10,0.65,1,0,1
+258818,401,28,"Power BI",67,"Practice exam",15,9,1,0,1
+258818,402,28,"Power BI",100,"Practice exam",16,4.23,1,0,1
+258818,408,28,"Power BI",50,"Practice exam",10,2.35,1,0,1
+258818,408,28,"Power BI",100,"Practice exam",10,0.65,1,0,1
+258818,401,28,"Power BI",67,"Practice exam",15,9,1,0,1
+258818,402,28,"Power BI",100,"Practice exam",16,4.23,1,0,1
+258818,408,28,"Power BI",50,"Practice exam",10,2.35,1,0,1
+258818,408,28,"Power BI",100,"Practice exam",10,0.65,1,0,1
+258818,401,28,"Power BI",67,"Practice exam",15,9,1,0,1
+258818,402,28,"Power BI",100,"Practice exam",16,4.23,1,0,1
+258818,408,28,"Power BI",50,"Practice exam",10,2.35,1,0,1
+258818,408,28,"Power BI",100,"Practice exam",10,0.65,1,0,1
+258818,401,28,"Power BI",67,"Practice exam",15,9,1,0,1
+258818,402,28,"Power BI",100,"Practice exam",16,4.23,1,0,1
+258818,408,28,"Power BI",50,"Practice exam",10,2.35,1,0,1
+258818,408,28,"Power BI",100,"Practice exam",10,0.65,1,0,1
+258818,401,28,"Power BI",67,"Practice exam",15,9,1,0,1
+258818,402,28,"Power BI",100,"Practice exam",16,4.23,1,0,1
+258818,408,28,"Power BI",50,"Practice exam",10,2.35,1,0,1
+258818,408,28,"Power BI",100,"Practice exam",10,0.65,1,0,1
+258818,401,28,"Power BI",67,"Practice exam",15,9,1,0,1
+258818,402,28,"Power BI",100,"Practice exam",16,4.23,1,0,1
+258818,408,28,"Power BI",50,"Practice exam",10,2.35,1,0,1
+258818,408,28,"Power BI",100,"Practice exam",10,0.65,1,0,1
+258818,401,28,"Power BI",67,"Practice exam",15,9,1,0,1
+258818,402,28,"Power BI",100,"Practice exam",16,4.23,1,0,1
+258818,408,28,"Power BI",50,"Practice exam",10,2.35,1,0,1
+258818,408,28,"Power BI",100,"Practice exam",10,0.65,1,0,1
+258818,401,28,"Power BI",67,"Practice exam",15,9,1,0,1
+258818,402,28,"Power BI",100,"Practice exam",16,4.23,1,0,1
+258818,408,28,"Power BI",50,"Practice exam",10,2.35,1,0,1
+258818,408,28,"Power BI",100,"Practice exam",10,0.65,1,0,1
+258818,401,23,"Introduction to Excel",67,"Practice exam",15,9,1,0,1
+258818,402,23,"Introduction to Excel",100,"Practice exam",16,4.23,1,0,1
+258818,408,23,"Introduction to Excel",50,"Practice exam",10,2.35,1,0,1
+258818,408,23,"Introduction to Excel",100,"Practice exam",10,0.65,1,0,1
+258818,401,22,Mathematics,67,"Practice exam",15,9,1,0,1
+258818,402,22,Mathematics,100,"Practice exam",16,4.23,1,0,1
+258818,408,22,Mathematics,50,"Practice exam",10,2.35,1,0,1
+258818,408,22,Mathematics,100,"Practice exam",10,0.65,1,0,1
+258818,401,21,Statistics,67,"Practice exam",15,9,1,0,1
+258818,402,21,Statistics,100,"Practice exam",16,4.23,1,0,1
+258818,408,21,Statistics,50,"Practice exam",10,2.35,1,0,1
+258818,408,21,Statistics,100,"Practice exam",10,0.65,1,0,1
+258818,401,19,"SQL + Tableau + Python",67,"Practice exam",15,9,1,0,1
+258818,402,19,"SQL + Tableau + Python",100,"Practice exam",16,4.23,1,0,1
+258818,408,19,"SQL + Tableau + Python",50,"Practice exam",10,2.35,1,0,1
+258818,408,19,"SQL + Tableau + Python",100,"Practice exam",10,0.65,1,0,1
+258818,401,19,"SQL + Tableau + Python",67,"Practice exam",15,9,1,0,1
+258818,402,19,"SQL + Tableau + Python",100,"Practice exam",16,4.23,1,0,1
+258818,408,19,"SQL + Tableau + Python",50,"Practice exam",10,2.35,1,0,1
+258818,408,19,"SQL + Tableau + Python",100,"Practice exam",10,0.65,1,0,1
+258818,401,19,"SQL + Tableau + Python",67,"Practice exam",15,9,1,0,1
+258818,402,19,"SQL + Tableau + Python",100,"Practice exam",16,4.23,1,0,1
+258818,408,19,"SQL + Tableau + Python",50,"Practice exam",10,2.35,1,0,1
+258818,408,19,"SQL + Tableau + Python",100,"Practice exam",10,0.65,1,0,1
+258818,401,16,"Python Programmer Bootcamp",67,"Practice exam",15,9,1,0,1
+258818,402,16,"Python Programmer Bootcamp",100,"Practice exam",16,4.23,1,0,1
+258818,408,16,"Python Programmer Bootcamp",50,"Practice exam",10,2.35,1,0,1
+258818,408,16,"Python Programmer Bootcamp",100,"Practice exam",10,0.65,1,0,1
+258818,401,14,SQL,67,"Practice exam",15,9,1,0,1
+258818,402,14,SQL,100,"Practice exam",16,4.23,1,0,1
+258818,408,14,SQL,50,"Practice exam",10,2.35,1,0,1
+258818,408,14,SQL,100,"Practice exam",10,0.65,1,0,1
+258818,401,14,SQL,67,"Practice exam",15,9,1,0,1
+258818,402,14,SQL,100,"Practice exam",16,4.23,1,0,1
+258818,408,14,SQL,50,"Practice exam",10,2.35,1,0,1
+258818,408,14,SQL,100,"Practice exam",10,0.65,1,0,1
+258818,401,14,SQL,67,"Practice exam",15,9,1,0,1
+258818,402,14,SQL,100,"Practice exam",16,4.23,1,0,1
+258818,408,14,SQL,50,"Practice exam",10,2.35,1,0,1
+258818,408,14,SQL,100,"Practice exam",10,0.65,1,0,1
+258818,401,14,SQL,67,"Practice exam",15,9,1,0,1
+258818,402,14,SQL,100,"Practice exam",16,4.23,1,0,1
+258818,408,14,SQL,50,"Practice exam",10,2.35,1,0,1
+258818,408,14,SQL,100,"Practice exam",10,0.65,1,0,1
+258818,401,14,SQL,67,"Practice exam",15,9,1,0,1
+258818,402,14,SQL,100,"Practice exam",16,4.23,1,0,1
+258818,408,14,SQL,50,"Practice exam",10,2.35,1,0,1
+258818,408,14,SQL,100,"Practice exam",10,0.65,1,0,1
+258818,401,14,SQL,67,"Practice exam",15,9,1,0,1
+258818,402,14,SQL,100,"Practice exam",16,4.23,1,0,1
+258818,408,14,SQL,50,"Practice exam",10,2.35,1,0,1
+258818,408,14,SQL,100,"Practice exam",10,0.65,1,0,1
+258818,401,14,SQL,67,"Practice exam",15,9,1,0,1
+258818,402,14,SQL,100,"Practice exam",16,4.23,1,0,1
+258818,408,14,SQL,50,"Practice exam",10,2.35,1,0,1
+258818,408,14,SQL,100,"Practice exam",10,0.65,1,0,1
+258818,401,14,SQL,67,"Practice exam",15,9,1,0,1
+258818,402,14,SQL,100,"Practice exam",16,4.23,1,0,1
+258818,408,14,SQL,50,"Practice exam",10,2.35,1,0,1
+258818,408,14,SQL,100,"Practice exam",10,0.65,1,0,1
+258818,401,14,SQL,67,"Practice exam",15,9,1,0,1
+258818,402,14,SQL,100,"Practice exam",16,4.23,1,0,1
+258818,408,14,SQL,50,"Practice exam",10,2.35,1,0,1
+258818,408,14,SQL,100,"Practice exam",10,0.65,1,0,1
+258818,401,14,SQL,67,"Practice exam",15,9,1,0,1
+258818,402,14,SQL,100,"Practice exam",16,4.23,1,0,1
+258818,408,14,SQL,50,"Practice exam",10,2.35,1,0,1
+258818,408,14,SQL,100,"Practice exam",10,0.65,1,0,1
+258818,401,14,SQL,67,"Practice exam",15,9,1,0,1
+258818,402,14,SQL,100,"Practice exam",16,4.23,1,0,1
+258818,408,14,SQL,50,"Practice exam",10,2.35,1,0,1
+258818,408,14,SQL,100,"Practice exam",10,0.65,1,0,1
+258818,401,14,SQL,67,"Practice exam",15,9,1,0,1
+258818,402,14,SQL,100,"Practice exam",16,4.23,1,0,1
+258818,408,14,SQL,50,"Practice exam",10,2.35,1,0,1
+258818,408,14,SQL,100,"Practice exam",10,0.65,1,0,1
+258818,401,14,SQL,67,"Practice exam",15,9,1,0,1
+258818,402,14,SQL,100,"Practice exam",16,4.23,1,0,1
+258818,408,14,SQL,50,"Practice exam",10,2.35,1,0,1
+258818,408,14,SQL,100,"Practice exam",10,0.65,1,0,1
+258818,401,14,SQL,67,"Practice exam",15,9,1,0,1
+258818,402,14,SQL,100,"Practice exam",16,4.23,1,0,1
+258818,408,14,SQL,50,"Practice exam",10,2.35,1,0,1
+258818,408,14,SQL,100,"Practice exam",10,0.65,1,0,1
+258818,401,14,SQL,67,"Practice exam",15,9,1,0,1
+258818,402,14,SQL,100,"Practice exam",16,4.23,1,0,1
+258818,408,14,SQL,50,"Practice exam",10,2.35,1,0,1
+258818,408,14,SQL,100,"Practice exam",10,0.65,1,0,1
+258818,401,14,SQL,67,"Practice exam",15,9,1,0,1
+258818,402,14,SQL,100,"Practice exam",16,4.23,1,0,1
+258818,408,14,SQL,50,"Practice exam",10,2.35,1,0,1
+258818,408,14,SQL,100,"Practice exam",10,0.65,1,0,1
+258818,401,14,SQL,67,"Practice exam",15,9,1,0,1
+258818,402,14,SQL,100,"Practice exam",16,4.23,1,0,1
+258818,408,14,SQL,50,"Practice exam",10,2.35,1,0,1
+258818,408,14,SQL,100,"Practice exam",10,0.65,1,0,1
+258818,401,14,SQL,67,"Practice exam",15,9,1,0,1
+258818,402,14,SQL,100,"Practice exam",16,4.23,1,0,1
+258818,408,14,SQL,50,"Practice exam",10,2.35,1,0,1
+258818,408,14,SQL,100,"Practice exam",10,0.65,1,0,1
+258818,401,14,SQL,67,"Practice exam",15,9,1,0,1
+258818,402,14,SQL,100,"Practice exam",16,4.23,1,0,1
+258818,408,14,SQL,50,"Practice exam",10,2.35,1,0,1
+258818,408,14,SQL,100,"Practice exam",10,0.65,1,0,1
+258818,401,14,SQL,67,"Practice exam",15,9,1,0,1
+258818,402,14,SQL,100,"Practice exam",16,4.23,1,0,1
+258818,408,14,SQL,50,"Practice exam",10,2.35,1,0,1
+258818,408,14,SQL,100,"Practice exam",10,0.65,1,0,1
+258818,401,14,SQL,67,"Practice exam",15,9,1,0,1
+258818,402,14,SQL,100,"Practice exam",16,4.23,1,0,1
+258818,408,14,SQL,50,"Practice exam",10,2.35,1,0,1
+258818,408,14,SQL,100,"Practice exam",10,0.65,1,0,1
+258818,401,14,SQL,67,"Practice exam",15,9,1,0,1
+258818,402,14,SQL,100,"Practice exam",16,4.23,1,0,1
+258818,408,14,SQL,50,"Practice exam",10,2.35,1,0,1
+258818,408,14,SQL,100,"Practice exam",10,0.65,1,0,1
+258818,401,14,SQL,67,"Practice exam",15,9,1,0,1
+258818,402,14,SQL,100,"Practice exam",16,4.23,1,0,1
+258818,408,14,SQL,50,"Practice exam",10,2.35,1,0,1
+258818,408,14,SQL,100,"Practice exam",10,0.65,1,0,1
+258818,401,14,SQL,67,"Practice exam",15,9,1,0,1
+258818,402,14,SQL,100,"Practice exam",16,4.23,1,0,1
+258818,408,14,SQL,50,"Practice exam",10,2.35,1,0,1
+258818,408,14,SQL,100,"Practice exam",10,0.65,1,0,1
+258818,401,14,SQL,67,"Practice exam",15,9,1,0,1
+258818,402,14,SQL,100,"Practice exam",16,4.23,1,0,1
+258818,408,14,SQL,50,"Practice exam",10,2.35,1,0,1
+258818,408,14,SQL,100,"Practice exam",10,0.65,1,0,1
+258818,401,14,SQL,67,"Practice exam",15,9,1,0,1
+258818,402,14,SQL,100,"Practice exam",16,4.23,1,0,1
+258818,408,14,SQL,50,"Practice exam",10,2.35,1,0,1
+258818,408,14,SQL,100,"Practice exam",10,0.65,1,0,1
+258818,401,14,SQL,67,"Practice exam",15,9,1,0,1
+258818,402,14,SQL,100,"Practice exam",16,4.23,1,0,1
+258818,408,14,SQL,50,"Practice exam",10,2.35,1,0,1
+258818,408,14,SQL,100,"Practice exam",10,0.65,1,0,1
+258818,401,14,SQL,67,"Practice exam",15,9,1,0,1
+258818,402,14,SQL,100,"Practice exam",16,4.23,1,0,1
+258818,408,14,SQL,50,"Practice exam",10,2.35,1,0,1
+258818,408,14,SQL,100,"Practice exam",10,0.65,1,0,1
+258818,401,14,SQL,67,"Practice exam",15,9,1,0,1
+258818,402,14,SQL,100,"Practice exam",16,4.23,1,0,1
+258818,408,14,SQL,50,"Practice exam",10,2.35,1,0,1
+258818,408,14,SQL,100,"Practice exam",10,0.65,1,0,1
+258818,401,13,"Data Analysis with Excel Pivot Tables",67,"Practice exam",15,9,1,0,1
+258818,402,13,"Data Analysis with Excel Pivot Tables",100,"Practice exam",16,4.23,1,0,1
+258818,408,13,"Data Analysis with Excel Pivot Tables",50,"Practice exam",10,2.35,1,0,1
+258818,408,13,"Data Analysis with Excel Pivot Tables",100,"Practice exam",10,0.65,1,0,1
+258818,401,13,"Data Analysis with Excel Pivot Tables",67,"Practice exam",15,9,1,0,1
+258818,402,13,"Data Analysis with Excel Pivot Tables",100,"Practice exam",16,4.23,1,0,1
+258818,408,13,"Data Analysis with Excel Pivot Tables",50,"Practice exam",10,2.35,1,0,1
+258818,408,13,"Data Analysis with Excel Pivot Tables",100,"Practice exam",10,0.65,1,0,1
+258818,401,4,"Introduction to R Programming",67,"Practice exam",15,9,1,0,1
+258818,402,4,"Introduction to R Programming",100,"Practice exam",16,4.23,1,0,1
+258818,408,4,"Introduction to R Programming",50,"Practice exam",10,2.35,1,0,1
+258818,408,4,"Introduction to R Programming",100,"Practice exam",10,0.65,1,0,1
+258818,401,4,"Introduction to R Programming",67,"Practice exam",15,9,1,0,1
+258818,402,4,"Introduction to R Programming",100,"Practice exam",16,4.23,1,0,1
+258818,408,4,"Introduction to R Programming",50,"Practice exam",10,2.35,1,0,1
+258818,408,4,"Introduction to R Programming",100,"Practice exam",10,0.65,1,0,1
+258818,401,4,"Introduction to R Programming",67,"Practice exam",15,9,1,0,1
+258818,402,4,"Introduction to R Programming",100,"Practice exam",16,4.23,1,0,1
+258818,408,4,"Introduction to R Programming",50,"Practice exam",10,2.35,1,0,1
+258818,408,4,"Introduction to R Programming",100,"Practice exam",10,0.65,1,0,1
+258818,401,4,"Introduction to R Programming",67,"Practice exam",15,9,1,0,1
+258818,402,4,"Introduction to R Programming",100,"Practice exam",16,4.23,1,0,1
+258818,408,4,"Introduction to R Programming",50,"Practice exam",10,2.35,1,0,1
+258818,408,4,"Introduction to R Programming",100,"Practice exam",10,0.65,1,0,1
+258818,401,4,"Introduction to R Programming",67,"Practice exam",15,9,1,0,1
+258818,402,4,"Introduction to R Programming",100,"Practice exam",16,4.23,1,0,1
+258818,408,4,"Introduction to R Programming",50,"Practice exam",10,2.35,1,0,1
+258818,408,4,"Introduction to R Programming",100,"Practice exam",10,0.65,1,0,1
+258818,401,4,"Introduction to R Programming",67,"Practice exam",15,9,1,0,1
+258818,402,4,"Introduction to R Programming",100,"Practice exam",16,4.23,1,0,1
+258818,408,4,"Introduction to R Programming",50,"Practice exam",10,2.35,1,0,1
+258818,408,4,"Introduction to R Programming",100,"Practice exam",10,0.65,1,0,1
+258818,401,4,"Introduction to R Programming",67,"Practice exam",15,9,1,0,1
+258818,402,4,"Introduction to R Programming",100,"Practice exam",16,4.23,1,0,1
+258818,408,4,"Introduction to R Programming",50,"Practice exam",10,2.35,1,0,1
+258818,408,4,"Introduction to R Programming",100,"Practice exam",10,0.65,1,0,1
+258818,401,4,"Introduction to R Programming",67,"Practice exam",15,9,1,0,1
+258818,402,4,"Introduction to R Programming",100,"Practice exam",16,4.23,1,0,1
+258818,408,4,"Introduction to R Programming",50,"Practice exam",10,2.35,1,0,1
+258818,408,4,"Introduction to R Programming",100,"Practice exam",10,0.65,1,0,1
+258818,401,4,"Introduction to R Programming",67,"Practice exam",15,9,1,0,1
+258818,402,4,"Introduction to R Programming",100,"Practice exam",16,4.23,1,0,1
+258818,408,4,"Introduction to R Programming",50,"Practice exam",10,2.35,1,0,1
+258818,408,4,"Introduction to R Programming",100,"Practice exam",10,0.65,1,0,1
+258818,401,4,"Introduction to R Programming",67,"Practice exam",15,9,1,0,1
+258818,402,4,"Introduction to R Programming",100,"Practice exam",16,4.23,1,0,1
+258818,408,4,"Introduction to R Programming",50,"Practice exam",10,2.35,1,0,1
+258818,408,4,"Introduction to R Programming",100,"Practice exam",10,0.65,1,0,1
+258818,401,4,"Introduction to R Programming",67,"Practice exam",15,9,1,0,1
+258818,402,4,"Introduction to R Programming",100,"Practice exam",16,4.23,1,0,1
+258818,408,4,"Introduction to R Programming",50,"Practice exam",10,2.35,1,0,1
+258818,408,4,"Introduction to R Programming",100,"Practice exam",10,0.65,1,0,1
+258818,401,3,"The Complete Data Visualization Course with Python, R, Tableau, and Excel",67,"Practice exam",15,9,1,0,1
+258818,402,3,"The Complete Data Visualization Course with Python, R, Tableau, and Excel",100,"Practice exam",16,4.23,1,0,1
+258818,408,3,"The Complete Data Visualization Course with Python, R, Tableau, and Excel",50,"Practice exam",10,2.35,1,0,1
+258818,408,3,"The Complete Data Visualization Course with Python, R, Tableau, and Excel",100,"Practice exam",10,0.65,1,0,1
+258818,401,3,"The Complete Data Visualization Course with Python, R, Tableau, and Excel",67,"Practice exam",15,9,1,0,1
+258818,402,3,"The Complete Data Visualization Course with Python, R, Tableau, and Excel",100,"Practice exam",16,4.23,1,0,1
+258818,408,3,"The Complete Data Visualization Course with Python, R, Tableau, and Excel",50,"Practice exam",10,2.35,1,0,1
+258818,408,3,"The Complete Data Visualization Course with Python, R, Tableau, and Excel",100,"Practice exam",10,0.65,1,0,1
+258818,401,3,"The Complete Data Visualization Course with Python, R, Tableau, and Excel",67,"Practice exam",15,9,1,0,1
+258818,402,3,"The Complete Data Visualization Course with Python, R, Tableau, and Excel",100,"Practice exam",16,4.23,1,0,1
+258818,408,3,"The Complete Data Visualization Course with Python, R, Tableau, and Excel",50,"Practice exam",10,2.35,1,0,1
+258818,408,3,"The Complete Data Visualization Course with Python, R, Tableau, and Excel",100,"Practice exam",10,0.65,1,0,1
+258818,401,2,"Introduction to Tableau",67,"Practice exam",15,9,1,0,1
+258818,402,2,"Introduction to Tableau",100,"Practice exam",16,4.23,1,0,1
+258818,408,2,"Introduction to Tableau",50,"Practice exam",10,2.35,1,0,1
+258818,408,2,"Introduction to Tableau",100,"Practice exam",10,0.65,1,0,1
+258818,401,2,"Introduction to Tableau",67,"Practice exam",15,9,1,0,1
+258818,402,2,"Introduction to Tableau",100,"Practice exam",16,4.23,1,0,1
+258818,408,2,"Introduction to Tableau",50,"Practice exam",10,2.35,1,0,1
+258818,408,2,"Introduction to Tableau",100,"Practice exam",10,0.65,1,0,1
+258818,401,2,"Introduction to Tableau",67,"Practice exam",15,9,1,0,1
+258818,402,2,"Introduction to Tableau",100,"Practice exam",16,4.23,1,0,1
